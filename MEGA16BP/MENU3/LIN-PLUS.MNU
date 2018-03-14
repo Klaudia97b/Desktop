@@ -1,0 +1,153 @@
+GoMenu
+DEF:InterP .\CIP\pomoc.mtl\lin-kwab.cip
+HLP:Kwadrat = bok|Kwadrat zdefiniowany przez dˆugo˜† jego boku
+B16:?????????Ÿœz¶­œz¶Mz¶­œz¶­\?¶Wžz¶M²z?Wr¥‹Xr¥‹@›¢»­œz‹®@w¶­œz¶­œB¯­œŠXnzF?
+B16:¯­œ{¶qzFŸœŠ¶­œ{¶MzV®œz¸­\?¶mz¶±œz?­œŠ¶m¥z¶?›z¶q¥z¸­@w¶­œz¶­œB??????????
+B24:¶­œz¶­œz¶­œz¶­@???????????z¯­œz¶­œz¶­œz¯M›z¶­œz¶­œz¶M›B¶­œz¶­œz¶­œB¶Ÿœz¶­œz¶­œz¶Ÿ@
+B24:F­œz¶­œz¶­œzF­€z‹¸œz¶­œ¢‹®€zXr¥‹Xr¥‹Xr¥¯M›¢‹®œz¶­\¥»M›B¶­œz¶­œz¶­œB¶Ÿœz¶­œz¶­œz¶Ÿ@
+B24:F­œz¶­œz¶­œzF­€z¶­œz¶­œz¶­€z¯­œzVr{¶­œz¯M›z¶mzX®œz¶M›B¶­œ{¶­¤z¶­œB¶ŸœzV®œz¸­œz¶Ÿ@
+B24:F­œz¸­œŠ¶­œzF­€z¶­¤zV²œz¶­€z¯­œzVrŠ¶­œz¯M›z¶­œz¶­œz¶M›B????????????¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\lin-kwao.cip
+HLP:Kwadrat = obw¢d|Kwadrat zdefiniowany przez jego obw¢d
+B16:?????????Ÿœz¶­œz¶Mz¶­œz¶­\?¶­œz¶­œz?­œz¶­œz¶?›zXr‹¸­@w¶±œŠ¶mB¯­¤zV®œ{F?
+B16:¯­¤zV®œ{FŸœŠ¶mz¸MzV®œ{¶±\?¶­œz¶­œz?­œz¶­œz¶?›z¶­œz¶­@w¶­œz¶­œB??????????
+B24:¶­œz¶­œz¶­œz¶­@???????????z¯­œz¶­œz¶­œz¯M›z¶­œz¶­œz¶M›B¶­œz¶­œz¶­œB¶Ÿœz¶­œz¶­œz¶Ÿ@
+B24:F­œz¶­œz¶­œzF­€z¶­œz¶­œz¶­€z¯­œz¶­œz¶­œz¯M›z¶m¥‹Vrz¶M›B¶­œŠ¶mz¸­œB¶Ÿœz¶±œŠ¶mz¶Ÿ@
+B24:F­œzV®œ{¶±œzF­€z¶­¤zV®œ{¶­€z¯­œz¸­¤zV®œz¯M›z¶­œz¶­œz¶M›B¶­œz¶­œz¶­œB¶Ÿœz¶­œz¶­œz¶Ÿ@
+B24:F­œz¶­œz¶­œzF­€z¶­œz¶­œz¶­€z¯­œz¶­œz¶­œz¯M›z¶­œz¶­œz¶M›B????????????¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\lin-kwap.cip
+HLP:Kwadrat = pole|Kwadrat zdefiniowany przez jego pole powierzchni
+B16:?????????Ÿœz¶­œz¶Mz¶­œzV²\?¶­œz¶±œ{?­œz¶­¤z¸?›z¶­œzV®@w¶­œz¶±œB¯­œz¶mzF?
+B16:¯q¥Š¸m¥‹FŸ¤z¸mz¶MŠ¶±œ{¶­\?V®¤z¸­œz?mŠ¶±œz¶?›{V®¤z¶­@w¶­œz¶­œB??????????
+B24:¶­œz¶­œz¶­œz¶­@???????????z¯­œz¶­œz¶­œz¯M›z¶­œz¶­œz¶M›B¶­œz¶­œz¶­œB¶Ÿœz¶­œz¶m¥z¶Ÿ@
+B24:F­œz¶­œzV®¤zF­€z¶­œz¶­¤z¸­€z¯­œz¶­œz¶±œz¯M›z¶­œz¶­¤z¶M›B¶­œz¶­œŠ¶­œB¶ŸœŠX²¤‹¶q¥{¶Ÿ@
+B24:F­œ{¶±œŠ¶­œzF­€zV®œ{¶±œz¶­€z¯­¤zV®œ{¶­œz¯M›z¸­¤zV®œz¶M›B¶mz¸­¤z¶­œB¶Ÿœz¶­œz¶­œz¶Ÿ@
+B24:F­œz¶­œz¶­œzF­€z¶­œz¶­œz¶­€z¯­œz¶­œz¶­œz¯M›z¶­œz¶­œz¶M›B????????????¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\lin-trio.cip
+HLP:Tr¢jk¥t = obw¢d|Tr¢jkat zdefiniowany przez jego obw¢d
+B16:¶­€z¶­œz¶­œB¶­œz¶­œz¯Ÿœz¶­œz¶Ÿ€z¶­œz¶M›z¯­œz¶­\w¶Ÿœz¶­œB¶­\w¶­œzF­œz¯­œz¶?
+B16:?????­œz¶­œz¶­œz¶­œz¶­œ‹¸qz¶­œz¸mŠ¶­œz¶±œ{V®œz¶­¤z¸mz¶­œŠ¶±œ{¶­œzV®¤z¸?
+B24:¶­œzF­œz¶­œz¶­œz¶M[w¶­œz¶­œz¶­œBF­œz¶­œz¶­œzF­\w¶­œz¶­œz¶­€zF­œz¶­œz¶­œB¶­\w¶­œz¶­@
+B24:¶­\w¶­€z¶­œz¶­œz¯­œzF­œz¶­œz¶M›z¶­€z¶­œz¶­\w¶­œzF­œz¶­œzF­œz¶­€z¶­œz¶M›z¶­œzF­œz¶­@
+B24:¶Ÿœz¶­œz¯­œz¶­€z¶­œz¶­€z¶­œz????????¯­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œŠX²¤‹¶­@
+B24:¶­œz¶­œ{¶±œŠ¶­œz¶­œzV®œ{¶±œz¶­œz¶­¤zV®œ{¶­œz¶­œz¸­¤zV®œz¶­œz¶mz¸­¤z¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\lin-trip.cip
+HLP:Tr¢jk¥t = pole|Tr¢jk¥t zdefiniowany przez jego pole powierzchni
+B16:¶­€z¶­œz¶­œB¶­œz¶­œz¯Ÿœz¶­œz¶Ÿ€z¶­œz¶M›z¯­œzX®\w¶ŸœzV®¤B¶­\w¶mŠF­œz¯­œz¸?
+B16:?????­œŠ¶­œz¶­œz¸­œzVr‹¶q¥{¶mŠ¶±œz¶­œ{V®¤z¶­œz¸mŠ¶­œz¶±œ{V®œz¶­¤z¸mz¶?
+B24:¶­œzF­œz¶­œz¶­œz¶M[w¶­œz¶­œz¶­œBF­œz¶­œz¶­œzF­\w¶­œz¶­œz¶­€zF­œz¶­œz¶­œB¶­\w¶­œz¶­@
+B24:¶­\w¶­€z¶­œz¶­œz¯­œzF­œz¶­œz¶M›z¶­€z¶­œz¶­\w¶­œzF­œz¶­œzF­œz¶­€z¶­œz¶M›z¶­œzF­œzX®@
+B24:¶Ÿœz¶­œz¯­œ{V®€z¶­œz¶­€zV®¤z????????¯­œŠ¶­œz¶­œz¶­œzV®œz¶­œz¶­œz¶mz¶­œz¶m¥‹VrŠX²@
+B24:¶­œz¶±œŠ¶mz¶­œz¶­œ{¶±œŠ¶­œz¶­œzV®œ{¶±œz¶­œz¶­¤zV®œ{¶­œz¶­œz¸­¤zV®œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\lin-spad.cip
+HLP:Linia ze spadkiem|Linia okre˜lona spadkiem
+B16:¶­œz¶qz¶m¥{V®¤{V®œ{¶±¤z¶±œzX®¤Š¶mz¶­¤ŠV®¤z¶­¤ŠVn{V²œz¸­¤z¶m¥z¶­œz¶­œz¶?
+B16:¶­œz¶·œB¯­œz»WžB¯­œz†XžB¯­œz¶WžB¯­œz¶MžB¯­œz¶­œB¯­œz¶­œB¯­œz¶­œz¯­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶m¥z¶­œzVr¥zX²œ{V®œ{¶­¤z¶±œŠV®¤z¸­œz¸­œ{¶±œ‹¶±œz¶m¥{V®œ{¶­¤z¶­@
+B24:¶­œ{¸­¤z¶±œz¶­œzVnz¸­¤zX®œzV®¤Š¶mŠ¶±œ{¶­œ‹¶m¥{V®œ{V®œz¶­œz¶­œz¶qz¶­œz¶­œz¶­œz¶­@
+B24:¶­œz¶­œz†¸œzFŸœz¶­œz¶Wžz¶?›z¶­œz»M²z¶Mz¶­œz¶Wr}¶­@w¶­œz¶­p¥¶­\?¶­œz¶­œ¢»­œB¯­œz¶­@
+B24:¶­°z¶Mz¶­œz¶­œz¶­@w¶­œz¶­œz¶­\?¶­œz¶­œz¶­œB¯­œz¶­œz¶­œz?­œz¶­œz¶­œzFŸœz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\lin-katl.cip
+HLP:Linia pod k¥tem|Linie pod k¥tem do wskazanej
+B16:¶­œz¶­œz¶­œzF­\w¶­œz¶ŸœB¶­œz¶­€zF­œz¶­\w¶Ÿœz¶­œz¯­€z¯MžzF­œz¶?²z¶M›z¶M¯z¶?
+B16:¶Ÿœz¶W›z¶­€z¶W‚z¶Ÿ\w¶MžB¶M›z¶M²z¯­\w¶­°z¶ŸœB¶­p}¶­œzF­\}¶­œz¶Ÿœz¶­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œB¶­\w¶­œz¶­œz¶ŸœzF­œz¶­œz¶­€z¶M›z¶­œz¶­œz¯­œB¶­œz¶­œz¶ŸœzF­œz¶­@
+B24:¶­œzF­œz¯­œz¶­œz¶M›z¶Ÿœz¶­œz¶­œB¶­\w¶­œz¶­œzF­œz¯­\w¶­°z¶­€z¶M›zF­\¥¶­œB¶­œz¶M›¢»­@
+B24:¶­\w¶­œz¶Ÿ°z¶­œz¯­œz¶­@¥¶­œz¶M›z¶­œ¢¯­œz¶­\w¶­œz† œz¶ŸœzF­œz¶W^w¶­\w¶M›z¶­°z¯­œz¯­@
+B24:¶Ÿœz†¸œB¶­œB¶­œz¶WžzF­œzF­œz¶­°z¶­€z¶­€z¶­\¥¶­œz¶­œB¶­œ¢»­œz¶­œz¶Ÿœz†®œz¶­œz¶­€z¶­@
+DEF:InterP .\CIP\pomoc.mtl\lin-perp.cip
+HLP:Linie prostopadˆe|Linie prostopadˆe do wskazanej
+B16:¶­œz¶­œz¶­œz¶­€z¶­œB¶­œz¯­œz¶Ÿœz¶M›z¶­\w¶­œB¶­œzF­œ¢¶Ÿœz¶­€z»­œz¶­œz†®œz¶?
+B16:¯­œz»­€z¶M›z†®œz¯­œB¶·œz¶M›z¶Mžz¶­œB¶­°z¶Ÿœz¶Ÿ\}¶­\w¶­œ¢¶­œzF­œz»­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶Ÿœz¶­œz¯­œz¶­œB¶­œz¶­€z¶­œz¶M›z¶­œzF­œz¶­œz¯­œz¶­\w¶­œz¶­€z¶­@
+B24:¶­\w¶­œz¶­€z¶­œz¶Ÿœz¶­œzF­œz¶­œB¶­œz¶­\w¶­œz¶M›z¶Mžz¶Ÿœz¶­œz¯­\}¶­œz¶­œz¶­œz»­œz¶­@
+B24:¶­œz¶­\}¶Ÿœz¶M›z¶­œz»­œB¶­œz¯­œz¶·œz¶M›z¶­€z¶­°z¶­œz¯­œzF­œ¢¶­œz¶­€z¶­\w†®€z¶­œzF­@
+B24:¶­œ¢¶­€z¶­œzF­œz†®œzF­œz¶­\w¶Mžz¶­\w¶­œz¶­\}¶­œz¶Ÿœz¶­œz»­œz¶­œB¶­œz¶·œz¶­œz¶M›z¶­@
+DEF:InterP .\CIP\pomoc.mtl\lin-rown.cip
+HLP:Linie r¢wnolegˆe|Linie r¢wnolegˆe do wskazanej
+B16:¶­\w¶­œz†®œB¶­œz¶·œz¯­œz¶MžzF­œz¶­°z¶­œz¶­\}¶­œz¶Ÿœ¢¶­€z¶M›z»­\w¶­€z†®œB¶?
+B16:¶M›z»­\w¶­€z†®œB¶­\w¶·œz¯­\?¶MžzF­œB¶­°z¶ŸœB¶­\}¶M›z¯­œ¢¶­€z¶­œz»­\w¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œB¶­œz¶­œz¶­œzF­œz¶­œz¶­œz¶M›z¶­œz¶­œz¶­\w¶­œz¶­œz¶­œz¯­œz¶­œ¢¶­@
+B24:¶­\w¶­œz¶­°z¶­œz¯­œz¶­œ¢¶­œz¶­œz¶­œz†®œz¶­œz¶­œz¶Mžz¶­œz¶­œz¶­\}¶M›z¶­œz¶Ÿœz»­\w¶­@
+B24:¶­œz¯­\}¶M›z¶Ÿœz¶Ÿœz»­\w¶­€z¶­€z¶·œz¯­œB¶­œB¶­°z¶ŸœzF­œzF­œ¢¶­€z¶M›z¶M›z†®œB¶­\w¶­@
+B24:F­œ¢¶­€z¶M›z¶M›z†®œB¶­\w¶­œz¶MžzF­œz¯­œz¶­\}¶M›z¶­œz¶­œz»­\w¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\lin-orto.cip
+HLP:Linie ortogonalne|Linie wzajemnie prostopadˆe (pierwsza dowolna)
+B16:¶­\w¶­œz¶­œBF­œz¶­œz¯­€z¶­œzF­œz¯­œz¶Ÿœz¶M›z¶­\w¶­œB¶­œzF­œz¶Ÿœz¶­€z¶­\w¶?
+B16:¶­\w¶­œB¶­œz¶­œz¶Ÿœz¶­œz¶M›z¶M›z¶­€z¶­€B¶­\w¶­\w¶ŸœB¶­œB¶­\w¯­œz¯­œzF­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œzFŸœz¶­œz¶­œz¶­€B¯­œz¶­œz¶­œB¶­@w¶­œz¶­œz¶Ÿœz¶?›z¶­œz¶­€z¶­œz?­œz¶­@
+B24:¶M›z¶­œzFŸœz¶­\w¶­œz¶­œB¯­œzFŸœz¶­œz¶­@w¶­œB¯­œz¶­œz¶?›z¶­@w¶­œz¶­œB¶­œz¶?›z¶­œzF­@
+B24:¶­œz¶­œz¶­œz¯­œz¶­œz¶­œz¶Ÿœz¶­\?¶­œz¶­\w¶­œzFMz¶­œz¯­œz¶M›zFŸœz¶M›z¶­œB¶­œB¯­\w¶­@
+B24:¶­€z¶­œz?­€z¶­œz¯­œz¶­\?¶­œz¶Ÿœz¶­œz¶­œz¶­\w¶­œz¶­œz¶­œz¯­œz¶­œz¶­œz¶M›z¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\lin-sty.cip
+HLP:Styczna do ˆuku|Linia styczna do ˆuku zaczepiona na jego koäcu
+B16:¶­œz¶?›z¶­œz¶?›z¶­œz¶?›z¶­œz¶?›z¶­œz¶Mžz¶­œz¶­\}¶­œz¶­œ¢¶­œz¶­œz†®œz¶­œz¶?
+B16:†®œz¶­œz¶­°z¶­œz¶­œz»­œz¶­œz¶M‚z¶­œz¶­œz?­œz¶­œz¶­@w¶­œz¶­œzFŸœz¶­œz¶­\w¶?
+B24:¶­œz¶­œz¶?›z¶­œz¶­œz¶Mz¶­œz¶­œz¶­@w¶­œz¶­œz¶­\?¶­œz¶­œz¶­œB¯­œz¶­œz¶­œz‹®œz¶­œz¶­@
+B24:¶­p}¶­œz¶­œz¶­œ¢¶­œz¶­œz¶­œz¶·œz¶­œz¶­œz¶­°z¶­œz¶­œz¶­œz»­œz¶­œz¶­œz¶Mžz¶­œz¶­œz¶­@
+B24:¶·œz¶­œz¶­œz¶­\}¶­œz¶­œz¶­œz¶·œz¶­œz¶­œz¶­\}¶­œz¶­œz¶­œz¶Wžz¶­œz¶­œz¶­œz‹®œz¶­œz¶­@
+B24:¶­œzFŸœz¶­œz¶­œz¶­œB¯­œz¶­œz¶­œz¶­@w¶­œz¶­œz¶­œz¶?›z¶­œz¶­œz¶­œz?­œz¶­œz¶­œz¶­\?¶­@
+DEF:InterP .\CIP\pomoc.mtl\lin-osie.cip
+HLP:Osie otworu|Wrysowanie osi otworu prostokatnego
+B16:¶­œz¸­œz¶Mr¥‹Nr¥‹¸\}¶­œz¶­°z»­œz¶­œ¢¶·œzV®œz†®°z¶mz¶Mž¢¶­œz¶­\}X²¤{¸q¥ŠX@
+B16:†®œz¶­œz»Mžz¶±œz¶·\}¶­¤z¶­°z»­œz¶­œ¢¶·œz¶­œz†®p¥‹¸p¥‹Xžz¶­œ{¶­œz¶­œz¸­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶mz¶­œz¶­œz¶­œŠ¶­œz¶­œz¶­œz¶±œz¶­œz¶­œz¶­œ{¶­œz¶­@
+B24:†Xr¥‹X^¥‹Xr¥»­°z¶­œz¶­œz¶Mžz»­œz¶­œz¶­œ¢¶Mžz¶­œŠ¶­œz¶·œ¢¶­œz¶±œz¶­\}¶·œz¶­œz¶­œz†®@
+B24:XrzX²¤ŠX®œ‹X®°z¶­œz¶­œz¶Mžz»­œz¶mz¶­œ¢¶Mžz¶­œŠ¶­œz¶·œ¢¶­œz¶­œz¶­\}¶·œz¶­œz¶­œz†®@
+B24:†Xr¥‹X^¥‹Xr¥»­œz¶­œz¸­œz¶­œz¶­œz¶mz¶­œz¶­œz¶­œŠ¶­œz¶­œz¶­œz¶±œz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\bolte-i.cip
+HLP:amana z k¢ˆkami|amana z zamalowanymi k¢ˆkami
+B16:¶m¥z¶­œz¶­¤‹¯­œz¶­œBXN›z¶­œzF­œB?­œz¶qz¶­€z¶m¥{¶­œz?_Š?­œz¶­¤‹¶­@?¶­œŠX@
+B16:¶­œz¶­œz¯­œ‹¸­œzF­œzXR›z¶Ÿœz¶_]?¯mz¶M›z¶M‹¶­dw¶­œŠX®œ‹¸­œz¶­œzX²œz¶­œz¶?
+B24:¶­œ‹¶­œz¶­œz¶­œzXrz¶­œz¶­œz¶m¥‹¯­œz¶­œz¶­œBX®@w¶­œz¶­œz¶Ÿœz¶?›z¶­œz¶­€z¶­œz?­œz¶­@
+B24:¶qz¶­œzFŸœz¶­¤‹¸­œz¶­œB¯­œzXrz¶­œz¶­@‡¸­¤C¯­œz¶­œzVr¥z¶­@w¶­œz¶­¤‹¸­œz¶?›z¶­œzV²@
+B24:¶­œz¶­œz¶­œz¯­œz¶qz¶­œz¶Ÿœz¶­¤‹¸­œz¶­\w¶­œzXrz¶­œz¯­œz¶M£{FŸœz¶M›z¶­œB¶­œB¯­¤{¶­@
+B24:¶­€z¶­œz?q¥{¶­œz¯­œz¶­œ‹X®œzV²œz¶­œz¶qz¶m¥‹¶­œz¶­œz¶­œŠX²œz¶­œz¶­œz¶m¥z¶­œz¶­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\linia-2d.cip
+HLP:Linia z dˆugo˜ci¥|Rysowanie odcinka z wizualizacj¥ dˆugo˜ci oraz warto˜ci rzut¢w
+B16:¶­œz¶­œzFGxa­œz¶?\xf›z¶?[ya[x¶Mz³­Hx±­€z¶§ˆR±£\?ƒGz±‡B†G\a¶­œB?­Pyƒ?
+B16:¶­œB¶­b†­œBO²œ{¶MœzFm¥ŠV®\yFŸ¤‹Xnz³ŸœzV®¤z¶G£‹Xr¥‹Xr‘z¶­œz¶­œz¶­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶Ÿœz¶­œz¶­œz¶­@yfƒ‡za­œz¶­œB†­ˆz¶£\x¶­œz?­z±­\xf­œz¶Ÿœz³Gxf­ˆz¶­€z¶M@
+B24:¶­\x±›z¶Ÿœz¶§œzf›R¶­€b¶§\yf­ˆR¶£œB†§b†­\P¶‡zFM\y³§z¶­œz¶?›z†M\y³­œz¶­€z¶­b†M@
+B24:¶­œz¶Ÿœz¶Mœb¶§œz¶­€z¶­œz¶­\y¶­œB¶qzX®œz†­œzF­¤Š¶±œ{¶­z¶M›Š¶±œ{V®œz³­@w¶q¥‹V®¤z¶M@
+B24:¶Ÿœz¶­¤zV²œz¶§€z¶­œz¶­œz¶­\AXr¥‹Xr¥‹Xr¥‹ˆ­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\parabola.cip
+HLP:Parabola|Wrysowanie paraboli
+B16:†®œz¶­œz»Mžz¶iœz¶·\}¶­”y¶­°z»­œj´­œ¢¶Mžz¶­œz»­\}¶m”z¶·œz»­œi¶­°z¶·œz”­œ¢¶?
+B16:¶·œz¶­œ¢¶­°z¶iœz‹®œ¢¶­”y¶·œz†¸œj´­°z¶­\}¶­\}¶­œz‹n”¢»­œz¶­p¥»­œz²¥‹ZT¥ŒXv?
+B24:¶·œz¶­œz¶­œz»­\}¶­œz”­œz¶Mžz†®œz¶m”z¶­œ¢¶­°z¶­œj´­œz¶·œz»­œz¶iœz¶­\}¶Mžz¶­œz¶­œz†®@
+B24:¶Mžz¶­œz¶­œ¢¶­œ¢¶­œz”­œz¶·œz¶·œz¶m”z¶­\}¶­\}¶­œj´­œz†®œz†®œz¶iœz¶­°z¶­°z¶­œz¶­œz»­@
+B24:¶Mžz¶­œz¶­œ¢¶­œ¢¶­œz”­œz¶·œz¶Mžz¶m”z¶­°z¶­œ¢¶­œj´­œz»­œz¶·œz¶iœz¶Mžz¶­œ¢¶­œz¶­\}¶­@
+B24:¶­œ¢¶­œz¶Mžz¶­œz¶·œz”­œ¢¶­œz¶­œ¢»m”z‹®œz¶­œz¶­p¥‹¸œz¶­œxv¥‹zriŒxv¥‹zr­ŒX²­‹ir­ŒX²­?
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc

@@ -1,0 +1,97 @@
+GoMenu
+DEF:InterP .\CIP\pomoc.mtl\luk-info.cip
+HLP:Informacja o ˆuku|Informacja - dˆugo˜† ˆuku i cieciwy, strzaˆka ˆuku i k¥t rozwarcia
+B16:¶­œz†Xžz¶­œz¶Wr¥¶­œz¶­°z†®œz¶­œz¶Wžz¶­œz¶M²z¶­œz¯­\¥¶­œz¯­œz‹®œzF­œz¶W^P±?
+B16:F­œz¶­ˆzfŸœz¶­œR¶z¶­œzfƒG@¶­œz¶›z±Ÿœz¶­œz¶­\w¶M›z¶­œzF­€z¶­œz¶­@w¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶W²z¶­œz¶­œz¶­p¥‹®œz¶­œz¶­œz»­°z¶­œz¶­œz¶­œ¢»­œz¶­œz¶­œz†¸œz¶­@
+B24:¶­\?¯­œz‹®œz¶­œz¯­œz¶­œz¶­œz¶Ÿœz¶­œ¢»­œz¶­€z¶­œz¶W^Pa­œz¯­œz¶­œz±­\x¶Ÿœz¶­œz¶›zf­@
+B24:F­œz¶­œz¶£œz±­€z¶­œz¶­\Paƒ›z¯­œz¶­œzf­œR¶M›z¶­œz¶­ˆz¶£œB¶­œz¶­œz±­\x¶M›z¶­œz¶­œz¶­@
+B24:¶Ÿœz¶­œz¶­œz¶­œB¶­œzF­œz¶­œz¶M›z¶M›z¶­œz¶­œz???w¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\inf-odep.cip
+HLP:odlegˆo˜† od elementu|Informacja - odlegˆo˜† punktu od przedˆu¾enia elementu
+B16:¶Ÿœz¶­œz¶M?Ÿ‹Xr¥¶­œB¶­\w¶­œz¶­œB?­œz¶­œz??¢‹®œz¶­€z»­°z¶­œB¶­œ¢¶­œzF­œz»?
+B16:¶­œzF­œ¢¶­œz¶M›z†®œz¶M??¯­œz¶­œB?­\}¶­œz¶Ÿœz¶Mr¥»­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶M›z¶­œz¶­œz¶­œB¶­œz¶­œz¶­œz¶Ÿœz¶­œz¶­@
+B24:¶­\??Wr¥‹X²z¶­œz¶­€z¶­€z¶­œz¶­œz¯­œB?­œz¶­œz¶M›zF??w‹¸œz¶­œz¶­œB¶·œ¢¶­œz¶­œz¶Ÿœz¶·@
+B24:¶­œz¶­œzF­œz»­œz¶­œz¶­€z¶·œz¶­œz¶­œz¯­\}¶­œz¶­œzF??w¶­œz¶­œz¶­\?¯­°z¶­œz¶­œz¶Ÿœz¶­@
+B24:‹Xr¥‹X²z¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\inf-odpp.cip
+HLP:Odlegˆo˜† dw¢ch punkt¢w|Informacja - 3 odlegˆo˜ci mi©dzy dwoma punktami
+B16:½­œ¢‹®œz½»œz»­°z¶»¸z¯­œ¢F­¸²??›¢»??¯¦®€z†®\w¦Žžz¶­œz¶^~¶­\}¶­\~½­œz¶­œz¯?
+B16:‹Xr¥‹XrE?·œz¶­œz‹ °z¶­œ¢‹®œ¢¶­\¥»­œz†®p¥¶­œz¶Mo}¶­œz¶­\?¶­œz¶­œz¯­œz¶­œz¶?
+B24:¶žz¶Mr}¶­œ²¶­œ²¶Ÿ\}¶·œB¶»œz¶»@w¶­\}¶?[~¶­\F??›¢‹N??Ÿ®œz¦Nz¶·œzFŸ¸z¶­¸z¯­\}¶­€z½­@
+B24:¶žz¶­°z¶­œ²¶­œ²¶­œz¶­œz¶»œz¶»œz¶Mžz¶­\~¶­\~¶­œz¶­œz¦®œz¦®œz¶­œz¶­€z¶­¸z¶­œz¶­œz¯­@
+B24:¶žz¶­œz¶­œB¶­œ¢‹Xr¥‹XrE???w¶·œz¶­œz¶Mrw¶­\}¶­œz¶Mr}F­œz†®œz¶Mr}¶­€z¶­€z¶Mr}¶­œz¶­@
+B24:¶M›¢‹®œz¶­œz¶­œB‹®œz¶­œz¶­œB???w¶­œz¶­œz¶­\w¶­œz¶­œz¶­œzF­œz¶­œz¶­œz¶­€z¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\inf-odl.cip
+HLP:Odlegˆo˜† punkt¢w po ˆuk|Informacja - odlegˆo˜† mi©dzy dwoma punktami mierzona po ˆuku
+B16:¦®œz‹¸œz½žB†®\}¶»\~?­œz»Ÿ¸zM?z‹X?¯¶»@w¶·œB¦®¸z¯­°z¶ž²¶­œ¢¶­\~F­œz¶­œz¯?
+B16:A­œz¶­œz_C›z¶­œz¶???­œz¶??w_­œz¶­\@¶Gx¶­œRA­€za­œz±M›z¶GPa£œz¶­œzf£œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶»œz¶W²z¶­\~¶­\~F­°z†®\w¦®œz¦Nz¶­°zFŸ¸z¶­x??Ÿ\¥»???½­@
+B24:¶^?¶­°z¶M²¶­œ²¶Ÿœz»­œB¶»œz¶»œz¶Mžz¶­\~¶­\~¶­œz¶­œz¦®œz¦®œz¶·œz¶­¸z¶­¸z¶­œz¶­œz½­@
+B24:¶M›z¶­œz¶­œB¶‡B¶­œz¶­œz¶ŸHxaŸœz¶­œz¶­\O±????­œz¶­\???zF£œz¶­œz¶z¶­@P±­œz¶­HP¯­@
+B24:¶M›Ra­œzfƒ›B¶­œz¶­HPaƒ‡z¶­œz¶­œz¶‡z¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\inf-odl.cip
+HLP:Odlegˆo˜† punkt¢w po ˆuk|Informacja - odlegˆo˜† mi©dzy dwoma punktami mierzona po ˆuku (3 pkty)
+B16:¶­œzF­œz¶­œzF??w¶­\~¶­\w¶­¸z½M›z¯M›²¶»@w¶­\?¦®x??????ž²FŸœz¶?[~¦®€z¶­€z½?
+B16:¦®œz¶­œz½M›z¶­œz¶Ÿpw¶­œz¶­@E?Ÿœz¶­@?¯?žz¶­œzK­@¥»­œz‹X›z¶W²z‹¸œz¶­œ¢‹¸œz¶?
+B24:¶­œz¶­€z¶­œz¶­œz¶­œz¯­œz¶­œz¶­œz¶M›z¶­œz¶­œz¶M???Ÿœz¶­œz¶­œz¶Ÿœz¶­œz¶­¸z¶­\w¶­œz½­@
+B24:¶žB¶­€z¶M›²¶­œ²FŸœz¶­œB¯»œz¶[?????????~¶­\~?­œz¶­\?¦®œz¦®€z¶­œzF­¸z¶­¸z¶­œz¶­œz½­@
+B24:¶žz¶­œz¶­œ²¶­œ²¶­œz¶­œz¶»œz¶»œz¶­œz¶­\~¶­\w¶­œz¶­œzF­\¥F­œz¶­œz¶­€¢»W‚z¶­œz¶­œz¸@
+B24:????¶­œz¶M???ŸœB»­œz¶­œz† œz¶?r}¶­œz¶Wrw¶­\w†Xžz¶Mr}F­œz¶­œ¢‹Xr¥¶­œz¶­œz¶­\¥¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\inf-suma.cip
+HLP:suma dˆugo˜ci|Informacja - suma dˆugo˜ci element¢w
+B16:¶??w¶­œz¶M›zFŸœz¶­€z¶­œz¶­œBVr¥‹V®œzF­¤zVnz¶M›z¸­œ{¶qew¶qz¸­œz¶­¤z¶±œŠX@
+B16:¶mz¸±œz¶­¤‹X²¤‹X®œz¶­œz¶­œz¶Mz¶?z¶Mz¶M›z¯Mz¶­\w¶Ÿœz¶­œz¯­€z¶­œz¶M?w¶?
+B24:¶­œB??›z¶­œz¶­œz?­œz?­œz¶­œz¶Ÿœz¶­\w¶­œz¶­€z¶­œz¶Ÿœz¶­œB¶­œz¶­œz¶­œz¶Ÿœz¶­œz¶­œz¶­@
+B24:¯­¤‹Xr¥Š¸­œz¶M›zXr¥‹¸qz¶­œB¶­¤{¶q‹¶­¤‹X œzV²œzV²œzXrew¶­œ‹¶­¤{¶­œzF­œzX®œzX®œŠXrA
+B24:F­œ‹¶m¥Š¸­œ‹X²€zXr¥‹¸q¥‹¸­œzFm¥‹Xr‹Xrz¶­œz¶­œz¶­œz¶­œz¶­œz¶­\??­œz¶­œz¶­œz¯­\w¶­@
+B24:¶­œB¯­\w¶­\w¶­œz?­œzF­œzF­œz?Ÿœz¶­€z¶­€z¶Ÿœz¶­œz¯­œz¯­œz¶­œz¶­€z¶Ÿœz¶­œz¶­œzF?z¶­@
+DEF:InterP .\cip\pomoc.mtl\inf-ile.cip
+HLP:Ilo˜c element¢w|Informacja - ilo˜† element¢w
+B16:FŸœzF­œ¢»Ÿ\wFŸœz‹X‚z¯Ÿœz¶·\}?­œz¶­œ¢»­œB??›z‹®œz¯­œB¶­œz¶M??¯­p}¶­œz¶­œz¶?
+B16:Xr¥Š¶­¤‹¸­¤zV®œŠ¶­œŠ¶mzV®œzV®œ{¶m¥z¶mz¸­œ{¶­œ{¶±œz¸­œ‹X²¤‹¸q¥{¶­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œB?­œz¶Ÿœz¶­œzF­\w¶­€z¶­p¥¶M›z¶ŸœB¶­œ¢‹XžB¶­\wF­œz¶·œ¢¶ŸœzFM›z¶­œz†¸@
+B24:¶ŸœB¶­œz¶­œ¢»­œB?­œB??›z¶Wžz¶­œzF­œz¯­œz¶­œz¶M›z¶­€z†¸œz¶­œz¯­œB¶­p}¶­œz¶­@??­œz¶­@
+B24:¶­œz¶­œz¶­œz¶­¤‹X²œ‹¶­œ‹XrzXr¥{V²œzVr¥‹¶­œ‹¶­¤{¶­¤{¶­œzV²œzX®œzX®œz¶­¤{¶m¥z¶m¥‹¶­@
+B24:¶m¥z¶qz¶q¥{¶­œŠ¸­œ‹¶­œ‹¶­œz¶qzV²œzV²œz¶m¥‹X®¤‹X®¤‹X²œŠXr¥zXr¥zXr¥{¶­œz¶­œz¶­œz¶­@
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc

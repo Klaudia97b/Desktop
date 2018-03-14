@@ -1,0 +1,260 @@
+      -2 Call: syn [Option] <file name> [Option] <output file> [Option]
+        /S <Nummer>    Stack size
+        /Hmax <Nummer> Max. Heap size
+        /Hmin <Nummer> Min. Heapg size
+
+    1601 SYN: ')' missing
+
+    1602 SYN: Could not find line end when reloading
+
+    1603 SYN: argument missing
+
+    1604 SYN: missing 'case' or 'default'
+
+    1605 SYN: undefined label found
+
+    1801 SYN: expect Operand
+
+    1802 SYN: expect Operation
+
+    1803 SYN: expect ';'
+
+    1804 SYN: expect ','
+
+    1805 SYN: expect '['
+
+    1806 SYN: expect ']'
+
+    1807 SYN: expect '('
+
+    1808 SYN: expect ')'
+
+    1809 SYN: expect '}'
+
+    1810 SYN: expect '{'
+
+    1820 SYN: expect Statement
+
+    1821 SYN: expect Expression
+
+    1822 SYN: expect 'while'
+
+    1823 SYN: expect Name
+
+    1825 SYN: expect Typ specification
+
+    1826 SYN: expect structure variable
+
+    1827 SYN: expect Ausdruck after assignment
+
+    1828 SYN: expect constant Ausdruck
+
+    1829 SYN: expect '.' instat '->'
+
+    1830 SYN: expect '->' instat '.'
+
+    1831 SYN: Operands need to be from same type
+
+    1832 SYN: expect Pointer type
+
+    1833 SYN: expect ':'
+
+    1834 SYN: expect number larger than Null
+
+    1835 SYN: expect number or variable
+
+    1836 SYN: expect character
+
+    1837 SYN: expect Hexadecimal number
+
+    1839 SYN: expect letter
+
+    1841 SYN: expect '...'
+
+    1842 SYN: expect function pointer
+
+    1843 SYN: Function pointer needs to be dereferenziert
+
+    1844 SYN: expect Integer
+
+    1860 SYN: Unexpect: '('
+
+    1861 SYN: Unexpect: ')'
+
+    1862 SYN: Unexpect: 'break'
+
+    1863 SYN: Unexpect: 'continue'
+
+    1864 SYN: Unexpect: 'case'
+
+    1865 SYN: Unexpect: 'default'
+
+    1866 SYN: Unexpect: 'else'
+
+    1869 SYN: Unexpect: 'struct'
+
+    1870 SYN: Unexpect: 'typedef'
+
+    1871 SYN: Unexpect: ','
+
+    1873 SYN: Unexpect character: '%s'
+
+    1874 SYN: Unexpect: '{'
+
+    1875 SYN: Unexpect: '->'
+
+    1876 SYN: Unexpect: '.'
+
+    1877 SYN: Unexpect word: '%s'
+
+    2001 SYN: Unknown option: '%s'
+
+    2003 SYN: Could not write data
+
+    2005 SYN: file  '%s' could not read data
+
+    2006 SYN: file  '%s' could not open
+
+    2007 SYN: file  '%s' not found
+
+    2009 SYN: Output file not created
+
+    2010 SYN: No memory available
+
+    2011 SYN: Function 'main' not defined
+
+    2013 SYN: text position could not be interpreted
+
+    2014 SYN: Not all Forward-Deklarationen are defined
+
+    2015 SYN: function multible not declaired
+
+    2016 SYN: Typ conflict
+
+    2017 SYN: Cast not possible
+
+    2018 SYN: Cast not allowed
+
+    2019 SYN: No lable
+
+    2020 SYN: name exists but is not a variable
+
+    2021 SYN: 'default' double
+
+    2022 SYN: name not defined
+
+    2023 SYN: Multible defined
+
+    2024 SYN: No structure element
+
+    2025 SYN: variable not from Type 'struct'
+
+    2026 SYN: Error in expression
+
+    2027 SYN: Operation is not possible with this operand
+
+    2028 SYN: Stack size is not enough
+
+    2029 SYN: Code to large
+
+    2030 SYN: Return value to large
+
+    2031 SYN: Number is outside of legal range
+
+    2032 SYN: String ist to long
+
+    2033 SYN: to many Parameter
+
+    2034 SYN: Not enough parameter
+
+    2035 SYN: Array size unknown
+
+    2036 SYN: Parametertyp is different to definition
+
+    2037 SYN: Operation '&' not possible
+
+    2038 SYN: Operation '*' not possible
+
+    2039 SYN: Operation '[..]' not possible
+
+    2040 SYN: Division by null
+
+    2041 SYN: Operation with 'void'
+
+    2042 SYN: Operands have different types
+
+    2043 SYN: Return type of the function is different to declaration
+
+    2044 SYN: Type of the function parameters is different to declaration
+
+    2045 SYN: Operation with structure not possible
+
+    2046 SYN: constant must not be changed
+
+    2047 SYN: Function can not be dereferenziert
+
+    2048 SYN: Function definition is different to declaration
+
+    2049 SYN: String includes LF
+
+    2050 SYN: 'unsigned' Integer with pre sign
+
+    2052 SYN: '%s' not defined
+
+    2201 SYN: Limit: to many 'else'
+
+    2202 SYN: Limit: to many 'case'
+
+    2203 SYN: Limit: to many 'continue'
+
+    2204 SYN: Limit: to many Gotolabel
+
+    2205 SYN: Limit: to many Pointer
+
+    2206 SYN: Limit: to many Arrays
+
+    2207 SYN: Limit: functions was declared with more than 15 parametern
+
+    2208 SYN: Limit: parameter list to long, may be not terminated string
+
+    2209 SYN: Limit: No free register
+
+    2210 SYN: Operating system does not support more available memory
+
+    2211 SYN: Limit: to many structur elements
+
+    2212 SYN: Limit: Identifier to long
+
+    2213 SYN: Limit: line to long
+
+    2214 SYN: Bit field to long
+
+    2215 SYN: Integer-constant to large
+
+    2216 SYN: Double-constant to large
+
+    2217 SYN: Double-exponent to large
+
+    2224 SYN: Limit: Recursion depth
+
+    2225 SYN: Limit: not enough temporary memory
+
+    2226 SYN: to many structure depths with '{'
+
+    2228 SYN: Function to long
+
+    2401 SYN: #pragma StackSize new defined
+
+    2402 SYN: #pragma HeapMin new defined
+
+    2403 SYN: #pragma HeapMax new defined
+
+    2404 SYN: #pragma StackSize value validated
+
+    2405 SYN: #pragma HeapMin value validated
+
+    2406 SYN: #pragma HeapMax value validated
+
+    2407 SYN: #pragma '%s' unknown
+
+    2410 SYN: Operand to 'unsigned' converted

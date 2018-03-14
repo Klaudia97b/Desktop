@@ -1,0 +1,58 @@
+MconfigDos MENU
+
+BEGIN
+    POPUP "&Plik"
+    BEGIN
+        MENUITEM "W&czytanie ", 1001
+        MENUITEM "&Zmiany    ", 1002
+        MENUITEM "Za&chowaj  ", 1003
+        MENUITEM "Ua&ktywnij ", 1004
+        MENUITEM "&Rysowanie ", 1005
+        MENUITEM "&Drukowanie", 1006
+        MENUITEM "&Edycja txt", 1007
+        MENUITEM "&KONIEC    ", 9997
+    END
+
+    POPUP        "&Opcje"
+    BEGIN
+        MENUITEM "&Klawiatura ", 1008
+        MENUITEM "&Dygitizer  ", 1009
+        MENUITEM "&Menue      ", 1010
+        MENUITEM "&Plik *.MBT ", 1011
+    END
+
+    POPUP        "&Pomoc"
+    BEGIN
+        MENUITEM "&O...       ", 1100
+    END
+END
+
+
+
+MconfigWin MENU
+
+BEGIN
+    POPUP "&Plik"
+    BEGIN
+        MENUITEM "W&czytanie ", 1001
+        MENUITEM "&Zmiany    ", 1002
+        MENUITEM "Za&pisanie ", 1003
+        MENUITEM "Ua&ktywnij ", 1004
+        MENUITEM "&Drukowanie", 1006
+        MENUITEM "&Edycja txt", 1007
+        MENUITEM "&KONIEC    ", 9997
+    END
+
+    POPUP        "&Opcje"
+    BEGIN
+        MENUITEM "&Klawiatura ", 1008
+        MENUITEM "&Menue      ", 1010
+        MENUITEM "&Plik *.MBT ", 1011
+    END
+
+    POPUP        "Po&moc"
+    BEGIN
+        MENUITEM "&Pomoc      ", 1200
+        MENUITEM "&O...       ", 1100
+    END
+END

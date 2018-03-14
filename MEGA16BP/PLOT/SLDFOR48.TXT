@@ -1,0 +1,83 @@
+Format der SLD Dateien fÅr Version 4.55
+
+char    ver_str[6];       //ver_str[] = "sixth"  sizeof(ver_str) == 6
+double  dxmin;            //X Koordinate vom linke untere Ecke vom Bildschirm
+double  dymin;            //Y Koordinate vom linke untere Ecke vom Bildschirm
+double  dxmax;            //X Koordinate vom rechte obere Ecke vom Bildschirm
+double  dymax;            //Y Koordinate vom rechte obere Ecke vom Bildschirm
+short   anzahl_zeichnung; //Anzahl der Zeichnungen in der SLD Datei
+anzahl_zeichnung * sizeof(plot_daten);
+short   anzahl_texte;     //Anzahl der Textzeilen in der SLD Datei
+anzahl_texte * sizeof(text_daten);
+double  xmin;             // kleinste X Koordinate von Rechtecken
+double  ymin;             // kleinste Y Koordinate von Rechtecken
+double  xmax;             // grîste   X Koordinate von Rechtecken
+double  ymax;             // grîste   Y Koordinate von Rechtecken
+
+
+
+
+typedef  struct
+{
+    char    werkzeugname[300];    // Pfad
+    double  einheit,winkel;       // Vergrîsserungsfaktor, Winkel
+    double  xmin,xmax,ymin,ymax;  // Minmax Punkte
+    double  bezx,bezy;            // Bezugspunkt
+    short   opt;                  // 1 Ausschnitt 0 ganzes  11,10 Rahmen
+    ushort  lay[16];              // Layer
+    ushort  grp[16];              // Group
+    double  tdscal[2];            //Skalierung faktoren fÅr Texte & DimTexte
+    double  tmp[8];               //Tmp
+    short   shorttmp[2];          //Tmp
+} plot_daten;
+
+
+typedef struct
+{
+    double x0, y0,                 // start point
+           x1, y1,                 // underline vector
+           x2, y2;                 // leftline vector
+} tTxtBox;
+
+typedef struct
+{
+    double kursiv;                 // italic angle
+    double angle;                  // angle of underline
+    double width;                  // char width
+    double height;                 // char height
+    double between;                // space between two chars
+    double ldist;                  // line distance given as a factor
+} tFntPar;                         //   to the box vector (x2,y2)
+
+#define GT_MAX_FONTNAME  32
+
+
+typedef struct
+{
+    uchar name[GT_MAX_FONTNAME];   // facename / filename
+    uchar CharSet;                 // character set
+    uchar PitchAndFamily;          // var / fix an font family
+    uchar System;                  // GT_VECTOR / GT_TRUETYPE
+    uchar italic    : 1,           // whether italic
+          strikeout : 1,           // whether striked out
+          underline : 1,           // whether underlined
+          bold      : 1,           // whether bold
+          isdown    : 1,           // whether downwards
+          rest      : 3;           // reserved
+} tFntId;
+
+typedef struct
+{
+    tFntId  f;
+    tFntPar p;
+    tTxtBox b;
+    short    tst;
+    short    lst;
+} Plt_ttxtval;
+
+typedef  struct
+{
+    Plt_ttxtval para;
+    double      line[4];
+    char        string[256];
+} text_daten;

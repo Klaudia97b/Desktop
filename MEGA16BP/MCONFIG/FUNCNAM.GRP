@@ -1,0 +1,67 @@
+GRP Ignore    " Anuluj                 "
+GRP Mode      " MODUS wychwytu         "
+GRP Select    " MODUS wyboru           "
+GRP Zoom      " ZOOM                   "
+GRP Edit      " Edycja                 "
+GRP Text      " Teksty                 "
+GRP Angle     " K•ty                   "
+GRP Line      " Linie                  "
+GRP Point     " Punkty                 "
+GRP Circle    " Okr©gi                 "
+GRP Arcs      " ùuki                   "
+GRP Pixel     " Bitmapy                "
+GRP Toggle    " Przeà•czniki           "
+GRP Ellipse   " Elipsy                 "
+GRP Macro     " Makro                  "
+GRP Drawing   " Rysunek                "
+GRP Dimension " Wymiarowanie           "
+GRP Info      " Informacje matematyczne"
+GRP Main      " Menu gà¢wne            "
+GRP Defines   " Ustawienia             "
+GRP ImpExp    " Import/Eksport         "
+GRP Style     " Atrybuty element¢w     "
+GRP Special   " Funkcje specjalne      "
+GRP Volume    " 3D-bryày               "
+GRP Surface   " 3D-powierzchnie        "
+GRP Wire      " 3D-krzywe              "
+GRP Archive   " Archiwizacja           "
+GRP Help      " Pomoc                  "
+GRP Clipboard " Schowek                "
+GRP Fold      " Rozwijanie blach       "
+Ignore    : NoFunc
+Zoom      : StoreZ1
+Special   : Undo
+Clipboard : CopyPic
+Edit      : EdtMenu
+Special   : GoMenu
+Style     : AttrDef
+Angle     : SetIncPt
+Mode      : ModeFree
+Select    : TypPnt
+Point     : PntMenu
+Line      : LinMenu
+Circle    : CirMenu
+Arcs      : ArcMenu
+Ellipse   : ElpMenu
+Text      : TxtCfg
+Dimension : DimMenu
+Macro     : MacManag
+Drawing   : PrtManag
+Info      : InfMenu
+Volume    : VolMenu
+Main      : IsoMet
+ImpExp    : ImExMenu
+Special   : InputDlg
+Help      : About
+Special   : Exit
+Main      : Layer
+Special   : CurMenu
+Toggle    : TglSrch
+Defines   : SavParms
+Style     : AttGrp
+Main      : BmpMenu
+Pixel     : PixMenu
+Archive   : ArchivAs
+Surface   : SrfMenu
+Wire      : CrvMenu
+Fold      : CCamMenu

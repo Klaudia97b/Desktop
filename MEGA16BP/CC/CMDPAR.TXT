@@ -1,0 +1,71 @@
+CallDll  <DLL-Dateiname> <Argumente>
+
+InterP   <CIP-Dateiname> <Argumente>
+
+CopyFile <von> <nach>
+         Es werden keine Wildcards akzeptiert
+
+PushFunc <Funktion>
+
+Exec     [epgw],<Kommando>
+         e => Kommando vor AusfÅhrung editieren
+         p => Pause nach AusfÅhrung des Kommandos
+         g => Graphik-Modus beibehalten
+         w => Windows-Programm (nur in Windows-Version)
+         c => in den Pfad des aufgerufenen Programms wechseln (nur in Windows-Version)
+
+Batch    <Batch-Datei> [,Arg1 ... Arg4]
+
+InputDlg <Beschreibungs-Datei>, <Ausgabe-Datei>
+
+Editor   <Dateiname>
+
+CDLRead  <CDL-Datei>
+
+CDLWrite <CDL-Datei>
+
+MacIns   <Macro-Datei>, <Winkel>, <Faktor>, <M>
+         @<Datei mit Macro-Namen>, <Winkel>, <Faktor>, <M>
+         =<Macro-Datei>, <Winkel>, <Faktor>, <M>
+         = => Direkt in die Ansicht-Funktion
+         Wenn <Macro-Datei> Wildcards enthÑlt, wird der Dateimanager mit
+         diesem Pfad aufgerufen.
+         Ist der 4. Parameter 'M' angegeben, wird die Funktion wiederholt
+         ausgefÅhrt bis im Dateimanager/Ansicht abgebrochen wird.
+
+PrtIns   <PRT-Datei>
+
+PrtDel   <PRT-Datei>
+
+MacDel   <MAC-Datei>
+
+PrtLoad  <PRT-Datei>
+
+MacLoad  <MAC-Datei>
+
+DoMenu   <MNU-Datei>
+         Der Name wird ohne Pfad und Extension angegeben!!!
+
+MacPrint [F|S|W] [p|P][f|F][o|O][m|M][w|W] [,<Faktor>] [,x,y,z]
+PrtPrint [F|S|W] [p|P][f|F][o|O][m|M][w|W] [,<Faktor>] [,x,y,z]
+         Der 1. Buchstabe wÑhlt zwischen Faktor     (F)actor ,
+                                         Bildschirm (S)creen und
+                                         Fenster    (W)indow.
+         Danach kînnen die einzelnen Schalter angegeben werden.
+         'p' = kein Pan-Zoom    , 'P' = mit Pan-Zoom     (P)an
+         'f' = ohne Rahmen      , 'F' = mit Rahmen       (F)rame
+         'o' = keine Text-Kontur, 'O' = Texte als Kontur (O)utline
+         'm' = kein S/W Druck   , 'M' = mit S/W Druck    (M)ono
+	 'w' = keine Min.Breite , 'W' = Min.Breite 2 Dot (W)idth
+
+	 Sodann kann noch der gewÅnschte Faktor angegeben werden.
+	 (Wirkt nur, wenn der 1. Buchstabe 'F' ist).
+
+         PrtPrint S FM
+            druckt den Inhalt der ZeichenflÑche mit Rahmen in S/W Druck.
+
+         PrtPrint W fM
+            druckt das Aktuelle Fenster ohne Rahmen in S/W Druck.
+
+DimLoad  <Einstellungsname>
+	 Schreibweise genauso wie in 'Speichern' eingegeben!

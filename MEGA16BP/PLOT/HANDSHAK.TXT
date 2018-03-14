@@ -1,0 +1,86 @@
+  Plotterinformationen:  Handshake
+  =====================
+
+  Es wird unterschieden in :
+
+  - Software Handshake  XON/XOFF
+  - Hardware Handshake  Steuerleitung
+
+
+                           XONN/XOFF
+                       *****************
+                       *****************
+
+  Falls Sie XON/XOFF Protokoll durchfÅhren wollen, dann geben Sie bei der
+  Installation der Handshake-Leitung die Nummer 7 a.
+
+  Beim HPGL Kompatiblen Plottern, wird der Plotter SoftwaremÑssig auf XONN/XOFF
+  Protokoll eingestellt, bei allen anderen Plottern mu· der Plotter Hardware-
+  auf XON/XOFF eingestellt werden.
+
+  Um ein Xonn/Xoff Protokoll durchfÅhren zu kînnen, mu· das Plotterkabel
+  folgenderma·en angeschlossen sein:
+
+                   Plotter                 Rechner
+
+              TxD    2  *                *   2   TxD
+                                *
+              RxD    3  *                *   3   RxD
+
+
+              GND    7  *       *        *   7   GND
+
+                        zwei und drei kreuzen
+
+
+                           HARDWARE
+                       *****************
+                       *****************
+
+
+  Bei einem Hardware Handshake meldet der Plotter seinen Zustand Åber die
+  Leitung 20(DTR) oder 4(RTS) oder beides, ob er bereit ist, neue Daten auf-
+  zunehmen. Es ist sinnvoll, zuerst im Plotterhandbuch nachzuschauen,
+  Åber welchen Leitung der Plotter seinen Zustand meldet. In der Regel ist es
+  die Leitung 20(DTR).
+
+  Falls Sie einen Hardware Protokoll durchfÅhren mîchten, geben Sie bei der
+  Installation der Handshakeleitung 5 oder 6 an.
+
+
+     Bei Hardware-Handshake (DTR,RTS) mu· der Plotter, auf der Rechnerseite
+     mit der Leitung 6 (DSR) verbunden werden.
+
+
+           Plotter       Rechner               Plotter       Rechner
+          ************************            ************************
+      TxD    2 *         * 2   TxD         TxD   2 *         * 2  TxD
+                    *                                   *
+      RxD    3 *         * 3   RxD         RxD   3 *         * 3  RxD
+
+
+      GND    7 *    *    * 7   GND         GND   7 *    *    * 7  GND
+
+      DTR   20 *    *    * 6   DSR         RTS   4 *    *    * 6  DSR
+
+                        zwei und drei kreuzen
+
+
+     Bei Hardware-Handshake (DTR,RTS) mu· der Plotter, auf der Rechnerseite
+     mit der Leitung 5 (DSR) verbunden werden.
+
+
+           Plotter       Rechner               Plotter       Rechner
+          ************************            ************************
+      TxD    2 *         * 2    TxD       TxD    2 *         * 2   TxD
+                    *                                   *
+      RxD    3 *         * 3    RxD       RxD    3 *         * 3   RxD
+
+
+      GND    7 *    *    * 7    GND       GND    7 *    *    * 7   GND
+
+      DTR   20 *    *    * 5    CTS       DTR    4 *    *    * 5   CTS
+
+
+                        zwei und drei kreuzen
+

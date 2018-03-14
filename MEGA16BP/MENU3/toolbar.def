@@ -1,0 +1,55 @@
+PrtLoad
+PrtNew
+PrtSave
+MacPrint
+MacIns
+DragDrop
+SetWP3Pt
+SetBks
+SetWPElm
+SetBpkt
+ViewRot
+DEF:ViewOrb ViewOrb
+HLP:Ansicht drehen|Ansicht mit der Maus drehen
+B16:FŸœz¶­œz¶Ÿ~w¶Mr}¶­€¾N­\¥¶­œB¯¾‚z»·œzFM»¾¯­°z¶MŸBNŸœ¢¶­\FŸ€z†®œz?N›B¶Mz¶?
+B16:FO›B¶·œz¶­@wFMB¯­œz??²z¯^z¶­œz??»¾¯­œz?M_»¾ œB?­œB¯?z¯­œz¶M›B¶Ÿœz¶­œB??
+B24:¶M›z¶­œz¶­œz¶­\·¯­œz¶­œz¶­œz¯¾‚z¶­p¥‹®œz¶Ÿ¾¾N­œz‹Xz¶­\?¾¾~w¶Mr}¶­œzFO»¾¾ œ¢»·œz¶­@
+B24:?N»¾¾ \}†®œz¶M_{¯¾~?¶­\}¶­œBG°€¾¯Ÿœz†®œz¶?a{FŸ\w¶­°z¶­\G®€zF­œz»­œz¶?¡z¯­€z¶·œz¶­@
+B24:¶?¡B¶M›z†®œz¶­œB¶ŸœB¶Mz¶­œz¶M[wF­p}¶?z¶­œz?M[¥¶­€¾NŸœz¶­@Ÿ»­@?¾^»F¶­œz¶­œBFO?·¾^?
+B24:¶­œz¶­€z?P¾¾ œz¶?›B¶­@G½~w¶­€z?­œz¶?]·?­œB¶­œz¶­œB¶Ÿ€z¶Ÿœz¶­œz¶M›B¶­\w¶­œz¶­œz?­@
+AZoomAll
+TglWindw
+ViewIso
+ViewDim
+ViewBotm
+ViewTop
+ViewFrnt
+ViewBack
+ViewLeft
+ViewRght
+ViewUCS
+TglAllw
+ProjWire
+HLineAll
+HLineEdg
+HLineDsh
+HLineNvT
+Shading
+GLShad
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc

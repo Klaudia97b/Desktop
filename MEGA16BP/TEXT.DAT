@@ -1,0 +1,130 @@
+MegaCAD V 16.0 Wersja Edukacyjna (IX-2000)
+Program wymaga  Windows 95 lub Windows NT
+Prosze podac nazw© dysku, z kt¢rego program b©dzie
+instalowany. Standardowo przyjmuje si© dysk A: lub B:.
+Je˜li chcemy MegaCAD zainstalowa† w innym katalogu ni¾ standardowy, lub na innym dysku, to prosz© poda† jego peˆn¥ nazw©.
+Instalacja w  :
+Na dysku
+: za moˆo wolnaj pami©ci do dyspozycji. Potrzeba jeszcze okoˆo
+Bajt¢w by dokona† instalacji.
+Tworzenie symbolu programu dla menagera ....
+MegaCAD 6_PL
+Zanim zostanie uruchomiony ODBC-program w Visual Basic, kt¢ry u¾ywa drajwer SQL serwera, nale¾y wcze˜niej zaktualizowa† ODBC catalog of stored Proccedures.
+T© procedur¥ mo¾na znale«† w pliku INSTCAT.SQL . Zazwyczaj nale¾y zainstalowa† t© procedur© (przy pomocy programu narz©dziowego ISQL) w systemie administruj¥cym SQL-serwer.
+Instalacja zakoäczona peˆnym sukcesem !
+instalacja przerwana. W wypadku stwierdzenia bˆ©d¢w mo¾na j¥ p¢«niej uzupeˆni†.
+Instalowanie na dysku :
+By przerwa† instalacj©, nale¾y wybra† klawisz z napisem  KONIEC
+Dysk instalacyjny
+MegaCAD V 16.0 Wersja Edukacyjna (IX-2000)
+Plik «r¢dˆo:
+Plik cel   :
+Podczas pr¢by kopiowania pliku, stwierdzono bˆ¥d. Nast©puj¥cych plik¢w nie mo¾na odnale«† na dysku:
+s¥ u¾ywane przez inne oprogramowanie.  Prosz© zamkn¥† do nich dost©p innym programom i ponownie przeprowadzi† instalacj©.
+nie mo¾na zainstalowa†.
+Prosz© poda† peˆn¥ nazw© katalogu (wraz z nazw¥ dysku), w kt¢rym maj¥ zosta† zapisane rysunki MegaCAD-a.
+Prosz© poda† peˆn¥ nazw© katalogu (wraz z nazw¥ dysku), w kt¢rym maj¥ zosta† zapisane makro-rysunki MegaCAD-a.
+Ustawienie i opcje
+DXF-wyj˜cie
+DXF-wej˜cie
+Grubo˜† pisma postscript od 1  do 8 Dots 
+Grub.
+Katalogi dla r¢¾nych program¢w pomocniczych. W wypadku pierwszej instalacjiproponujemy wybra† klawisz "DALEJ". Klawiszem "KONIEC" mo¾na przerwa† instalacj©.
+Jednostki dˆugo˜ci dla konwersji z DXF
+Postscript
+Katalog plik¢w chwilowych
+Katalog plik¢w CDL
+Katalog plik¢w Batch
+Katalog def. klawiatury
+Katalog infor. tekst. makro
+Katalog wyj˜cia listy elemen.
+Katalog format¢w ramek
+Katalog plik¢w DXF
+Katalog font¢w pism
+Katalog font¢w wymiarowaä
+Katalog plik¢w SLD
+Katalog plik¢w HPGL
+Katalog plik¢w tekstowych
+Prosz© poda†
+i/lub dysk, w kt¢rym b©dzie umieszczony plik.
+Katalog o tej nazwie nie istnieje ! Mam go stworzy† ?
+Przerwa† instalacj© ???
+Wyst¥piˆ bˆ¥d wydruku !
+Wydruk zostaˆ przerwany.
+Ustawianie drukarki zostaˆo przerwane.
+Znalazˆem star¥ wersj© MegaCADa. Aby nadpisa† w jej miejsce now¥ wybra† klawisz >OK<
+Taki katalog jest niewˆa˜ciwy!
+Prosz© do pliku AUTUEXEC.BAT dopisa† <katalog>SHARE.EXE/L:500 
+Wyst¥piˆ bˆ¥d przy pr¢bie stworzenia katalogu w podanym dysku.
+W funkcji TsValidPath podano nieistniej¥cy katalog
+Prosz© poda† nazw© katalogu poprzedzon¥ 
+Oto przykˆady wˆa˜ciwych nazw
+Bˆ¥d instalacji
+Prosz© wˆo¾y† dyskietk© nr:
+&Opcje
+&1-sza instalacja
+&Zmiany instalacji
+&Help
+&Ustawienie drukarki
+&Wydruk MEGACAD.INI
+&Koniec
+&Instalacja 32-bit (Windows NT / 95)
+&Nazwy katalog¢w
+&Opcje
+&Help
+Podanie nazwy ikony
+Podanie nazwy grupy
+Podanie nazw grup i adres¢w
+Nazwy grup istniej¥ dalej >>tak<<,  nadpisa† >>nie<<
+MegaCAD
+C:\MEGA16BP
+MEGA16BP
+MegaCAD V 16.0
+Standardowe katalogi
+Wolna pami©†=
+42750000
+10
+Zainstalowa† na serwerze grup© MegaCAD ?
+Instalacja szczeg¢ˆowa
+Standardowa instalacja
+Instalacja u¾ytkownika
+MegaCAD zostanie wpisany do
+Instalacja dla Windows &3.1x (16 bit)
+WML1TO4.EXE
+NTMEGA3D.EXE
+NTMEGP.EXE
+WDXF32.EXE
+WDWG.EXE
+WDWG32.EXE
+WPLOT5.EXE
+WPLOT32.EXE
+NTFONT.EXE
+INSTMEGA.EXE
+MEGASTUD.EXE
+WDXF53D.EXE
+WDXF332.EXE
+WIGES3D.EXE
+WIGES332.EXE
+WMCONFIG.EXE
+WMCONF32.EXE
+MTL-Aktuell
+MegaCAD NT
+MegaPAR
+Mega-DXF NT
+Mega-DWG
+Mega-DWG\DXF
+Mega-PLOT
+Mega-PLOT NT
+Mega-CONFIG
+Mega-CONFIG NT
+M-FONTEDIT
+MegaSTUDIO
+M-INSTALL
+Mega-DXF 3D IN
+Mega-DXF 3D IN NT
+Mega-IGES 3D IN
+Mega-I
+CCSETUP.EXE
+CopyMove
+Zabezpieczenie programu nie zostaˆo zainstalowane! Aby zainstalowa† zabezpieczenie prosz© uruchomi† program CCSETUP ikon¥ o nazwie CopyMove w grupie Megacad!
+Mb wymagane dla MegaCADa

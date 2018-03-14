@@ -1,0 +1,55 @@
+Plik FONT.DAT nie istnieje lub posiada bˆ©dny format.
+Brak pliku MEGACAD.INI.
+OK
+Powr¢t
+C:\MEGA16BP\MEGA.HLP 591011                    
+Program  : U.Benetz
+Tˆumaczenie : Paweˆ Siennicki
+Wcztyanie pliku z fontem
+Zapisanie pliku z fontem
+Plik z fontem %s ju¾ istnieje! Nadpisa†?
+Nacisn¥† liter© (ESC - powr¢t) :
+Na pewno skasowa† (%c) ?
+Przej¥† zmiany ?
+Czy zapisa† font %s  ?
+Nie wybrani ¾adnej litery. Wybierz ?
+Litera : (%c)  nr : (%2d)
+Powr¢t
+Wskaza† pocz¥tek linii
+Wskaza† koniec linii
+L:
+P:
+Wskaza† pocz¥tek splainu
+Wskaza† koniec splainu
+Grot  praw/lewo   1.pkt podparcia .
+Grot  g¢ra/d¢ˆ    2.pkt podparcia .
+Wyb¢r elementu
+do˜†
+Zapisanie ustawienie
+Ustawienie nie jest zapisane ! ! !
+Opcja :
+Siatka
+Pkt koäca
+Linia 
+Splain 
+kasowanie
+wyb¢r 
+Dokˆadno˜† myszy :
+MegaCAD font wektorowy
+Wszystkie pliki
+Litera (%c) ju¾ istnieje. Nadpisa† ?
+Szeroko˜† liter  :
+postawi†
+wskaza† punkt
+edycja elementu
+stawianie koäca linii
+stawianie koäca splajnu
+przesuni©cie podparcia
+kompletny zestaw liter
+zamkni©cie
+font wektorowy
+font bitmap
+Wyb¢r litery z :
+OEM Font
+ANSI Font
+litera docelowa

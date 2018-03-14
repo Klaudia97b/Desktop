@@ -1,0 +1,48 @@
+PrtLoad
+PrtNew
+PrtIns
+PrtSave
+PrtSavAs
+PrtExtr
+--------
+MacLoad
+User_mac_plus
+MacNew
+MacIns
+MacExtr
+--------
+PrnConfg
+PrtPrint
+--------
+ModeRefP
+DragDrop
+--------
+Undo
+Redo
+MirrVer
+MirrHor
+--------
+SelFunc
+TglCalc
+TglCross
+DoMenu
+--------
+--------
+DEF:Exec wc, .\plot\wplot32.exe $NAME$
+HLP:Plot-Programm|Plot-Programm aufrufen
+B16:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œzF?[wFM?wF?›z¯M[w¶Ÿ\w¶Mz¯­€z?­\?¶?›B¶?
+B16:¯­\?¶ŸœB¶ŸœB¶Ÿ€zF­@?F­€B?­@w¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­\}¶Wr¥‹X²¢‹Xžz»·\}¶­œz‹®œz»M^}†®œz¶Mžz¶­p}¶·°z¶­\¥¶­œz‹®\}»­œz†¸œz¶MB
+B24:¶­\¥¶­œz‹®œz¶·œz¶Wžz¶M²z¶­\}¶­\¥¶­œz»­œz†®œz†Nžz¶M²z¶M^¥‹Xr¥‹Xr¥†Xr}¶­œz¶­œz¶­œz¶­@
+B24:¶­œB?­€z¶?›B??›z¶Ÿ\w¯­€z¯­€š¯­\wFM›z¯M›z¯?zF?›B¶M›B¶M›DN­€z¶ŸœB¶ŸœBFŸ~w¯­\?¯Mz¶Ÿ@
+B24:J½~w¶­œz¶­œz¶­A·¾ œz¶­œz¶­œ‚? ¾F¶­œz¶????U_CNU›z¶­€¾¾¾¾DNP«œ¯­œBN?»¾o ~Co@›zF½¾¾¾ B
+DEF:Exec wc, .\dwg\wdwg32.exe
+HLP:DWG-DXF-Programm|DWG-DXF-Programm aufrufen
+B16:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œzF?[wFM?wF?›z¯M[w¶Ÿ\w¶Mz¯­€z?­\?¶?›B¶?
+B16:¯­\?¶ŸœB¶ŸœB¶Ÿ€zF­@?F­€B?­@w¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶?
+B24:¶Mžz‹Xr¥‹¸p¥‹®\}»Mžz¶­\¥¶­\}†Nž¢¶­œz†®œz¶Mžz»·œz¶M²z¶­œ¢¶M^}¶­œ¢»­œz†®œz‹®œz¶Wžz¶­@
+B24:¶­œz‹®œz†¸œz¶­œz¶M²z¶­\}¶­œz¶­œ¢†®œz†¸œz†Xr¥‹Xr¥‹X²¢‹Xžz¶­œz¶­œz¶­œzF?›B¶­\w¶?z¶­@
+B24:¯M[w¶­€z¯­œz¶M›BF­œz¯M›z¶­œB¶Ÿ\w¶ŸœBFŸœz¶Ÿ\wFM[w¶ŸœB¶­\wF­€BF­\w¶ŸœzF?›z??z¶?z¶­@
+B24:¶­œz¶­œz¶­œz¶­œzVrŠ¶m‹X®œz¶­¤z¸m{V®œz¶­œz¸mz¸­¤{¶­œz¶mŠ¶±¤z¸­œz¶­œŠX®¤zVnz¶­@
+--------
+Help

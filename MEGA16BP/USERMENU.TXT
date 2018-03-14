@@ -1,0 +1,5 @@
+Shell                   : Exec
+Rozkaz                  : Exec e,
+ZESTAWIENIE PLIK‡W      : Batch DIR2.MBT
+LINIE i K‡ùKA           : Batch MK1.MBT
+.....                   :

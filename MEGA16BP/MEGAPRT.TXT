@@ -1,0 +1,45 @@
+[PARA]
+BUF:=512
+LTM:=50
+ATM:=282
+HTM:=2000
+RFB:=2048
+FIL:=All files (*.*)|*.*|Print Files (*.tmp)|*.tmp||
+MOD:=COM2:,9600,e,7,1
+PTK:=Dsr
+[END]
+
+; Strings dÅrfen | - Zeichen nicht Åberschreiben
+; strings must not overwrite | - sign
+
+[STRINGS]
+"MegaCAD Print Manager"     |               IDS_APPLNAME
+"HiddenPrinter"             |               IDS_CLASSNAME
+"wait"                      |               IDS_WAITING
+"printing"                  |               IDS_PRINTING
+"assigned"                  |               IDS_INVALID
+"missing"                   |               IDS_NO_FILE
+"ready"                     |               IDS_PRINTED
+"deletet"                   |               IDS_DELETED
+"Delte All Jobs"            |               IDS_DELJOBS
+"Cts"                       |               IDS_CTS
+"Dsr"                       |               IDS_DSR
+"Xon"                       |               IDS_XON
+"delete"                    |               IDS_DEL
+"print"                     |               IDS_ADD
+"again"                     |               IDS_REAKTIVATE
+"Job Info"                  |               IDS_JOBINFO
+"Priority"                  |               IDS_LPTPARA
+"Connection"                |               IDS_PORT
+"Baudrate"                  |               IDS_BAUD
+"Parity"                    |               IDS_PARITY
+"Databits"                  |               IDS_DATABITS
+"Stopbits"                  |               IDS_STOPBITS
+"Protokoll"                 |               IDS_FLOWCTR
+"Priority"                  |               IDS_PRIORITY
+"High                   Low"|               IDS_HIGHLOW
+"Timer        "             |               IDS_TIMER
+"OK"                        |               IDS_OK
+"abort"                     |               IDS_ESC
+"Printer queue ist full!"   |               IDS_QUEUEFUL
+[END]

@@ -1,0 +1,485 @@
+MegaMenu MENU
+BEGIN
+    POPUP "&Rysunek"
+    BEGIN
+        POPUP "Z&arz•dzanie"
+          BEGIN
+            MENUITEM "Katalogi &rysunk¢w"       ,334
+            MENUITEM "&Kasowanie rysunku"       ,341
+            MENUITEM SEPARATOR
+            MENUITEM "Katalogi &makr"           ,313
+            MENUITEM "K&asowanie makra"         ,320
+          END
+        MENUITEM SEPARATOR
+        MENUITEM "&Nowy rys."                   ,345
+        MENUITEM "&Wczytanie"                   ,336
+        POPUP "Pliki na serwerze"
+           BEGIN
+           MENUITEM "Wczytanie..."                 ,4000
+           MENUITEM "Doà•czenie..."                ,4001
+           MENUITEM "&Zapisanie"                   ,4002
+           MENUITEM "Zapis. &jako:"                ,4003
+           END
+        MENUITEM SEPARATOR
+        MENUITEM "&Zapisanie"                   ,338
+        MENUITEM "Zapis. &jako:"                ,339
+        MENUITEM "Zapis &2D"                    ,346
+        MENUITEM "Zapis w wersji 2.5"           ,340
+        MENUITEM "Wy&cinanie"                   ,343
+        MENUITEM SEPARATOR
+        POPUP "Import"
+          BEGIN
+            MENUITEM "&Rysunek"                 ,337
+            MENUITEM "&Makro"                   ,316
+            MENUITEM "&Bitmapa"                 ,553
+            MENUITEM "&HPGL, IGES lub CDL"      ,421
+            MENUITEM "&Wsp¢àrz©dne CDL"         ,422
+            MENUITEM "DXF..."                   ,4004
+            MENUITEM "IGS..."                   ,4005
+            MENUITEM "WMF - wczytanie"          ,425
+            MENUITEM SEPARATOR
+            MENUITEM "MDB-Access - wczytanie"   ,434
+          END
+        MENUITEM SEPARATOR
+        POPUP "&Export"
+          BEGIN
+            MENUITEM "&Rysunek 3D"              ,343
+            MENUITEM "Makro &3D"                ,322
+            MENUITEM "Makro &2D"                ,325
+            MENUITEM "&Bitmapa"                 ,554
+            MENUITEM "&Wsp¢àrz©dne CDL"         ,423
+            MENUITEM "3D-DXF"                   ,428
+            MENUITEM "3D-IGS model drutowy"     ,429
+            MENUITEM "2D-DWG-DXF-Export..."     ,4006
+            MENUITEM SEPARATOR
+            MENUITEM "SAT zapis"                ,432
+            MENUITEM SEPARATOR
+            MENUITEM "STL zapis"                ,433
+            MENUITEM SEPARATOR
+            MENUITEM "WMF zapis bitmapowy"      ,426
+            MENUITEM "WMF zapis wektorowy"      ,427
+            MENUITEM SEPARATOR
+            MENUITEM "CDL zapis"                ,423
+            MENUITEM SEPARATOR
+            MENUITEM "MDB-Access - zapis"       ,435
+          END
+        MENUITEM SEPARATOR
+        POPUP "&Procedury"
+          BEGIN
+            MENUITEM "UruchomiÜ program &CIP"   ,441
+            MENUITEM "UruchomiÜ program &DLL"   ,442
+            MENUITEM "Wczytaj program DLL"      ,443
+          END
+        MENUITEM SEPARATOR
+        MENUITEM "W&yr¢ænienie"                 ,335
+        MENUITEM SEPARATOR
+        MENUITEM "Wyd&ruk"                      ,342
+        MENUITEM "Druk-&Setup"                  ,515
+        MENUITEM SEPARATOR
+        MENUITEM "D&OS"                         ,344
+        MENUITEM SEPARATOR
+        MENUITEM "KONI&EC"                      ,9997
+        MENUITEM SEPARATOR
+        MENUITEM "&1"                           ,348
+        MENUITEM "&2"                           ,349
+        MENUITEM "&3"                           ,350
+        MENUITEM "&4"                           ,351
+    END
+    POPUP "&EDYCJA"
+    BEGIN
+        MENUITEM "MENU EDYCJA  "                  , 37
+        MENUITEM SEPARATOR
+        MENUITEM "&Edit linia       "             , 38
+        MENUITEM "E&dyt blok        "             , 39
+        MENUITEM "Edyt &atrybut¢w    "            , 41
+        MENUITEM "Ed&yt atrybut¢w element¢w "     , 42
+        MENUITEM "&rozci•ganie"                   , 43
+        MENUITEM "&przesuwanie z kopiowaniem"     , 44
+        MENUITEM "skalowan&ie"                    , 46
+        MENUITEM "&odbicie"                       , 47
+        MENUITEM "o&bracanie        "             , 48
+        MENUITEM "&zaokr•glenie"                  , 53
+        MENUITEM "&fazowanie "                    , 55
+        MENUITEM "doà•czanie &1   "               , 57
+        MENUITEM "doà•czanie &2  "                , 58
+        MENUITEM "doà•czanie wielu  &3"           , 59
+        MENUITEM "doà•czanie kursorem &4"         , 60
+        MENUITEM "doà•czanie o wartoòÜ &5"        , 61
+        MENUITEM "przecinanie"                    , 64
+        MENUITEM "wycinanie ze wskazaniem "       , 65
+        MENUITEM "wycinanie bez wskazania"        , 66
+        MENUITEM SEPARATOR
+        MENUITEM "przesuwanie òcianki bryày"      , 70
+        MENUITEM "rozci•ganie bryày"              , 74
+        MENUITEM "deformacja bryày"               , 71
+        MENUITEM "edycja otworu"                  , 73
+        MENUITEM "przesuni©cie otworu"            , 72
+        MENUITEM SEPARATOR
+        MENUITEM "&Undo"                          , 30
+        MENUITEM "&Redo"                          , 31
+    END
+    POPUP "&Makro"
+    BEGIN
+        MENUITEM "Z&arz•dzanie"                 ,313
+        MENUITEM "&Kasowanie"                   ,320
+        MENUITEM SEPARATOR
+        MENUITEM "&Nowe makro"                  ,324
+        MENUITEM "&Wczytanie"                   ,315
+        MENUITEM "&Doà•czenie"                  ,316
+        MENUITEM SEPARATOR
+        POPUP "Pliki na serwerze"
+           BEGIN
+           MENUITEM "Wczytanie..."                 ,4007
+           MENUITEM "Doà•czenie..."                ,4008
+           MENUITEM "&Zapisanie"                   ,4009
+           MENUITEM "Zapis. &jako:"                ,4010
+           END
+        MENUITEM SEPARATOR
+        MENUITEM "&Zapisanie"                   ,317
+        MENUITEM "Zapis. &jako:"                ,318
+        MENUITEM "Zapis &2D"                    ,325
+        MENUITEM "Wy&cinanie"                   ,322
+        MENUITEM "W&yr¢ænienie"                 ,314
+        MENUITEM SEPARATOR
+        MENUITEM "&Uchwyt-punkt"                ,331
+        MENUITEM "&Rozci•ganie"                 ,332
+        MENUITEM "D&B-INFO"                     ,333
+        MENUITEM SEPARATOR
+        MENUITEM "Wyd&ruk"                      ,321
+        MENUITEM "Druk-&Setup"                  ,515
+        MENUITEM SEPARATOR
+        MENUITEM "D&OS"                         ,323
+        MENUITEM SEPARATOR
+        MENUITEM "&1"                           ,327
+        MENUITEM "&2"                           ,328
+        MENUITEM "&3"                           ,329
+        MENUITEM "&4"                           ,330
+    END
+    POPUP "E&lem. 2D"
+    BEGIN
+    MENUITEM "MENU IKONOWE &PUNKT‡W.."       ,158
+    POPUP "Punkty polecenia tekstowe"
+    BEGIN
+        MENUITEM "Pojedynczy punkt"          ,159
+        MENUITEM "w r¢wnych odst©pach  "     ,160
+        MENUITEM "w r¢wnych cz©òciach"       ,161
+        MENUITEM "punkty na okr©gu "         ,162
+        MENUITEM "w formie gwiazdy      "    ,163
+        MENUITEM "w formie wielok•ta"        ,164
+        MENUITEM "siatka kunkt¢w"            ,165
+    END
+    MENUITEM SEPARATOR
+    MENUITEM "MENU IKONOWE &LINII.."         ,167
+    POPUP "Linie polecenia tekstowe"
+    BEGIN
+        MENUITEM "pojedynczo   "             ,168
+        MENUITEM "linie konstrukcyjne  "     ,169
+        MENUITEM "polilinie"                 ,170
+        MENUITEM "rozkàad polilinii"         ,171
+        MENUITEM "zà•czenie w polilini©   "  ,172
+        MENUITEM "styczne do 2 okr©g¢w "     ,173
+        MENUITEM "styczna do okr©gu "        ,174
+        MENUITEM "ortogonalne        "       ,178
+        MENUITEM "styczne pod k•tem     "    ,175
+        MENUITEM "pod podanym k•tem  "       ,179
+        MENUITEM "pionowe linie    "         ,180
+        MENUITEM "poziome linie      "       ,181
+        MENUITEM "poziome i pionowe linie "  ,182
+        MENUITEM "dwusieczne k•ta   "        ,185
+        MENUITEM "pod k•tem    "             ,186
+        MENUITEM "r¢wnolegàe     "           ,187
+        MENUITEM "prostopadàe     "          ,189
+        MENUITEM "siatka linii.."            ,190
+        MENUITEM "z wolnej r©ki  "           ,193
+        MENUITEM "krzywe parametryzowane "   ,194
+    END
+    MENUITEM SEPARATOR
+    MENUITEM "MENU IKONOWE &OKR®G‡W.."       ,201
+    POPUP "Okr©gi polecenia tekstowe"
+    BEGIN
+        MENUITEM "òrodek i promie‰   "       ,202
+        MENUITEM "promie‰ i 2 punkty "       ,204
+        MENUITEM "òrodek i punkt    "        ,205
+        MENUITEM "òrodek i styczna     "     ,207
+        MENUITEM "trzy punkty "              ,208
+        MENUITEM "styczna i 2 punkty       " ,209
+        MENUITEM "dwa punkty  "              ,210
+        MENUITEM "2 punkty i styczny okr©g"  ,211
+        MENUITEM "promie‰ i dwie styczne    ",212
+        MENUITEM "styczny do 3 element¢w   " ,213
+        MENUITEM "styczny do 2 ele. i punkt" ,214
+        MENUITEM "wsp¢àosiowy "              ,215
+        MENUITEM "styczna i 2 punkty        ",216
+        MENUITEM "wartoòci kartezja‰skie"    ,217
+        MENUITEM "styczny el. promie‰ punkt" ,218
+        MENUITEM "wartoòci biegunowe"        ,219
+    END
+    MENUITEM SEPARATOR
+    MENUITEM "MENU IKONOWE ù&UK‡W.."         ,226
+    POPUP "ùuki polecenia tekstowe"
+    BEGIN
+        MENUITEM "òrodek punkt-promie‰-k•t  ",227
+        MENUITEM "promie‰ i dwa punkty   "   ,228
+        MENUITEM "òrodek punkt-òrednica-k•t ",229
+        MENUITEM "2 styczne i promie‰       ",230
+        MENUITEM "punkt-punkt-k•t    "       ,231
+        MENUITEM "àuk r¢wnolegày   "         ,232
+        MENUITEM "3 punkty          "        ,233
+        MENUITEM "styczny do linii i punkt  ",234
+        MENUITEM "òrodek i dwa punkty  "     ,235
+        MENUITEM "styczny do 3 element¢w "   ,236
+        MENUITEM "styczny (àuk/linia) i k•t ",237
+        MENUITEM "styczny 2 element¢w-punkt" ,238
+        MENUITEM "dane biegunowe    ..."     ,239
+        MENUITEM "koordynaty kartezja‰skie...",240
+    END
+    MENUITEM SEPARATOR
+    MENUITEM "MENU IKONIOWE &ELIPS.."         ,249
+    POPUP "Elipsy polecenia tekstowe"
+    BEGIN
+        MENUITEM "òrodek i p¢àosie A-B "      ,250
+        MENUITEM "wpisana w prostok•t"        ,252
+        MENUITEM "r¢wnolegàa elipsa "         ,254
+        MENUITEM "elipsa p¢àosie A-B i k•t"   ,256
+        MENUITEM "leæ•ca na 3 punktach"       ,258
+        MENUITEM "styczna do 2 element¢w"     ,260
+        MENUITEM "wpisana w prostok•t "       ,262
+        MENUITEM "wartoòci z klawiatury"      ,264
+        MENUITEM SEPARATOR
+        MENUITEM "wycinek òrodek osie A-B "   ,251
+        MENUITEM "wycinek w prostok•cie"      ,253
+        MENUITEM "wycinek r¢wnolegày"         ,255
+        MENUITEM "wycinek p¢àoò i k•t"        ,257
+        MENUITEM "wycinek na 3 punktach "     ,259
+        MENUITEM "wycinek styczny 2 elem"     ,261
+        MENUITEM "wycinek k•t prostok•ta"     ,263
+        MENUITEM "wycinek dane z klawiatury"  ,265
+    END
+    MENUITEM SEPARATOR
+    MENUITEM "MENU IKONOWE &WYMIAROWANIA"     ,280
+    POPUP "Wymiarowanie polecenia tekstowe"
+    BEGIN
+        MENUITEM "wymiar poziomy"            ,281
+        MENUITEM "wymiar pionowy"            ,282
+        MENUITEM "wymiar ukoòny"             ,283
+        MENUITEM "wymiar òrednicy"           ,289
+        MENUITEM "wymiar promienia"          ,291
+        MENUITEM "wymiar k•ta"               ,287
+        MENUITEM "rzut na lini© "            ,284
+        MENUITEM "prostopadày do linii"      ,285
+        MENUITEM "dàugoòÜ àuku"              ,286
+        MENUITEM "wymiar òci©cia"            ,288
+        MENUITEM "òrednica jako odnoònik"    ,290
+        MENUITEM "promie‰ jako odnoònik "    ,292
+    END
+        MENUITEM SEPARATOR
+        MENUITEM "&Isometria..."             ,416
+        MENUITEM "&Kreskowanie..."           ,417
+        MENUITEM "&Doà•czenie bitmapy"       ,553
+        MENUITEM "&Zapis bitmapy"            ,554
+    POPUP "&Teksty"
+    BEGIN
+        MENUITEM "wpisanie linii tekstu"     ,271
+        MENUITEM "wpisanie bloku tekstu"     ,272
+        MENUITEM "edycja pliku .TXT "        ,274
+        MENUITEM SEPARATOR
+        MENUITEM "parametry tekstu"          ,270
+    END
+    END
+    POPUP "Elem. &3D"
+    BEGIN
+    MENUITEM "MENU IKONOWE &BRYù"            ,374
+    POPUP "Bryày polecenia tekstowe"
+    BEGIN
+     POPUP "Bryày &podst."
+     BEGIN
+        MENUITEM "&Szeòcian"                 ,375
+        MENUITEM "Kli&n"                     ,376
+        MENUITEM "&Ostrosàup"                ,377
+        MENUITEM "S&toæek"                   ,378
+        MENUITEM "&Walec"                    ,380
+        MENUITEM "&Beczka"                   ,384
+        MENUITEM "&Kula"                     ,385
+        MENUITEM "Sko&rupka"                 ,387
+        MENUITEM "&Torus"                    ,388
+     END
+     POPUP "Bryày &wyci•gane"
+     BEGIN
+        MENUITEM "Graniastosàup &prawidàowy" ,389
+        MENUITEM "&Ostrosàup òci©ty"         ,390
+        MENUITEM "Graniastosàup &dowolny"    ,391
+        MENUITEM "&Ruroci•g"                 ,392
+     END
+     POPUP "Bryày &obrotowe"
+     BEGIN
+        MENUITEM "Oò obrotu-&kraw©d´"        ,393
+        MENUITEM "Oò obrotu-&dowolna"        ,394
+     END
+    END
+    MENUITEM SEPARATOR
+    POPUP "&Arytmetyka"
+    BEGIN
+        MENUITEM "&Zaokr•glanie"             ,395
+        MENUITEM "&Fazowanie"                ,396
+        MENUITEM "&Suma 2 bryà"              ,397
+        MENUITEM "&R¢ænica 2 bryà"           ,398
+        MENUITEM "&Ci©cie pà-zn•"            ,399
+        MENUITEM "Cz©òÜ wsp¢lna &dw¢ch"      ,400
+        MENUITEM "Wykrycie &kolizji"         ,402
+    END
+        MENUITEM SEPARATOR
+        MENUITEM "&Ustalenie wizualizacji"       ,461
+        MENUITEM "&Cieniowanie"                  ,478
+        MENUITEM "Ukrycie &niewidocznych"        ,480
+        MENUITEM "Ukrycie &kraw©dzi "            ,481
+        MENUITEM "&Model siatkowy"               ,484
+        MENUITEM "Wizualizacja z moduàem OpenGL" ,479
+    END
+    POPUP "&ZOOM"
+    BEGIN
+        MENUITEM "Zmniej&sz  {h}"               , 12
+        MENUITEM "Powi©ks&z"                    , 11
+        MENUITEM "C&aày rysunek {a}"            , 13
+        MENUITEM "Skala &1:1 {0}"               , 15
+        MENUITEM "W&ycinek {w}"                 , 16
+        MENUITEM "Poprzedn&i "                  , 29
+        MENUITEM SEPARATOR
+        MENUITEM "&Przesuni©cie {P}"            , 17
+        MENUITEM SEPARATOR
+        MENUITEM "W&yczyòÜ {r}"                 , 18
+        MENUITEM SEPARATOR
+        MENUITEM "&Konfiguracja"                , 20
+    END
+    POPUP "&Funkcje"
+    BEGIN
+        MENUITEM "&WùASNE"                      ,444
+        MENUITEM SEPARATOR
+        MENUITEM "&Interpreter C"               ,441
+        MENUITEM SEPARATOR
+        MENUITEM "&Kasowanie"                   , 78
+        MENUITEM "&Odòwierz"                    , 18
+        MENUITEM SEPARATOR
+        MENUITEM "&Layer"                       ,490
+        MENUITEM "&Grupa"                       ,491
+    POPUP "&INFO"
+    BEGIN
+        MENUITEM "informacje o elemencie"    ,357
+        MENUITEM "wsp¢àrz©dne "              ,358
+        MENUITEM "odlegàoòÜ punktu od linii" ,359
+        MENUITEM "odlegàoòÜ dw¢ch punkt¢w"   ,360
+        MENUITEM "k•t mi©dzy elementami"     ,361
+        MENUITEM "k•t mi©dzy 3 punktami"     ,362
+        MENUITEM "dàugoòÜ elementu"          ,363
+        MENUITEM "obw¢d  "                   ,365
+        MENUITEM "powierzchnia"              ,366
+        MENUITEM "òrodek ci©ækoòci"          ,368
+        MENUITEM "konfiguracja informacji"   ,370
+        MENUITEM SEPARATOR
+        MENUITEM "MENU INFO ..."             ,356
+    END
+    POPUP "&CDL"
+    BEGIN
+        MENUITEM "CDL czytanie "             ,422
+        MENUITEM "CDL zapis        "         ,423
+        MENUITEM SEPARATOR
+    END
+        MENUITEM SEPARATOR
+    POPUP "Opcja wychwytu"
+    BEGIN
+        MENUITEM "kursor"                    , 96
+        MENUITEM "siatka "                   , 97
+        MENUITEM "punkt "                    , 98
+        MENUITEM "òrodek"                    , 99
+        MENUITEM "koniec   "                 ,100
+        MENUITEM "odst©p od ko‰ca"           ,101
+        MENUITEM "element "                  ,102
+        MENUITEM "segment"                   ,103
+        MENUITEM "przeci©cie"                ,104
+        MENUITEM "przeci©cie 2"              ,105
+        MENUITEM "koniec i òrodek"           ,107
+        MENUITEM "stycznoòÜ"                 ,108
+        MENUITEM "stycznoòÜ 2"               ,109
+        MENUITEM "ortogonalny"               ,110
+        MENUITEM "klawiatura "               ,111
+        MENUITEM "dygitizer"                 ,112
+        MENUITEM "konstrukcje  "             ,114
+        MENUITEM "prostopadàoòÜ"             ,115
+        MENUITEM "symbole konstrukc."        ,120
+        MENUITEM "wielokrotn. ON/OFF"        ,122
+        MENUITEM "wychwyt ON/OFF"            ,124
+        MENUITEM SEPARATOR
+        MENUITEM "MENU WYCHWYTU.."           ,447
+    END
+        MENUITEM SEPARATOR
+    POPUP "Opcja wyb¢r"
+    BEGIN
+        MENUITEM "wyb¢r pojedynczo"          ,141
+        MENUITEM "wyb¢r ekran"               ,142
+        MENUITEM "wyb¢r okno"                ,143
+        MENUITEM "wyb¢r grupa"               ,148
+        MENUITEM "wyb¢r layer..."            ,149
+        MENUITEM "wyb¢r kolor..."            ,150
+        MENUITEM "wyb¢r kontur"              ,153
+        MENUITEM "wyb¢r polilinia"           ,154
+        MENUITEM "wyb¢r powierzchnia"        ,155
+        MENUITEM SEPARATOR
+        MENUITEM "MENU WYB‡R..."             ,447
+    END
+        MENUITEM SEPARATOR
+        MENUITEM "MENU Gù‡WNE.."             ,447
+    END
+    POPUP "&DB"
+    BEGIN
+        MENUITEM "&DB"                          ,420
+        MENUITEM "&Pojedyncze elementy - info"  ,516
+        MENUITEM "&Dane z *.xls, *.mdb itp.  "  ,4011
+    END
+    POPUP "&Konfiguracja"
+    BEGIN
+        MENUITEM "Konfiguracja siatki"          ,492
+        MENUITEM SEPARATOR
+        MENUITEM "Zapisanie ustawienia"         ,503
+        MENUITEM "Przedefiniowanie klawiszy"    ,505
+        MENUITEM "Wczytanie def. klawiszy"      ,506
+        MENUITEM "Usuni©cie def. klawiszy"      ,507
+        MENUITEM SEPARATOR
+        MENUITEM "Konfiguracja programu"        ,508
+        MENUITEM "Konfiguracja ekranu"          ,509
+        MENUITEM SEPARATOR
+    POPUP "Konfiguracja tekstu"
+    BEGIN
+        MENUITEM "Konfiguracja tekstu"          ,270
+        MENUITEM "Kontrola poàoæenia tekstu"    ,510
+    END
+        MENUITEM SEPARATOR
+        MENUITEM "Konfiguracja wymiarowania"    ,307
+        MENUITEM "Atrybuty domyòlne element¢w"  , 82
+        MENUITEM SEPARATOR
+        MENUITEM "Ustawianie gruboòci linii"    ,512
+        MENUITEM "Kolory ukàadu wsp¢àrz©dnych"  ,514
+        MENUITEM SEPARATOR
+        MENUITEM "Zarz•dzanie menu ikonowymi"   ,513
+        MENUITEM "Tworzenie i ustawianie ikon"  ,517
+        MENUITEM SEPARATOR
+        POPUP    "&Programy pomocnicze"
+        BEGIN
+           MENUITEM "Wydruki..."                   ,4012
+           MENUITEM "Konwersja D&WG\DXF..."        ,4013
+           MENUITEM "Skr¢ty klawiaturowe..."       ,4014
+           MENUITEM "Edycja font¢w..."             ,4015
+       END
+    END
+    POPUP    "&Schowek"
+    BEGIN
+        MENUITEM "kopiowanie pikslowe"          , 32
+        MENUITEM "kopiowanie wektorowe"         , 34
+        MENUITEM "kopiowanie MegaCAD"           , 35
+        MENUITEM "kopiowanie OLE"               , 36
+        MENUITEM "wczytanie"                    , 33
+    END
+    POPUP    "&?"
+    BEGIN
+        MENUITEM "&Help..."                     ,450
+        MENUITEM "&Info..."                     ,449
+    END
+END

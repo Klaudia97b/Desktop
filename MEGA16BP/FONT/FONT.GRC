@@ -1,0 +1,53 @@
+FontMenu MENU
+
+BEGIN
+	POPUP "&Plik"
+	BEGIN
+                MENUITEM "&Nowy"              ,1000
+                MENUITEM "&Otw¢rz"            ,1001
+                MENUITEM "&Zapisz"            ,1002
+                MENUITEM "Zapisz &jako"       ,1003
+                MENUITEM "&poka¾ wszystkie"   ,1004
+                MENUITEM "&Koniec"            ,9997
+        END
+        POPUP "&Znak"
+        BEGIN
+                MENUITEM "&Nast©pny"         ,3004
+                MENUITEM "&Poprzedni"        ,3005
+                MENUITEM "&Kopiuj"           ,4001
+                MENUITEM "Ka&suj"            ,4002
+                MENUITEM "&Wyb¢r"            ,4003
+        END
+        POPUP "&Konstruowanie"
+        BEGIN
+                MENUITEM "&Spline"           ,3000
+                MENUITEM "&Linia"            ,3001
+                MENUITEM "&Redraw"           ,3002
+                MENUITEM "&Kasowanie"        ,3003
+                MENUITEM "Szeroko˜† &znaku"  ,3006
+                MENUITEM "&Modyfikacja"      ,3007
+        END
+        POPUP "&Siatka"
+        BEGIN
+                MENUITEM "&siatka ekranu"    ,6005
+                MENUITEM "&bez siatki"       ,6000
+                MENUITEM "1 : &1"            ,6001
+                MENUITEM "1 : &2"            ,6002
+                MENUITEM "1 : &5"            ,6003
+                MENUITEM "1 : &10"           ,6004
+        END
+        POPUP "&Ustawienia"
+        BEGIN
+                MENUITEM "&listwa ikon"      ,5000
+                MENUITEM "&du¾e ikony"       ,5001
+                MENUITEM "&MegaCAD manager"  ,7004
+                MENUITEM "d&okˆadno˜† myszy" ,7003
+                MENUITEM "&zapisanie teraz"  ,7000
+                MENUITEM "&pod koniec programu" ,7001
+        END
+	POPUP "&HELP"
+	BEGIN
+		MENUITEM "&Informacja",2002
+		MENUITEM "&O programie",2003
+	END
+END

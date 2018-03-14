@@ -1,0 +1,104 @@
+GoMenu
+DEF:InterP .\cip\pomoc.mtl\luk-2luk.cip
+HLP:2 ˆuki wsp¢ˆ˜rodkowe|Dwa ˆuki wsp¢ˆ˜rodkowe do wskazanego ("0")
+B16:¶­\???›z¶­\?¶­œB¯­œB¶Wr¥»M›z¯Mžz¶MžB¶Ÿ°z??›¢FM[}F­œB¶·@w»Ÿœz¶Ÿ°B¯·€z¶­€¢F?
+B16:¯·€z¶­œz¶Ÿ°B¶­œzX²€¢¶ŸœzV®œ{¯·\?¯mz¸Ÿ\}¶­œ{¶±\w†X²z¸­¤zFŸœz¶±œŠ¶­\??­œ‹¸?
+B24:¶­œz¶­œz¶­œz¶­œz¶­@???z¶­œz¶­\?¶­œzFŸœz¶­œz¯­p¥‹¸œB¶­œz¶Ÿ\¥¶­œ¢»M›z¶­€z»­œz¶­°z¯­@
+B24:¶Ÿ\}¶???¯­°z¯­\w»­€z¶­€z†®œz¯MžB¶­œzF­œz¶M[}F­œz¶­œz¶­œB†®€z¶­œz¶­œz¶Ÿ°z¯­œz¶­œz¶­@
+B24:FMžB¶­œz¶­œz¶­€¢¶Ÿœz¶­œz¶m¥z¯·\w¶­œzVrz¸M›¢¶Ÿœz¶mz¸mz¯·œz¶­œ{¶­¤z¶M›¢¶­œzV®œz¸­@
+B24:¶M›z¶­œz¸­œŠ¶­œz¶­œz¶mz¶±œz¶­œz¶­œŠ¶­œ{¶­œz¶­œz¸mz¸­œz¶­œz¶mzX²œz¶­œz¶­œŠ¸­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\luk-plin.cip
+HLP:okr¥g,ˆuk -> ˆamana|Zamiana okr©gu lub ˆuku na ˆaman¥
+B16:¶­\???›z¶­\?¶­œB¯­œB¶­œz¶M›z¯­œz¶­œB¶?^¥‹®œzFM›¢¶­p¥»­@w†®œz¶MrE¯­°z¶­œz¶?
+B16:¯­°z¶­œz¶Ÿœz»­œz¶­€z¶·œz¶­œz¯­\}¶­œz¶Ÿœz»­œz¶­\w¶Mžz¶­œzFŸ\}¶­œz¶­\?®œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­@???z¶­œz¶­\?¶­œ¢KŸœz¶­œz¯­\¥‹®°B¶­œz¶Ÿ\¥»­œz»M›z¶­€¢»­œz¶­°z¯­@
+B24:¶Ÿ\}¶­œz¶­°z¯­\w»­œz¶­œz»M›z¯Mžz¶­œz¶­°z¯M›¢¶­œz¶­œz†N›B¶·œz¶­œz¶­°B¶Ÿ°z¶­œz¶­œz† @
+B24:FMžz¶­œz¶­œz¶­€¢¶­œz¶­œz¶­œz®œz¶­œz¶­œz¶M¯z¶­œz¶­œz¶­œz¸œz¶­œz¶­œz¶M›¢¶­œz¶­œz¶­@
+B24:¶M›¢¶­œz¶­œz¶­œz¯M²z¶­œz¶­œz¶­€z†®œz¶­œz¶­œzFŸ\}¶­œz¶­œz¶­œB?Ÿœz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\luk-srkk.cip
+HLP:uk ˜r+R+k¥ty|uk zdefiniowany przez punkt ˜rodkowy, promieä i k¥ty
+B16:¶­œz¶q¥²¶­œz¶qz¨®œz¶mz¶žz¶­¤z¶­\~¶­œ{??›z¦®œŠ¶Ÿ\w¶žz¸­€z¯­\~¶±œB?Ÿœz½?
+B16:V®œBF­œz½q¥zF­€z¶»œ{¶M›B¶­¸z¸­œz¶­œz½Mr¥‹®œz¶»œz¶­p¥¶­¸z¶­œz¶Wž²¶­œz¶­œ¢‹@
+B24:¶­œz¶­œz¶­œ²¶­œz¶­œz¶­œz¶»œz¶­œz¶q¥‹X²\~¶­œz¶m¥z¶­œŠ¨®œz¶­œ{¶­œz¶­¸z¶­œz¸­œz¶­œz½­@
+B24:¶­œ{¶­œz¶­œz½­œz¸­œz¶­œz¶žz¶±œzF?z¶­œ²¶­œ{¶­€zF­œz¶»œz¸­œz¯­€z¶­\~¶mz¶M›z¯­œz¦®@
+B24:¶±œz¶ŸœB¶­œz½­¤‹¶­\??­œz¶žzX²œzFM›z¶­œ²¶m¥{¶­€z¯­œz¶»œz¸­œz¯­€z¶­\~¶mz¶­œz¶­œz¶»@
+B24:‹xz¶­œz¶­œz¦®œ¢‹X²z¶­œz¶­¸z¶­œz†Xr}¶­œz½­œz¶­œz¶Wr¥»žz¶­œz¶­œz¶­p¥¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\luk-edit.cip
+HLP:uk skracanie/wydˆu¾anie|Zmiana dˆugo˜ci ˆuku na trzy sposoby
+B16:¶­\???›z¶­\?¶­œB¯­œB¶­œz¶M›z¯­œz¶­œ¢¶Ÿœ{¶­œz†N›z¸­œŠ¶­pwXr¥z¸­œ¢¯­¤z¶±œz†@
+B16:¯­¤zV®œz† œz¶±œz¶M‚z¶mz¶­œz»­œ{Vr¥z¶·œŠ¶­œz¶­\}¶­œz¶­œz†¸œz¶­œz¶­\¥¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œzF???¶­œz¶­œz¶?›z¶Mz¶­œz¶­€z¶­œzF­œz¶­œB¶­œz¶­\}¶­@
+B24:¶­€z¶­œz¶­\}¶­œB¶­¤z¶­œz¶·œz¶Ÿœz¸­œŠ¶­\}¶­€zVr¥{V®œz¶·œz¯­œŠ¶­¤z¶­\}¶M›z¶±œŠ¶­œz†®@
+B24:¶Ÿœz¶­¤z¶­œz»­\w¶­œŠ¶­œz¶­œzF­œz¶±œ‹X²œz¶­€z¶­¤z¶­œz¶­œzF­œz¶­œz¶­œz¶­€z¶­œz¶­œz¶­@
+B24:¶­°z¶­œz¶­œz¶­œz†®œz¶­œz¶­œz¶­\}¶­œz¶­œz¶­œz¶Wžz¶­œz¶­œz¶­œz‹Xžz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\schweisv.cip
+HLP:linia ˆuk¢w|Wrysowanie odcinka ˆuk¢w
+B16:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­¤{V²œ‹¶q{¶±œŠ¶mz¸­¤zV®œ{¶?
+B16:¸­¤zV®œ{¶m¥zX®¤{V²œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œzV²œŠ¸­¤{¶qzXnzV®œŠ¶­¤z¶±œ{¶mzV®œŠ¶­¤zV®œŠ¶­¤z¶±œz¸­@
+B24:¸­œ{¶mzV®œŠ¶­¤z¶±œz¸­œ{¶mzV²œŠ¸­¤{¶qzX®œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\luk-okr.cip
+HLP:uk <-> okr¥g|Zamiana ˆuku na okr¥g i odwrotnie
+B16:¶W²z¶­\a¶Wž¢»­œ_¶§°z¶Mžz°­\¡¶­\MPaƒzƒ®œz»­œw¶G²z‹®œJ¶Mœz‹¸œz¶­œz¶­œz¶­œz¶?
+B16:¶­œz¶­œz¶­œz¶­œbƒ­\x¶¡œz³­R¶­œw†§œbcmƒGPMœz¶‡›z¶¡\y¶­Px¶m›z†­\yf£œz¶MPa³?
+B24:¶Mr¥¶­œz¶­Pa¶­\}¶Mžz¶­œb¶Mœz»­œz»­œz°­œz³·œz¶­°z¶­„z¶­P}¶­œz»­œzV­œzƒ®œz¶MžGPaƒw¶M@
+B24:»­œz¶·œz¶m›z¶§°z¶­°z¶­œw¶­z†®œ¢¶­œz°­œb¶­\¥‹®œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶GPy¶­ˆz¶m›z¶­z¶§œR¶­œz°­œb¶­œbf­œz¶­„z†­œz¶M@
+B24:±mƒGPaƒz³­œz¶‡›z¶­œJ¶Mœz¶­\Q¶­œzV­œb¶­œz†›z¶m›z¶Mœz¶Mœz±­œz¶­œz³­\y¶­Hx¶­œz¶­Pa³­@
+DEF:InterP .\cip\pomoc.mtl\luk-ptmp.cip
+HLP:˜rodek, R i k¥ty|uk przez wskazanie ˜rodka, promienia oraz k¥t¢w
+B16:¶­œz¶­œz¶­¸z¶­œz½­œ²¶­œz¶»œ²»œz¶B¯¶’z¶­œ³F­œzƒ­œ‹¶M›z¶­PŽ¶­\w¶­œbC­œz¯?
+B16:¶­œŠ½­œz¯­œzV¼œz¶Ÿœz¶±œz¶­€z¶m¥z¶­\?¶­¸{¶­œB¶­\¶¯­œz?­œz¦ œzF­œz¶^??Ÿœz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶»œz¶­œz¶­¸z¶­\~¶­œz¶­œz½­œ²›žz¶­œz¦œz~¶­xy¶­œz¶­œ³¯­@
+B24:¶^y¶­œz¶m]~¯­œz¶Gœz¶­¤{¶M›z¶­œz³­œŠ¶­œz¯­œz¶­²V®œz¶M›z¶­œz†{z¶­œB¶­œz¶z±½­œz¶Ÿ@
+B24:¶­œz¶m¹z¶­œzF­œz¶­œ{½­œz¶­€z¶­œzV®œz¶­œz¯­œz¶mz¶­œz¶Ÿœz¶­œŠ¶­œz¶­\w¶­œzV®œz¶­œz¯­@
+B24:¶­\Ž¶­œz¶­\w¶­œz¦²œz¶­œz¯­œz¶›z¶¶­œz¶Ÿœz¶­œzMŸœz¶Mz¶­œz¶žB???w¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\arc-132.cip
+HLP:uk przez 3 punkty|uk przez 3 punkty: koäce i ˜rodek
+B16:‹®œz¶­œz¶­°z¶­œz¶­p}¶­@??Ÿœz†®@w¶­@?†N^w¶­œz¶­°B¯­œz†Xžz¯­œz¶­\}¶Ÿœz¶­\¥¶?
+B16:¶Ÿœz¶­\}¶­€z¶­œz‹¸œB¶Mžz¶­œzF­p}¶­œz¶M[}»­œz¶­\w¶·œz¶­œzF­°z¶­œz¶­œ¢¶­œz¶?
+B24:†¸œz¶­œz¶­œz¶Mž¢¶­œz¶­œz¶­œz¶·œz¶­œz¶­œz¶M²z¶­œB????¶­œz†®œz?­œz¶Mz¶­°z¶Ÿœz¶­œzF­@
+B24:»Mžz¯­œz¶­œz¶­p}¶Ÿœz¶­œz†¸œz¶­€z¶­œz¶Mž¢¶­œB¶­œz¶­œz¶·œz¶Ÿœz¶­œz¶­°z¶­€z¶­œz¶­œ¢¶­@
+B24:¶M›z¶­œz¶­°z¶­œB¶­œz¶­œz‹Xžz¶Ÿœz¶­œz¶­œz¶­\w¶­°z¶­œz¶­œzF­œ¢»­œz¶­œz¶­€z†Nžz¶­œz¶­@
+B24:¶M›¢¶·œz¶­œz¶­œz¯­\}¶­œz¶­œz¶M›z†®œz¶­œz¶­œz¯­°z¶­œz¶­œz¶­œz»­œz¶­œz¶­œz¶Mžz¶­œz¶­@
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc

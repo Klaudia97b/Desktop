@@ -1,0 +1,2175 @@
+; Help Magician Pro CNT File v4.00.000
+:Base Mega.hlp
+:Title
+1 Hilfe verwenden =Intro
+  ;*HMKey 091612020001
+1 Erste Informationen =Erste_Informationen
+  ;*HMKey 091612021051
+1 MegaCAD V16.0 - Neues im Update
+2 Allgemeine Neuerungen
+3 Die Neuerungen im Überblick =Upgate_Gliederung
+  ;*HMKey 131222490001
+3 Anordnung der Menüleisten auf dem Bildschirm =Set20
+  ;*HMKey 091612020490
+3 Autozoom aufrufen =Zo3
+  ;*HMKey 221454220341
+3 Punkte
+4 Punkte als Netz zeichnen =Punkt8
+  ;*HMKey 221454220074
+3 Linien
+4 Liniennetz =Linie19
+  ;*HMKey 211501210097
+4 Mittelkreuz =Mittelkreuz
+  ;*HMKey 211501210109
+4 Tangente lotrecht =CS_211501211052
+  ;*HMKey 211501211052
+4 Linie als Parallele =Linie16
+  ;*HMKey 211501210094
+4 Linie als Lot =Linie18
+  ;*HMKey 211501210096
+3 Bögen
+4 Bogen-An Bogen-Linie-Spline ansetzen und Punkt =Bogen9
+  ;*HMKey 200825180193
+4 Bogen-An Bogen-Linie-Spline ansetzen mit Radius =Bogen12
+  ;*HMKey 200825180196
+3 Editieren
+4 Aufbrechen Attribute übernehmen =Edi23_3
+  ;*HMKey 211523231064
+4 Trimmen mehrfach =Edi17
+  ;*HMKey 211523230445
+4 Zeichenelemente mit Kreis ausschneiden und skalieren =CS_211523231065
+  ;*HMKey 211523231065
+4 Zeichenelemente mit Polygon ausschneiden uns skalieren =CS_211523231066
+  ;*HMKey 211523231066
+4 Zeichenelemente mit Rechteck ausschneiden uns skalieren =CS_211523231066
+  ;*HMKey 211523231066
+4 Zeichnung säubern =CS_211523231059
+  ;*HMKey 211523231059
+3 Modus Wahl
+4 Fläche mit automatischer Inselerkennung =CS_111508331115
+  ;*HMKey 111508331115
+3 Fangmodus
+4 Übernehmen von Werten =Modwahl
+  ;*HMKey 111508331114
+3 Raster
+4 Maßeinheiten wählen =mR10
+  ;*HMKey 221454220335
+3 Bemaßung
+4 Einzelbemaßung/Kettenmaß =Bema18
+  ;*HMKey 221454220259
+4 Lagetoleranzen =Bema15
+  ;*HMKey 221454220256
+4 Winkelbemaßung mit Hinweispfeil =Bema9
+  ;*HMKey 221454220250
+4 Winkelbemaßung =Bema8
+  ;*HMKey 221454220249
+4 Bemaßung-Maßtext ändern =Bema43
+  ;*HMKey 211511380324
+4 Maßtext mit Rechteck theoretisch genaues Maß =Bema43
+  ;*HMKey 211511380324
+4 Bemaßungsmaßstab =Bema28
+  ;*HMKey 221454220264
+4 Bemaßungsausgabe in Grad/Minuten/Sekunden =BemaMin
+  ;*HMKey 211511381040
+4 Durchmesser- und Radiuszeichen =Bema27
+  ;*HMKey 221454220263
+4 Maße mit Klammern =CS_211511381047
+  ;*HMKey 211511381047
+3 Access-Schnittstelle
+4 ACCESS Schnittstelle =CS_091612021063
+  ;*HMKey 091612021063
+3 ODBC-Schnittstelle
+4 ODBC-Schnittstelle =CS_091612021062
+  ;*HMKey 091612021062
+4 ODBC-Schnittstelle Daten verbinden =CS_091612021068
+  ;*HMKey 091612021068
+4 ODBC-Schnittstelle Daten anzeigen =CS_091612021064
+  ;*HMKey 091612021064
+4 ODBC-Verknüpfung anzeigen =CS_091612021067
+  ;*HMKey 091612021067
+4 ODBC-Verknüpfung löschen =CS_091612021066
+  ;*HMKey 091612021066
+3 Makros Zeichnungen
+4 Baugruppen (Makros in Makros) =CS_091612021070
+  ;*HMKey 091612021070
+4 Zeichnung als Email versenden =CS_091612021061
+  ;*HMKey 091612021061
+4 Laden einer Datei (Zeichnung) =p8
+  ;*HMKey 080809560008
+3 Texte
+4 Textzeile =Test13
+  ;*HMKey 211507020267
+4 Hinweistext mit Pfeil =Hinweistext_mit_Pfeil
+  ;*HMKey 211507021035
+4 Texte auf einem Bogen einfügen =Test27_2
+  ;*HMKey 211507021034
+4 Texte suchen und ersetzen =CS_211507021061
+  ;*HMKey 211507021061
+4 Numerieren =Text_Num
+  ;*HMKey 211507021060
+3 Neues Im Parametricprogramm
+4 Punkteset Matrix =CS_161502050045@MEGAP.HLP
+  ;*HMKey 161502050045
+4 Punkteset Linie =CS_161502050038@MEGAP.HLP
+  ;*HMKey 161502050038
+4 Punkteset Kreis =CS_161502050039@MEGAP.HLP
+  ;*HMKey 161502050039
+4 Kreisset Matrix =CS_161502050042@MEGAP.HLP
+  ;*HMKey 161502050042
+4 Kreisset Linie =CS_161502050044@MEGAP.HLP
+  ;*HMKey 161502050044
+4 Kreisset Kreis =CS_161502050043@MEGAP.HLP
+  ;*HMKey 161502050043
+4 Konturset Matrix =CS_161502050049@MEGAP.HLP
+  ;*HMKey 161502050049
+4 Konturset Linie =CS_161502050041@MEGAP.HLP
+  ;*HMKey 161502050041
+4 Makroset Linie =CS_161502050048@MEGAP.HLP
+  ;*HMKey 161502050048
+4 Makroset Matrix =CS_161502050047@MEGAP.HLP
+  ;*HMKey 161502050047
+4 Makroset Kreis =CS_161502050046@MEGAP.HLP
+  ;*HMKey 161502050046
+4 Verteilung eines Liniensets im Dialog =CS_161502050050@MEGAP.HLP
+  ;*HMKey 161502050050
+4 Schachteln =CS_161502050040@MEGAP.HLP
+  ;*HMKey 161502050040
+4 Parallel Profile =CS_161502050037@MEGAP.HLP
+  ;*HMKey 161502050037
+4 Parametrischen Bemaßungstext editieren =CS_161502050011@MEGAP.HLP
+  ;*HMKey 161502050011
+2 3D-Volumenmodell
+3 Grundkörper-Menü =Mop1
+  ;*HMKey 301635470052
+3 Feature Tree =Tree
+  ;*HMKey 301635470102
+3 Einstellung des Feature-Tree =Tree_Setup
+  ;*HMKey 091612021052
+3 Feature Tree aus =CS_091612021069
+  ;*HMKey 091612021069
+3 Editieren einer parametrischen Grundfläche =Edit_prisma_para
+  ;*HMKey 301635470108
+3 Editieren der Grundfläche beenden =CS_301635470107
+  ;*HMKey 301635470107
+3 Runden von Körperkanten an Mop-Objekten. =Mop30
+  ;*HMKey 301635470080
+3 Rundungen-Fasen editieren =CS_301635470109
+  ;*HMKey 301635470109
+3 Fasen von Körperkanten =Mop31
+  ;*HMKey 301635470081
+3 Höhlung in einem Körper erzeugen =Hoehlung_Koerper
+  ;*HMKey 301635470098
+3 Offset von Körpern =Offset
+  ;*HMKey 301635470100
+3 Helix (Schrauben-Federn) =Helix_Koerper
+  ;*HMKey 301635470096
+3 Addition von zwei Mopkörpern =Mop24
+  ;*HMKey 301635470074
+3 Subtraktion von zwei Mopkörpern =Mop25
+  ;*HMKey 301635470075
+3 Selektion von 3D-Objekten =CS_301635470111
+  ;*HMKey 301635470111
+3 Flächen aus Einzelelementen zusammenstellen =c3
+  ;*HMKey 281736010004
+3 Offset-Fläche von mehreren Flächen =CS_281736010068
+  ;*HMKey 281736010068
+3 Segmentfläche durch Punktangabe (Bezierfläche) =c9
+  ;*HMKey 281736010014
+3 Flächen orientieren =CS_281736010069
+  ;*HMKey 281736010069
+3 Silhouettkurven erzeugen =CS_281736010070
+  ;*HMKey 281736010070
+3 Schnittkurve durch mehrere Körper und Flächen =KurveN1
+  ;*HMKey 281736010067
+3 Projektionen direkt aufrufen =CS_301635470110
+  ;*HMKey 301635470110
+3 Direktes Aufrufen von Hiddenline =CS_151058540038
+  ;*HMKey 281736010042
+3 Facettierung ändern =c17
+  ;*HMKey 281736010024
+3 ACIS Genauigkeit =CS_091612021072
+  ;*HMKey 091612021072
+3 MOP-Werkz. löschen =CS_091612021071
+  ;*HMKey 091612021071
+3 2D-Arbeitsblätter =2D_Arbeitsblaetter
+  ;*HMKey 091612021032
+2 ACIS-Version
+3 ACIS Version zur Ausgabe (Export/Import) einstellen =CS_091612021029
+  ;*HMKey 091612021029
+1 2D-Arbeitsblätter
+2 2D-Arbeitsblätter =2D_Arbeitsblaetter
+  ;*HMKey 091612021032
+1 Allgemeine Informationen
+2 Einleitung =Einleitung
+  ;*HMKey 221454220004
+2 Funktionsübersicht =Uebersicht
+  ;*HMKey 221454220005
+2 Starten vom Windows-Dateimanager aus =M4004
+  ;*HMKey 221454220628
+2 Ende =Ende
+  ;*HMKey 221454220542
+2 Online-Hilfe =Win25
+  ;*HMKey 221454220621
+2 Suchen in der Online-Hilfe =Win26
+  ;*HMKey 221454220622
+2 Arbeiten mit dem Parametricmodul =Para_Aufruf
+  ;*HMKey 091612021054
+1 Grundlagen und Hilfsfunktionen
+2 Konstruktionsmethoden-Allgemeines =Konst1_1
+  ;*HMKey 221454220007
+2 Grundlagen der Bedienung =Konst5
+  ;*HMKey 221454220008
+2 MegaCAD Popupmenüs =M4001
+  ;*HMKey 221454220627
+2 Return und ESC-Taste =Win7
+  ;*HMKey 221454220609
+2 Klick und Doppelklick =Win9
+  ;*HMKey 221454220611
+2 MegaCAD mit einem Digitizer bedienen =Konst7
+  ;*HMKey 221454220009
+2 Die Zeichenfläche von MegaCAD =Konst8
+  ;*HMKey 221454220010
+2 Der Anzeigebereich =Konst9
+  ;*HMKey 221454220011
+2 Die Fenster =Konst10
+  ;*HMKey 221454220012
+2 Der Taschenrechner =Konst11
+  ;*HMKey 221454220013
+2 Das Hauptmenü von MegaCAD =Konst13
+  ;*HMKey 221454220015
+2 Punkt-u. Objektbestimmungsmenü =Die_Modusmen_s
+  ;*HMKey 111508331109
+2 Inkrementaler Bezugspunkt =Konst4
+  ;*HMKey 221454220017
+2 Permanent-Schalter zur Anzeige der Fangpunkte =Konst3
+  ;*HMKey 221454220018
+2 Redraw =Neuzeichnen
+  ;*HMKey 221454220337
+2 Redraw alle Windows =Neuzeichnen
+  ;*HMKey 221454220337
+2 Scrollbars =M4008
+  ;*HMKey 221454220629
+2 Undo (Einen Zeichenbefehl zurücknehmen) =Konst48
+  ;*HMKey 221454220056
+2 Redo (Einen Undo-Befehl zurücknehmen) =Konst49
+  ;*HMKey 221454220057
+2 OLE Austauschen von Informationen unter Windows-Programmen mit OLE =OleAustausch
+  ;*HMKey 221454220642
+2 Die festen Funktionstasten von MegaCAD =Funktionstasten
+  ;*HMKey 221454220603
+2 Funktionsaufrufe =Funktionsaufrufe
+  ;*HMKey 091612020634
+2 DLL-Windows-Schnittstelle =M4033
+  ;*HMKey 091612020635
+2 Die Zoomfunktionen
+3 Zoom Allgemein =Zo1
+  ;*HMKey 221454220339
+3 Zoomsetup =Zoomsetup
+  ;*HMKey 221454220357
+3 Redraw =Neuzeichnen
+  ;*HMKey 221454220337
+3 Redraw alle Windows =Neuzeichnen
+  ;*HMKey 221454220337
+3 Autozoom aufrufen =Zo3
+  ;*HMKey 221454220341
+3 Zoom als Totale 1:1 =Zo4
+  ;*HMKey 221454220342
+3 Zoom als Direktzoom =Zo5
+  ;*HMKey 221454220343
+3 Zoom als Pan-Zoom =Zo6
+  ;*HMKey 221454220344
+3 Zoom größer/kleiner (Faktor einstellbar) =ZoomPusMinus
+  ;*HMKey 221454220346
+3 Zoom vor/zurück =Zoom_vor_zurueck
+  ;*HMKey 221454220347
+3 Zoom-Ausschnitte =Zo7
+  ;*HMKey 221454220354
+3 Zoom-Ausschnitte selbst definieren =Zo8
+  ;*HMKey 221454220355
+3 Zoom-Ausschnitte selbst anzeigen =Zo9
+  ;*HMKey 221454220356
+3 Zoom-Ausschnitte selbst aufrufen =Zo10
+  ;*HMKey 221454220358
+3 Zoom-Funktionen in der Attributleiste =Zoom_Funktionen_in_der_Attributleiste
+  ;*HMKey 221454220345
+2 Clipboard nutzen
+3 Clipboard-Übertragen von Zeichnungsobjekten über das Clipboard =Win15
+  ;*HMKey 221454220614
+3 Kopieren verschiedener Formate =Win21
+  ;*HMKey 221454220619
+3 Einfügen Clipboard =Win22
+  ;*HMKey 221454220620
+3 Textdaten und Clipboard =Win17
+  ;*HMKey 221454220615
+3 Bilddaten im Bitmap-Format =Win18
+  ;*HMKey 221454220616
+1 Zeichnungsobjekte und Attribute
+2 Die Zeichnungsobjekte =Konst12
+  ;*HMKey 221454220014
+2 Die Attributbestimmung =Konst15
+  ;*HMKey 221454220019
+2 Segmentieren von Zeichnungsobjekten =Konst16
+  ;*HMKey 221454220020
+2 Farbe setzen =Farben_2
+  ;*HMKey 221454220021
+2 Attribute direkt setzen =Konst17
+  ;*HMKey 221454220022
+2 Arbeiten mit dem Parametricmodul =Para_Aufruf
+  ;*HMKey 091612021054
+2 Layer
+3 Layer Allgemein =Lay1_1
+  ;*HMKey 221454220490
+3 Layer und Gruppen =Lay2_2
+  ;*HMKey 221454220491
+3 Layer-Zuordnung von Zeichnungsobjekten zu Layern =Lay3_3
+  ;*HMKey 221454220492
+3 Layer ein- und ausschalten =Lay4_4
+  ;*HMKey 221454220493
+3 Layer sperren =Lay4_4
+  ;*HMKey 221454220493
+3 Layernamen vergeben =Lay5_5
+  ;*HMKey 221454220494
+3 Layer-Objekte eines Layers gleichzeitig bearbeiten =Lay6_6
+  ;*HMKey 221454220495
+3 Layer/Gruppen Darstellungsart Ansicht =Lay7_7
+  ;*HMKey 221454220496
+3 Layer/Gruppen Alle umschalten, einschalten, ausschalten =Lay9_9
+  ;*HMKey 221454220497
+3 Layer/Gruppen Alle =Lay10_1
+  ;*HMKey 221454220498
+3 Layer/Gruppen Alle EIN/Alle AUS =Lay11_1
+  ;*HMKey 221454220499
+3 Layer/Gruppen-Namen in Textdatei schreiben =Lay12_1
+  ;*HMKey 221454220500
+3 Layer/Gruppen-Maske bei Einstellungen im ganzen Programm =Lay13_1
+  ;*HMKey 221454220501
+2 Gruppen
+3 Gruppen-Allgemein =Gru1
+  ;*HMKey 221454220507
+3 Gruppen und Layer =Gru2
+  ;*HMKey 221454220508
+3 Gruppen-Zuordnung von Zeichnungsobjekten zu Gruppen =Gru3
+  ;*HMKey 221454220509
+3 Gruppe ein- und ausschalten =Gru4
+  ;*HMKey 221454220510
+3 Gruppennamen vergeben =Gru5
+  ;*HMKey 221454220511
+3 Gruppen-Objekte einer Gruppe gleichzeitig bearbeiten =Gru6
+  ;*HMKey 221454220512
+3 Gruppen/Layer Darstellungsart Ansicht =Gru7
+  ;*HMKey 221454220513
+3 Gruppen/Layer Alle umschalten, einschalten, ausschalten =Gru8
+  ;*HMKey 221454220514
+3 Gruppen/Layer Alle =Gru9
+  ;*HMKey 221454220515
+3 Gruppen/Layer Alle EIN/Alle AUS =Gru10
+  ;*HMKey 221454220516
+3 Gruppen/Layer-Namen in Textdatei schreiben =Gru11
+  ;*HMKey 221454220517
+3 Gruppen/Layer-Maske bei Einstellungen im ganzen Programm =Gru12
+  ;*HMKey 221454220518
+1 Zeichenfunktionen
+2 Punkte zeichnen
+3 Punkte zeichnen Allgemein =Punkt1
+  ;*HMKey 221454220067
+3 Punktsymbole für die Punktoptionen =Punkt1_2
+  ;*HMKey 211504330969
+3 Punkte frei =Punkt2
+  ;*HMKey 221454220068
+3 Punkte mit gleichem Abstand auf Objekten =Punkt3
+  ;*HMKey 221454220069
+3 Punkte mit gleichem Abstand auf Objekten mit Wertangabe =Punkt4
+  ;*HMKey 221454220070
+3 Punkte auf einem Kreis (Bogen) aufgeteilt =Punkt5
+  ;*HMKey 221454220071
+3 Punkte sternförmig zeichnen =Punkt6
+  ;*HMKey 221454220072
+3 Punkte als N-Eck zeichnen =Punkt7
+  ;*HMKey 221454220073
+3 Punkte als Netz zeichnen =Punkt8
+  ;*HMKey 221454220074
+2 Linien zeichnen
+3 Linien zeichnen Allgemein =Linie1
+  ;*HMKey 221454220076
+3 Linien frei =Linie2
+  ;*HMKey 221454220077
+3 Linien frei mit Konstruktionslinien =Linie3
+  ;*HMKey 221454220078
+3 Linien als Tangente an Kreis =Linie4
+  ;*HMKey 221454220079
+3 Linien als Tangente an zwei Kreise =Linie5
+  ;*HMKey 221454220080
+3 Linie als Tangente an Kreis unter Winkelangabe =Linie6
+  ;*HMKey 221454220081
+3 Linie als Tangente an Kreis\Spline  Berührpunkt und Endpunkt =LinieZ6
+  ;*HMKey 211501210085
+3 Linie tangential an Spline anfügen =LinZ6_2
+  ;*HMKey 211501211019
+3 Linien ortogonal =Linie7
+  ;*HMKey 221454220082
+3 Linien unter einem Winkel mit Längenangabe =Linie8
+  ;*HMKey 221454220083
+3 Linien horizontal =Linie10
+  ;*HMKey 221454220085
+3 Linien vertikal =Linie11
+  ;*HMKey 221454220086
+3 Linien horizontal und vertikal gleichzeitig =Linie12
+  ;*HMKey 221454220087
+3 Rechteck =Linie13
+  ;*HMKey 221454220088
+3 Linien als Winkelhalbierende =Linie14
+  ;*HMKey 221454220089
+3 Linie gedreht =Linie15
+  ;*HMKey 221454220090
+3 Linie als Parallele =Linie16
+  ;*HMKey 221454220091
+3 Linien mit sofortiger Parallelen =Linie17
+  ;*HMKey 221454220092
+3 Linie als Lot =Linie18
+  ;*HMKey 221454220093
+3 Tangente lotrecht =CS_211501211052
+  ;*HMKey 211501211052
+3 Liniennetz =Linie19
+  ;*HMKey 221454220094
+3 Linie als Freihandlinie =Linie20
+  ;*HMKey 221454220095
+3 Linien als N-Eck =Linie21
+  ;*HMKey 221454220096
+3 Viereck zeichnen =Viereck
+  ;*HMKey 091612020945
+3 Spline Allgemein =Linie22
+  ;*HMKey 221454220097
+3 Spline als Statistischer Bezier-Spline =Linie23
+  ;*HMKey 221454220098
+3 Spline als Kubischer-Bezier-Spline =Linie24
+  ;*HMKey 221454220099
+3 Spline als Modifizierter-Bezier-Spline =Linie25
+  ;*HMKey 221454220100
+3 Spline als Natürlich-Parametrisierter-Spline =Linie26
+  ;*HMKey 221454220101
+3 Spline als Periodisch-Parametrisierter-Spline =Linie27
+  ;*HMKey 221454220102
+3 Spline bearbeiten =Linie28
+  ;*HMKey 091612020105
+3 Mittelkreuz =Mittelkreuz
+  ;*HMKey 091612020106
+3 Mittelinie als Linie zwischen vier Punkten mit Überstand =Mittel_linie
+  ;*HMKey 211501210970
+3 Paralleles Profil =Paralleles_Profil
+  ;*HMKey 091612020942
+3 Zickzacklinien =Zickzacklinien
+  ;*HMKey 091612020944
+3 Polylines =Linie30
+  ;*HMKey 221454220105
+3 Isometrie
+4 Räumliche Darstellung Allgemein =ISO1
+  ;*HMKey 270846310014
+4 Räumliche Ansichten-Darstellbereich =ISO2
+  ;*HMKey 270846310015
+4 Projektion von 3D-Ansichten ohne Dicke nach der Tafel =ISO9
+  ;*HMKey 270846310022
+4 3D-Darstellung aufrufen, unter Berücksichtigung der Dicke =ISO7
+  ;*HMKey 270846310020
+4 Räumliche Darstellung Selektieren von Zeichenelementen EIN- AUS-schal =ISO10
+  ;*HMKey 270846310023
+4 Räumliche Darstellung vorwählbare Projektionsarten =ISO5
+  ;*HMKey 270846310018
+4 Räumliche Darstellung Verbindungsattribute bei der 3D-Darstellung =ISO8
+  ;*HMKey 270846310021
+4 Räumliche Darstellung Winkelveränderung =ISO4
+  ;*HMKey 270846310017
+4 Räumliche Darstellung, Angabe der Objekthöhe =ISO6
+  ;*HMKey 270846310019
+4 Räumliche Darstellung Achsen drehen =ISO3
+  ;*HMKey 270846310016
+4 Räumliche Darstellung Abschließende Bemerkungen =ISO11
+  ;*HMKey 270846310024
+2 Kreise zeichnen
+3 Kreise zeichnen Allgemein =Kreis1
+  ;*HMKey 221454220123
+3 Kreis-Mittelpunkt und Radius =Kreis2
+  ;*HMKey 221454220124
+3 Kreis - Mittelpunkt und Durchmesser =KreisMpktDurch
+  ;*HMKey 091612020946
+3 Kreis-Radius und zwei Punkte =Kreis3
+  ;*HMKey 221454220125
+3 Kreis-Mittelpunkt und Randpunkt =Kreis4
+  ;*HMKey 221454220126
+3 Kreisring Mittelpunkt und Randpunkte =Kreisring
+  ;*HMKey 091612020947
+3 Kreis-Mittelpunkt und Tangente =Kreis5
+  ;*HMKey 221454220127
+3 Kreis-Drei Punkte =Kreis6
+  ;*HMKey 221454220128
+3 Kreis-Berührpunkt und Randpunkt =Kreis7
+  ;*HMKey 221454220129
+3 Kreis-Zwei Punkte =Kreis8
+  ;*HMKey 221454220130
+3 Kreis-Berührpunkt (Kreis) und Randpunkt =Kreis9
+  ;*HMKey 221454220131
+3 Kreis-Radius und zwei Tangenten =Kreis10
+  ;*HMKey 221454220132
+3 Kreis-Drei Tangenten =Kreis11
+  ;*HMKey 221454220133
+3 Kreis-Tangente und Punkt =Kreis12
+  ;*HMKey 221454220134
+3 Kreis-Konzentrische Kreise =Kreis13
+  ;*HMKey 221454220135
+3 Kreis-Tangente und zwei Punkte =Kreis14
+  ;*HMKey 221454220136
+3 Kreis-Mittelpunkt (kartesische Koordinaten) und Radius =Kreis15
+  ;*HMKey 221454220137
+3 Kreis-Radius, Tangente und Punkt =Kreis16
+  ;*HMKey 221454220138
+3 Kreis-Mittelpunkt (Polakoordinaten) und Radius =Kreis17
+  ;*HMKey 221454220139
+3 Kreissegment-Mittelpunkt-Randpunkt-Winkel =Kreissegment_MRSE
+  ;*HMKey 091612020948
+3 Kreissegment aus vorhandenem Kreis =Kreissegment_vkse
+  ;*HMKey 091612020949
+3 Kreissegment - Sehne-Mittelpunkt-Randpunkt-Sehne =Kreissegment_Sehne
+  ;*HMKey 091612020950
+3 Kreissegment Kreis-Sehne =Kresissegment_Kreis_Sehne
+  ;*HMKey 091612020951
+3 Kreis im Quadrat =Kreis_im_Quadrat
+  ;*HMKey 091612020952
+3 Kreis im Dreieck =Kreis_im_Dreieck
+  ;*HMKey 091612020953
+2 Bögen zeichnen
+3 Bögen Allgemein =Bogen1
+  ;*HMKey 221454220155
+3 Bogen-Mittelpunkt, Radius, Start- und Endwinkel =Bogen2
+  ;*HMKey 221454220156
+3 Bogen-Radius und zwei Punkte =Bogen3
+  ;*HMKey 221454220157
+3 Bogen-Mittelpunkt, Durchmesser, Start- und Endwinkel =Bogen4
+  ;*HMKey 221454220158
+3 Bogen-Radius, Tangente und Kreis-Linie =Bogen5
+  ;*HMKey 221454220159
+3 Bogen-Startpunkt, Endpunkt und Winkel =Bogen6
+  ;*HMKey 221454220160
+3 Bogen-Konzentrische Bögen =Bogen7
+  ;*HMKey 221454220161
+3 Bogen-Kreisbogen durch drei Punkte =Bogen8
+  ;*HMKey 221454220162
+3 Bogen-An Bogen-Linie-Spline ansetzen mit Radius =Bogen12
+  ;*HMKey 200825180196
+3 Bogen-An Bogen-Linie-Spline ansetzen und Punkt =Bogen9
+  ;*HMKey 200825180193
+3 Bogen-Mittelpunkt und zwei Punkte =Bogen10
+  ;*HMKey 221454220164
+3 Bogen-Drei Tangenten =Bogen11
+  ;*HMKey 221454220165
+3 Bogen-Zwei Tangenten und ein Punkt =Bogen13
+  ;*HMKey 221454220167
+3 Bogen-Mittelpunkt (Polarkoordinaten), Radius, Anfangs- und Endwinkel =Bogen14
+  ;*HMKey 221454220168
+3 Bogen-Mittelpunkt (kartesische Koordinaten), Radius, Anfangs- und End =Bogen15
+  ;*HMKey 221454220169
+3 Bögen zeichnen im Fontprogramm =Font16
+  ;*HMKey 091612020602
+3 Bogenring - Mittelpunkt-Randpunkte-Winkel =Bogenring_Mittelpkt_Randpkt_Wkl
+  ;*HMKey 091612020962
+3 Bogen- Mittelpunkt-Randpunkt-Winkel =Bogen_Mittelpkt_Rpkt_W
+  ;*HMKey 091612020963
+3 Bogen-Kreis-Sehne =Kreisbogen_Kreis_Sehne
+  ;*HMKey 091612020964
+3 Bogen aus Mittelpunkt, Tangentialpunkt, Winkel =Bogen_Mittelpunkt_Tangpkt
+  ;*HMKey 091612020965
+3 Bogen mit Tangentialpunkt, Randpunkt, Winkel =Bogen_Tangpkt_Randpkt_W
+  ;*HMKey 091612020966
+3 Bogen aus Mittelpunkt,Startpunkt,Winkel =Bogen_Mittelpkt_Startpkt_W
+  ;*HMKey 091612020967
+3 Bogen im Quadrat =Bogen_im_Quadrat
+  ;*HMKey 091612020968
+3 Bogen im Dreieck =Bogen_im_Dreieck
+  ;*HMKey 091612020969
+2 Ellipsen zeichnen
+3 Ellipsen zeichnen Allgemein =Elli1
+  ;*HMKey 221454220187
+3 Ellipsen-Mittelpunkt und die Ellipsenachsen A-B =Elli2
+  ;*HMKey 221454220188
+3 Ellipsen-Ellipsenbogen, Mittelpunkt und die Ellipsenachsen A-B =Elli3
+  ;*HMKey 221454220189
+3 Ellipse in einem Rechteck =Elli4
+  ;*HMKey 221454220190
+3 Ellipsenbogen in einem Rechteck =Elli5
+  ;*HMKey 221454220191
+3 Konzentrische Ellipse =Elli6
+  ;*HMKey 221454220192
+3 Konzentrische Ellipsenbögen =Elli7
+  ;*HMKey 221454220193
+3 Ellipse mit Halbachsenangabe und Winkel =Elli8
+  ;*HMKey 221454220194
+3 Ellipsenbögen mit Halbachsenangabe und Winkel =Elli9
+  ;*HMKey 221454220195
+3 Ellipse Brennpunkte und Randpunkt =Elli10
+  ;*HMKey 221454220196
+3 Ellipsenbogen Brennpunkte und Randpunkt =Elli11
+  ;*HMKey 221454220197
+3 Ellipse zwei Tangenten =Elli12
+  ;*HMKey 221454220198
+3 Ellipsenbogen zwei Tangenten =Elli13
+  ;*HMKey 221454220199
+3 Ellipse in einem Rechteck und Winkel =Elli14
+  ;*HMKey 221454220200
+3 Ellipsenbogen in einem Rechteck und Winkel =Elli15
+  ;*HMKey 221454220201
+3 Ellipse Tastatureingabe =Elli16
+  ;*HMKey 221454220202
+3 Ellipsenbogen Tastatureingabe =Elli17
+  ;*HMKey 221454220203
+3 Ellipsenring =Ellipsenring
+  ;*HMKey 091612020974
+3 Ellipsenringsegment =Ellipsenringsegment
+  ;*HMKey 091612020975
+3 Ellipse im Rechteck mit Rotation =Ellipse_im_Rechteck_R
+  ;*HMKey 091612020976
+3 Ellipsenbogen im Rechteck mit Rotation =Ellipsenbogen_Re_R
+  ;*HMKey 091612020977
+1 3D-Funktionen
+2 3D und 2D in MegaCAD 3D =3D_2D
+  ;*HMKey 301635470003
+2 Erste Schritte mit MegaCAD 3D =Erste_Schritte
+  ;*HMKey 301635470002
+2 Kanten-  Volumenmodell erzeugen =CS_281736010050
+  ;*HMKey 281736010050
+2 Lokal Operationen
+3 Verschieben von Löchern und Durchbrüchen an Körpern =CS_151058540044
+  ;*HMKey 281736010045
+3 Verschieben von Flächen an Körpern =CS_151058540043
+  ;*HMKey 281736010044
+3 Skalieren von Durchbrüchen und Löchern an Körpern =CS_281736010060
+  ;*HMKey 281736010060
+3 Verschieben einer Kante an Körperflächen =CS_151058540045
+  ;*HMKey 281736010046
+3 Verlängern von Körpern an einer Schnittfläche =CS_151058540047
+  ;*HMKey 281736010048
+3 Entfernen von Rundungen und Flächen =Kante_entfernen
+  ;*HMKey 211523231060
+2 Darstellung und Projektion
+3 Projektionmenü =Projektionsarten
+  ;*HMKey 301635470004
+3 Projektionen direkt aufrufen =CS_301635470110
+  ;*HMKey 301635470110
+3 Projektionsebenen =Projektionsarten_2
+  ;*HMKey 301635470005
+3 Projektionsebenen bestimmen =Projektionsarten_4
+  ;*HMKey 301635470007
+3 Projektionsarten =Projektionsarten_8
+  ;*HMKey 301635470008
+3 Projektionen mit und ohne verdeckte Kanten =Projektionsarten_9
+  ;*HMKey 301635470009
+3 Darstellung mit allen Kanten =Projektionsarten_10
+  ;*HMKey 301635470010
+3 Darstellung mit verdeckten Kanten =Projektionsarten_11
+  ;*HMKey 301635470011
+3 Darstellung mit verdeckten Kanten und unsichtbare Kanten =Projektionsarten_12
+  ;*HMKey 301635470012
+3 Darstellung mit verdeckten Kanten Objekte untereinander =Projektionsarten_13
+  ;*HMKey 301635470013
+3 Darstellung von Rotationsobjekten ohne Polyederkanten =Projektionsarten_15
+  ;*HMKey 301635470014
+3 Darstellung von Rotationsobjekten mit den Kanten der Polyederflächen =Projektionsarten_16
+  ;*HMKey 301635470015
+3 Darstellung im Shademodus =Projektionsarten_17
+  ;*HMKey 301635470016
+3 Direktes Aufrufen von Hiddenline =CS_151058540038
+  ;*HMKey 281736010042
+3 Shading in Datei in hoher Auflösung =Bitm1
+  ;*HMKey 301635470082
+3 Lichtquellen zum Schattieren =CS_301635470091
+  ;*HMKey 301635470091
+3 Lampen schalten =Projektionsarten_17_2
+  ;*HMKey 301635470017
+3 Lampen setzen =Projektionsarten_17_3
+  ;*HMKey 301635470018
+3 Lampenart anwählen =Projektionsarten_17_4
+  ;*HMKey 301635470019
+3 Speichern und laden von Projektionseinstellungen =Projektionsarten_18
+  ;*HMKey 301635470020
+3 Rotieren von 3D-Objekten mit der Maus (F4-Taste) =CS_151058540034
+  ;*HMKey 281736010040
+3 Rotieren von 3D-Objekten mit der Maus direkt =CS_151058540034
+  ;*HMKey 281736010040
+3 Funktionstasten zu Projektionseinstellungen =Projektionsarten_20
+  ;*HMKey 301635470022
+3 Option Konstruktionsebene =Projektionsarten_19
+  ;*HMKey 301635470021
+3 Facettierung ändern =c17
+  ;*HMKey 281736010024
+3 Kamerafunktionen
+4 Ansicht mit Kamera =Projektionsarten_21
+  ;*HMKey 301635470023
+4 Kamera aktivieren =Projektionsarten_22
+  ;*HMKey 301635470024
+4 Kameraposition bestimmen =Projektionsarten_23
+  ;*HMKey 301635470025
+4 Blickpunktposition bestimmen =Projektionsarten_24
+  ;*HMKey 301635470026
+4 Kamera Beispiel Position =Projektionsarten_24_2
+  ;*HMKey 301635470083
+4 Kamera um die vertikale Achse drehen =Projektionsarten_25
+  ;*HMKey 301635470027
+4 Kamera um die horizontale Achse drehen =Projektionsarten_26
+  ;*HMKey 301635470028
+4 Blickpunkt um die vertikale Achse drehen =Projektionsarten_27
+  ;*HMKey 301635470029
+4 Blickpunkt um die horizontale Achse drehen =Projektionsarten_28
+  ;*HMKey 301635470030
+4 Kamera Beispiel rotieren =Projektionsarten_28_2
+  ;*HMKey 301635470084
+4 Kameraachse bestimmen =Projektionsarten_29
+  ;*HMKey 301635470031
+4 Zoomwinkel (Ausschnitt) bestimmen =Projektionsarten_30
+  ;*HMKey 301635470032
+4 Schnittebene vorne =Projektionsarten_31
+  ;*HMKey 301635470033
+4 Kamera Beispiel Schnittebene vorne =Projektionsarten_31_2
+  ;*HMKey 301635470085
+4 Schnittebene hinten =Projektionsarten_32
+  ;*HMKey 301635470034
+4 Kamera Schnittebene hinten und zwei Schnittebenen =Projektionsarten_32_2
+  ;*HMKey 301635470086
+2 Arbeitsebenen und 3D-Cursor
+3 Arbeitsebenen- und Cursorwindow =Arbeits1
+  ;*HMKey 301635470035
+3 Beispiel Zylinder auf Pyramidenfläche konstruieren =Arbeits2
+  ;*HMKey 301635470036
+3 Definieren von Arbeitsebenen =Arbeits3
+  ;*HMKey 301635470037
+3 Arbeitsebene 0 =Arbeits4
+  ;*HMKey 301635470038
+3 Standardebenen =Arbeits5
+  ;*HMKey 301635470039
+3 Direktes Setzen einer Arbeitsebene =CS_151058540037
+  ;*HMKey 281736010041
+3 Arbeitsebenen Angabe der Winkelwerte der Arbeitsebenenachsen =Arbeits6
+  ;*HMKey 301635470040
+3 Arbeitsebene mit zwei Elementen oder drei Punkten und Rotation =Arbeits7
+  ;*HMKey 301635470041
+3 Bezugspunktes einer Arbeitsebene =Arbeits8
+  ;*HMKey 301635470042
+3 Benutzerebenen Laden-Speichern =Arbeits9
+  ;*HMKey 301635470043
+3 Funktionstasten für Arbeitsebenen =Arbeits10
+  ;*HMKey 301635470044
+3 Cursor in MegaCAD V13.5 =Cursor1
+  ;*HMKey 301635470045
+3 Cursor in YZ, XY, XZ und 3D =Cursor2
+  ;*HMKey 301635470046
+3 Cursors, Winkel zur Arbeitsebene =Cursor3
+  ;*HMKey 301635470048
+3 3D-Track-Cursor =Cursor4
+  ;*HMKey 301635470049
+2 3D-Grundkörper
+3 Grundkörper-Menü =Mop1
+  ;*HMKey 301635470052
+3 3D-Grundkörper erzeugen =Mop2
+  ;*HMKey 301635470053
+3 Quader =Mop3
+  ;*HMKey 301635470054
+3 Kegel =Mop4
+  ;*HMKey 301635470055
+3 Kegelstumpf =Mop6
+  ;*HMKey 301635470056
+3 Zylinder =Mop7
+  ;*HMKey 301635470057
+3 Zylinder mit Einschnürung (Tonne) =Mop8
+  ;*HMKey 301635470058
+3 Zylinder mit seitlichem Versatz der Deckfläche =Mop9
+  ;*HMKey 301635470059
+3 Zylinderabschnitt =Mop10
+  ;*HMKey 301635470060
+3 Zylinders mit schräger Deckfläche =Mop11
+  ;*HMKey 301635470061
+3 Pyramidenstumpf mit seitlichem Versatz =Mop12
+  ;*HMKey 301635470062
+3 Kugel =Mop13
+  ;*HMKey 301635470063
+3 Kugelabschnitt =Mop14
+  ;*HMKey 301635470064
+3 Pyramide-Pyramidenstumpf-Keil-Dach =Mop15
+  ;*HMKey 301635470065
+3 Gerader Sweepkörper (Prisma) =Mop16
+  ;*HMKey 301635470066
+3 Gerader Sweepkörper (Prisma) mit Versatz =Mop17
+  ;*HMKey 301635470067
+3 Sweepkörper mit Skalierung =Mop18
+  ;*HMKey 301635470068
+3 Torus =Mop19
+  ;*HMKey 301635470069
+3 Schale =Mop20
+  ;*HMKey 301635470070
+3 Rotationskörper mit einer Rotationsachse die zum rotierten Profil gehört =Mop21
+  ;*HMKey 301635470071
+3 Rotationskörper mit einer freien Rotationsachse =Mop22
+  ;*HMKey 301635470072
+3 Sweepen entlang einer beliebigen Kontur =Mop23
+  ;*HMKey 301635470073
+3 Helix (Schrauben-Federn) =Helix_Koerper
+  ;*HMKey 301635470096
+3 Erzeugen von Bohrungen oder Wellen automatisch =Bohrung
+  ;*HMKey 301635470103
+3 Flächen tangential zu einem Körper verbinden =Tangent_Koerper
+  ;*HMKey 301635470099
+2 Arbeiten mit MOP-Körpern
+3 Feature Tree =Tree
+  ;*HMKey 301635470102
+3 Einstellung des Feature-Tree =Tree_Setup
+  ;*HMKey 091612021052
+3 Arbeiten mit dem Feature-Tree (Beispiele) =Tree_3
+  ;*HMKey 301635470105
+3 Grundfläche Gerades Prisma ...... editieren =Edit_prisma
+  ;*HMKey 301635470106
+3 Editieren einer parametrischen Grundfläche =Edit_prisma_para
+  ;*HMKey 301635470108
+3 Editieren der Grundfläche beenden =CS_301635470107
+  ;*HMKey 301635470107
+3 Editieren von Körpern =Edit_Koerper
+  ;*HMKey 301635470101
+3 Arbeiten mit dem Feature-Tree (Beispiele) =Tree_3
+  ;*HMKey 301635470105
+3 Selektion von 3D-Objekten =CS_301635470111
+  ;*HMKey 301635470111
+3 Körper\Flächenprüfen ein- ausschalten =CS_301635470093
+  ;*HMKey 301635470093
+3 Addition von zwei Mopkörpern =Mop24
+  ;*HMKey 301635470074
+3 Subtraktion von zwei Mopkörpern =Mop25
+  ;*HMKey 301635470075
+3 Subtraktion von zwei Flächen, Körper und Flächen =c23
+  ;*HMKey 281736010031
+3 Mopoperationen mit Flächen =c22
+  ;*HMKey 281736010030
+3 Schnittmenge von zwei Mopkörpern =Mop26
+  ;*HMKey 301635470076
+3 Differenzbildung von mehreren Körpern =Mop27
+  ;*HMKey 301635470077
+3 Kollisionsbetrachtung von zwei Körpern =Mop28
+  ;*HMKey 301635470078
+3 Mopoperationen mit Flächen =c22
+  ;*HMKey 281736010030
+3 Schnitt durch einen Mopkörper =Mop29
+  ;*HMKey 301635470079
+3 Runden von Körperkanten an Mop-Objekten. =Mop30
+  ;*HMKey 301635470080
+3 Rundungen-Fasen editieren =CS_301635470109
+  ;*HMKey 301635470109
+3 Fasen von Körperkanten =Mop31
+  ;*HMKey 301635470081
+3 Höhlung in einem Körper erzeugen =Hoehlung_Koerper
+  ;*HMKey 301635470098
+3 Offset von Körpern =Offset
+  ;*HMKey 301635470100
+3 Inhomogenes Skalieren und Kopieren =Edi9
+  ;*HMKey 211523230437
+3 Referenzieren von 3D-Objekten =CS_151058540033
+  ;*HMKey 281736010039
+3 Referenzierungen bearbeiten =CS_281736010049
+  ;*HMKey 281736010049
+3 ACIS Genauigkeit =CS_091612021072
+  ;*HMKey 091612021072
+3 MOP-Werkz. löschen =CS_091612021071
+  ;*HMKey 091612021071
+3 STL-Format erzeugen =STL_Format
+  ;*HMKey 211529060504
+1 3D-Flächen
+2 Flächenmenü aufrufen =c2
+  ;*HMKey 281736010003
+2 Kanten- Flächen- Volumenmodell erzeugen =CS_281736010050
+  ;*HMKey 281736010050
+2 Flächenmodus aktiv/deaktiv =c16
+  ;*HMKey 281736010023
+2 Fläche aus drei oder vier Punkten =CS_281736010052
+  ;*HMKey 281736010052
+2 Flächen aus Einzelelementen zusammenstellen =c3
+  ;*HMKey 281736010004
+2 Kugel als Fläche =Kugel_Flaeche
+  ;*HMKey 281736010063
+2 Mantelfläche als Kegel definieren =c4
+  ;*HMKey 281736010005
+2 Mantelfläche als Kegelstumpf =CS_151058540039
+  ;*HMKey 281736010006
+2 Mantelfläche als Voll-Zylinder =CS_151058540040
+  ;*HMKey 281736010007
+2 Mantelfläche als Zylinderabschnitt definieren =CS_151058540005
+  ;*HMKey 281736010008
+2 Mantelfläche Zylinder mit Einschnürung (Tonne) =CS_151058540041
+  ;*HMKey 281736010009
+2 Mantelfläche als Kugel (Kugelsegment) definieren =c6
+  ;*HMKey 281736010010
+2 Mantelfläche als Torusabschnitt (Torussegment) definieren =c7
+  ;*HMKey 281736010011
+2 Mantelfläche als gerade Sweepfläche (Prisma) =CS_151058540042
+  ;*HMKey 281736010012
+2 Rotationsfläche mit einer Rotationsachse die zum rotierten Profil gehört =c12
+  ;*HMKey 281736010018
+2 Rotationsflächen mit einer freien Rotationsachse =c13
+  ;*HMKey 281736010019
+2 Coonsflächen (B-Spline Flächen rational (NURBS-Flächen) oder nicht rational) =c10
+  ;*HMKey 281736010015
+2 Skiningoberflächen (B-Spline Flächen rational (NURBS-Flächen) oder nicht rational) =c11
+  ;*HMKey 281736010016
+2 Skiningoberflächen mit horizontalen und vertikalen Schnittkurven =CS_151058540029
+  ;*HMKey 281736010017
+2 Segmentfläche durch Punktangabe (Bezierfläche) =c9
+  ;*HMKey 281736010014
+2 Segmentfläche durch Elemente, Kurven (Bezierfläche) =c8
+  ;*HMKey 281736010013
+2 Sweepen entlang eines beliebigen Profils =c14
+  ;*HMKey 281736010020
+2 Offset-Fläche (Fläche mit einem Abstand zu einer Fläche) =c15
+  ;*HMKey 281736010022
+2 Offset-Fläche von mehreren Flächen =CS_281736010068
+  ;*HMKey 281736010068
+2 Schraubenförmige Fläche konstruieren =CS_281736010062
+  ;*HMKey 281736010062
+2 Fläche extrahieren (Fläche mit einem Abstand 0 zu einer Fläche) =CS_281736010051
+  ;*HMKey 281736010051
+2 Flächen orientieren =CS_281736010069
+  ;*HMKey 281736010069
+2 Flächen tangential verbinden =c18
+  ;*HMKey 281736010025
+2 Runden von Flächen untereinander =Rund_Flaeche
+  ;*HMKey 281736010021
+2 Schnitt durch eine Fläche =c24
+  ;*HMKey 281736010032
+2 Trimmen von 3D-Elementen mit Flächen und Körperflächen =c21
+  ;*HMKey 281736010028
+2 Trimmen von Flächen an Flächen und Körpern =c20
+  ;*HMKey 281736010027
+2 Mopoperationen mit Flächen =c22
+  ;*HMKey 281736010030
+2 Subtraktion von zwei Flächen, Körper und Flächen =c23
+  ;*HMKey 281736010031
+2 Facettierung ändern =c17
+  ;*HMKey 281736010024
+1 3D-Kurven
+2 Kurvenmenü aufrufen =CS_281736010053
+  ;*HMKey 281736010053
+2 Kurven-Interpolation =Kurve_Spline
+  ;*HMKey 281736010054
+2 Kurven-Projektion =CS_281736010055
+  ;*HMKey 281736010055
+2 Kurven-Schnitt =CS_281736010058
+  ;*HMKey 281736010058
+2 Kurven-Kontur =CS_281736010056
+  ;*HMKey 281736010056
+2 Kurven-Durchschnitt =CS_281736010057
+  ;*HMKey 281736010057
+2 Silhouettkurven erzeugen =CS_281736010070
+  ;*HMKey 281736010070
+2 Schnittkurve durch mehrere Körper und Flächen =KurveN1
+  ;*HMKey 281736010067
+1 ODBC-Schnittstelle
+2 ODBC-Schnittstelle =CS_091612021062
+  ;*HMKey 091612021062
+2 ODBC-Schnittstelle Daten verbinden =CS_091612021068
+  ;*HMKey 091612021068
+2 ODBC-Schnittstelle Daten anzeigen =CS_091612021064
+  ;*HMKey 091612021064
+2 ODBC-Verknüpfung anzeigen =CS_091612021067
+  ;*HMKey 091612021067
+2 ODBC-Verknüpfung löschen =CS_091612021066
+  ;*HMKey 091612021066
+2 ODBC-Beispiel =CS_091612021065
+  ;*HMKey 091612021065
+1 Informationen über Zeichnungsobjekte
+2 Info über Zeichenelemente =Info1
+  ;*HMKey 221454220417
+2 Info über Einzelelemente =Info2
+  ;*HMKey 221454220418
+2 Koordinaten =Info3
+  ;*HMKey 221454220419
+2 Abstand =Info4
+  ;*HMKey 221454220420
+2 Entfernung zwischen zwei Punkten =Info5
+  ;*HMKey 221454220421
+2 Winkel =Info6
+  ;*HMKey 221454220422
+2 Winkel frei =Info7
+  ;*HMKey 221454220423
+2 Länge =Info8
+  ;*HMKey 221454220424
+2 Umfang =Info9
+  ;*HMKey 221454220425
+2 Fläche mit Inseln abziehen =Info10_2
+  ;*HMKey 211445380981
+2 Flächeninhalt =Info10
+  ;*HMKey 221454220426
+2 Flächeninhalt einer Körperfläche ermitteln =InfFl1
+  ;*HMKey 211445381000
+2 Schwerpunkt =Info11
+  ;*HMKey 221454220429
+2 Schwerpunkt von 3D-Objekten =Schwerpunkt_3D
+  ;*HMKey 211445381003
+2 Trägheitsmoment =Info10_3
+  ;*HMKey 211445380982
+2 Volumeninformation =Volumeninfo
+  ;*HMKey 091612021014
+2 Radius von Zylindern, Rundungen u.s.w. ausgeben =Infru
+  ;*HMKey 211445381001
+2 Einstellungen Info =Einstellungen
+  ;*HMKey 221454220428
+2 Schwerpunkt =Info11
+  ;*HMKey 211445380479
+2 Nullpunktberechnung bei der Koordinatenausgabe =Null2
+  ;*HMKey 211445381006
+2 Texte und Einstellungen zur Info-Funktionen =Texte_der_Info_Funktionen
+  ;*HMKey 221454220427
+1 Bemaßung
+2 Bemaßung Allgemein =Bema1
+  ;*HMKey 221454220242
+2 Bemaßungsmethoden =Bema2
+  ;*HMKey 221454220243
+2 Bemaßung-Horizontale Linearbemaßung =Bema3
+  ;*HMKey 221454220244
+2 Automatische Bemaßung Linie-Kreis-Bogen =Bema2_2
+  ;*HMKey 211511381029
+2 Vertikale Linearbemaßung =Bema4
+  ;*HMKey 221454220245
+2 Parallele Linearbemaßung =Bema5
+  ;*HMKey 221454220246
+2 Parallele Linearbemaßung mit Bezugslinie =Bema6
+  ;*HMKey 221454220247
+2 Lotrechte Linearbemaßung mit Bezugslinie =Bema7
+  ;*HMKey 221454220248
+2 Winkelbemaßung =Bema8
+  ;*HMKey 221454220249
+2 Winkelbemaßung mit Hinweispfeil =Bema9
+  ;*HMKey 221454220250
+2 Längenbemaßung von Bögen =Bema10
+  ;*HMKey 221454220251
+2 Durchmesserbemaßung =Bema11
+  ;*HMKey 221454220252
+2 Durchmesserbemaßung mit Hinweispfeil =Bema12
+  ;*HMKey 221454220253
+2 Radiusbemaßung =Bema13
+  ;*HMKey 221454220254
+2 Radiusbemaßung mit Hinweispfeil =Bema14
+  ;*HMKey 221454220255
+2 Lagetoleranzen =Bema15
+  ;*HMKey 221454220256
+2 Koordinatenbemaßung mit Hinweispfeilen =Bema16
+  ;*HMKey 221454220257
+2 Koordinatenbemaßung =Bema17
+  ;*HMKey 221454220258
+2 Bemaßung durch Schnittline mit Auswahl der Bemaßungspunkte =Bema17_2
+  ;*HMKey 211511380989
+2 Bemaßung mit Hinweispfeilen =BemaIC
+  ;*HMKey 211511381043
+2 Einzelbemaßung/Kettenmaß =Bema18
+  ;*HMKey 221454220259
+2 Bemaßungen bearbeiten =Bema34
+  ;*HMKey 221454220268
+2 Maßtext ändern =Bema43
+  ;*HMKey 221454220277
+2 Bemaßung-Weitere Informationen =Bema47
+  ;*HMKey 221454220279
+2 Bemaßungseigenschaften einstellen
+3 Bemaßung Attribute =Bemass_Attr
+  ;*HMKey 091612020261
+3 Übernehmen  Maßeinstellung =Bemaueb
+  ;*HMKey 211511380328
+3 Bemaßungstext-Lageoptionen =Bema20
+  ;*HMKey 221454220260
+3 Maßlinie durchziehen =Bema39
+  ;*HMKey 221454220270
+3 Maßpfeile-Hilfslinien =Bema23
+  ;*HMKey 221454220261
+3 Maßpfeile füllen =Bema40
+  ;*HMKey 221454220271
+3 Toleranzbemaßung =Bema26
+  ;*HMKey 221454220262
+3 Durchmesser- und Radiuszeichen =Bema27
+  ;*HMKey 221454220263
+3 Bemaßungseinstellungen Speichern =Bemalad
+  ;*HMKey 221454220278
+3 Zahlenformat-Nachkommastellen =Bema48
+  ;*HMKey 221454220280
+3 Nachfolgende Nullen ausgeben =Bema38
+  ;*HMKey 211511380316
+3 Bemaßungsausgabe in Grad/Minuten/Sekunden =BemaMin
+  ;*HMKey 211511381040
+3 Bemaßungsmaßstab =Bema28
+  ;*HMKey 221454220264
+3 Maßhilfslinienlänge oben-unten =Bema32
+  ;*HMKey 221454220267
+3 Maße mit Klammern =CS_211511381047
+  ;*HMKey 211511381047
+3 Architekturbemaßung =archtekt
+  ;*HMKey 211511380287
+3 Hochzahl bei Architekturbemaßung letzte Stelle runden =BemaAru
+  ;*HMKey 211511380988
+3 Maßtextattribute einstellen =Bema42
+  ;*HMKey 221454220276
+3 Maßpfeileattribute einstellen =Bema41
+  ;*HMKey 221454220272
+3 Übernehmen  Maßeinstellung =Bemaueb
+  ;*HMKey 221454220951
+3 Abstand-Maßtext zur Maßlinie einstellen =BemaAbstand
+  ;*HMKey 211511381044
+3 Bemaßungseinstellungen Speichern =Bemalad
+  ;*HMKey 221454220278
+3 Bemaßung-Weitere Informationen =Bema47
+  ;*HMKey 211511380326
+1 Textfunktionen
+2 Texte zeichnen Allgemein =Test1
+  ;*HMKey 221454220211
+2 Textzeile =Test13
+  ;*HMKey 221454220221
+2 Text positionieren =Test24
+  ;*HMKey 221454220228
+2 Textewinkel beim Einfügen ermitteln =Test27
+  ;*HMKey 221454220238
+2 Text-Editor =Test25
+  ;*HMKey 221454220229
+2 Texteigenschaften =Text_Setup
+  ;*HMKey 211507020255
+2 Text-Editor =Test25
+  ;*HMKey 211507020275
+2 Texte auf einem Bogen einfügen =Test27_2
+  ;*HMKey 211507021034
+2 Texte entlang einer Linie einfügen =Test27_3
+  ;*HMKey 211507021033
+2 Variable Texte/Textlisten erstellen und bearbeiten =Text_variable
+  ;*HMKey 211507021059
+2 Text-Kontur =Edi24
+  ;*HMKey 221454220415
+2 Texte suchen und ersetzen =CS_211507021061
+  ;*HMKey 211507021061
+2 Sonderzeichen Texte =text35
+  ;*HMKey 221454220239
+2 Alte MegaCAD Vektorschriften =Text34
+  ;*HMKey 221454220237
+2 Numerieren =Text_Num
+  ;*HMKey 211507021060
+2 Hinweistext mit Pfeil =Hinweistext_mit_Pfeil
+  ;*HMKey 091612021007
+2 Textparameter einstellen
+3 Textparameter =Test2
+  ;*HMKey 221454220212
+3 Schriftart =Test3
+  ;*HMKey 221454220213
+3 TrueType-Fonts unter Windows =Text26
+  ;*HMKey 221454220231
+3 Wechsel zwischen TrueType und MegaCAD-Vektor Fonts =Text27
+  ;*HMKey 221454220230
+3 Breite, Zwischenraum, absolut und relativ =Text28
+  ;*HMKey 221454220232
+3 Texthöhe =Test4
+  ;*HMKey 221454220214
+3 Textbreite =Test5
+  ;*HMKey 221454220215
+3 Textwinkel =Test6
+  ;*HMKey 221454220216
+3 Text-Abstand zwischen den Buchstaben =Test7
+  ;*HMKey 221454220217
+3 Text-Zeilenabstand =Test10
+  ;*HMKey 221454220219
+3 Text-Winkelstellung des Textes =Test9
+  ;*HMKey 221454220218
+3 Schriftstyle =Text30
+  ;*HMKey 221454220233
+3 Schrift vertikal =Text31
+  ;*HMKey 221454220234
+3 Text-Menüfelder im Textwindow =Test11
+  ;*HMKey 221454220220
+3 Textparameter-Einstellungen laden und speichern =Text32
+  ;*HMKey 221454220235
+3 Text-Parameter aus Zeichnung übernehmbar =Text33
+  ;*HMKey 221454220236
+2 Textblock editieren
+3 Textblock =Test14
+  ;*HMKey 091612020224
+3 Menüfelder im Textwindow =Test11
+  ;*HMKey 211507020266
+3 Text-Suchen einer Zeichenfolge =Test15
+  ;*HMKey 221454220223
+3 Text-Datei laden =Test18
+  ;*HMKey 221454220224
+3 Suchen einer Zeichenfolge =Test15
+  ;*HMKey 211507020269
+3 Text-Eingaben zurücknehmen (Undo)-Text einfügen =Test19
+  ;*HMKey 221454220225
+3 Textblock-(Textdateien) =Test22
+  ;*HMKey 221454220226
+3 Funktionstasten im Texteditor =Test23
+  ;*HMKey 221454220227
+1 Schraffur
+2 Schraffur Allgemein =Schr1
+  ;*HMKey 221454220283
+2 Schraffurrand einzeln bestimmen =Schr2
+  ;*HMKey 221454220284
+2 Schraffur-Kontur automatisch ermitteln =Schr3
+  ;*HMKey 221454220285
+2 Schraffurrand als Fläche =Schr4
+  ;*HMKey 221454220286
+2 Wahlmodus Fläche mit automatischer Inselerkennung =CS_211518540997
+  ;*HMKey 211518540997
+2 Schraffurrand als Polylinie =Schr5
+  ;*HMKey 221454220287
+2 Schraffuren als Objektbestimmung auswählen =Schr6
+  ;*HMKey 221454220288
+2 Schraffuren ausrichten =Schr7
+  ;*HMKey 221454220289
+2 Übernehmen einer Schraffureinstellung aus der Zeichnung =schraf13
+  ;*HMKey 211518540986
+2 Faktor einer Schraffur =Schr8
+  ;*HMKey 221454220290
+2 Füllen von Bereichen =schraf12
+  ;*HMKey 211518540985
+2 Schraffuren bearbeiten (editieren) =Schr9
+  ;*HMKey 221454220291
+2 Schraffur mit freigestelltem Text =schraf14
+  ;*HMKey 211518540987
+2 Neue Schraffuren selbst erstellen =Schr10
+  ;*HMKey 221454220292
+2 Neue Schraffuren - Beispiel 1 bis 3 =Schr11
+  ;*HMKey 221454220293
+1 Punktbestimmung (Fangmodus)
+2 Punktbestimmung (Fangen von Koordinaten) =Konst18
+  ;*HMKey 221454220025
+2 Freie Punkteingabe =Konst19
+  ;*HMKey 221454220026
+2 Rasterpunkt fangen =Konst20
+  ;*HMKey 221454220027
+2 Punkt fangen =Konst21
+  ;*HMKey 221454220028
+2 Punkt zwischen zwei Punkten =WahlA_1
+  ;*HMKey 111508331100
+2 Mittelpunkt fangen =Konst22
+  ;*HMKey 221454220029
+2 Mittelpunkt einer Fläche fangen =Fang3D_1
+  ;*HMKey 111508331027
+2 Mittelpunkt zwischen zwei Schnittpunkten auf einem Element =WahlA_3
+  ;*HMKey 111508331101
+2 Scherpunkt (Mittelpunkt) einer Fläche fangen. =WahlA_2
+  ;*HMKey 111508331103
+2 Scherpunkt (Mittelpunkt) eines 3D-Körpers fangen =Konst24_3
+  ;*HMKey 111508331111
+2 Endpunkt fangen =Konst23
+  ;*HMKey 221454220030
+2 Abstandspunkt fangen =Konst24
+  ;*HMKey 221454220031
+2 Element fangen =Konst25
+  ;*HMKey 221454220032
+2 Abstand auf einem Element fangen =Konst26
+  ;*HMKey 221454220033
+2 2 Abstandspunkte die einen Schnittpunkt bilden =Konst24_2
+  ;*HMKey 111508331110
+2 Schnittpunkt fangen Variante 1/2 =Konst27
+  ;*HMKey 221454220034
+2 Schnittpunkt fangen Variante 2 =Konst28
+  ;*HMKey 221454220035
+2 End-Mittelpunkt fangen =Konst29
+  ;*HMKey 221454220036
+2 Berührpunkt fangen 1.Variante =Konst30
+  ;*HMKey 221454220037
+2 Berührpunkt fangen 2.Variante =Konst31
+  ;*HMKey 221454220038
+2 Winkel-Fang-Modus =Konst32
+  ;*HMKey 221454220039
+2 Fangmodus Lotrech =Konst35
+  ;*HMKey 221454220042
+2 Tastatureingabe von Konstruktionspunkten =Konst33
+  ;*HMKey 221454220040
+2 Mehrfachelemente =Konst34
+  ;*HMKey 221454220041
+2 Konstruktions-Modus =Konst36
+  ;*HMKey 221454220043
+2 Fangen mit X-Y-Filter. =WahlA_4
+  ;*HMKey 111508331102
+2 Fangen und Auswählen von Elementen  ??? =Fangen
+  ;*HMKey 111508330025
+2 Übernehmen von Werten =Modwahl
+  ;*HMKey 111508331114
+2 Digitizermodus =Digitizermodus
+  ;*HMKey 091612021026
+2 Koordinateneingaben im Anzeigebereich =Konb37
+  ;*HMKey 221454220024
+2 Anzeige der Makrobezugspunkte und Texteinfügepunkte =WahlA_5
+  ;*HMKey 111508331104
+2 Bemaßungstoleranz und Maßtext direkt verändern =WahlA_6
+  ;*HMKey 111508331105
+2 Elemente eines Kantenzuges an 3D-Objekten auswählen =Fang3D_3
+  ;*HMKey 111508331029
+2 Elemente eines Kantenzuges auswählen =CS_151058540036
+  ;*HMKey 281736010033
+2 Echtgeometriedarstellung der Körper- Flächenkanten =CS_151058540030
+  ;*HMKey 281736010029
+2 Positionieren von Objekten im Raum mit Rotation =CS_151058540032
+  ;*HMKey 281736010038
+2 Projektion eines Fangpunktes auf die gültige Arbeitsebenen =Fang3D_2
+  ;*HMKey 111508331028
+2 3D-Fangoptionen =Fang3D
+  ;*HMKey 091612021018
+2 Redo (Einen Undo-Befehl zurücknehmen) =Konst49
+  ;*HMKey 111508330059
+2 Undo (Einen Zeichenbefehl zurücknehmen) =Konst48
+  ;*HMKey 111508330058
+1 Objektbestimmung
+2 Die Objektbestimmung allgemein =Objektbestimmung_allg
+  ;*HMKey 091612020047
+2 Selektion durch Strichpunktlinien und Farbwechsel der Elemente =CS_111508331108
+  ;*HMKey 111508331108
+2 Auswahl der Objekttypen =Konst38
+  ;*HMKey 091612020048
+2 Einzeln auswählen von Objekten =Konst39
+  ;*HMKey 091612020049
+2 Ganzen Bildschirm auswählen =Konst40
+  ;*HMKey 091612020050
+2 Ausschnitt auswählen =Konst41
+  ;*HMKey 091612020051
+2 Rechteck alles was geschnitten wird =FangN_1
+  ;*HMKey 111508331030
+2 Gruppe auswählen =Konst42
+  ;*HMKey 091612020052
+2 Layer auswählen =Konst43
+  ;*HMKey 091612020053
+2 Liniestyle alle mit diesem Liniestyle =FangN_5
+  ;*HMKey 111508331034
+2 Breite alles mit dieser Breite =FangN_6
+  ;*HMKey 111508331035
+2 Objekte einer Farbe auswählen =Konst44
+  ;*HMKey 091612020054
+2 Linie alles was von der Linie geschnitten wird =FangN_4
+  ;*HMKey 111508331033
+2 Kontur auswählen =Konst45
+  ;*HMKey 091612020055
+2 Polygon alles was von einem Polygon geschnitten wird =FangN_3
+  ;*HMKey 111508331032
+2 Polygon alles in einem Polygon =FangN_2
+  ;*HMKey 111508331031
+2 Fläche auswählen =Konst47
+  ;*HMKey 091612020057
+2 Fläche mit automatischer Inselerkennung =CS_111508331115
+  ;*HMKey 111508331115
+2 Mehrfachelemente =Konst34
+  ;*HMKey 111508330043
+1 Editieren/Bearbeiten
+2 Selektion der Elemente anzeigen =CS_211523231057
+  ;*HMKey 211523231057
+2 Editieren von Objekten Allgemein =Edi1
+  ;*HMKey 221454220379
+2 Löschen von Objekten Allgemein =Lo1
+  ;*HMKey 221454220336
+2 Texte bearbeiten =Edi2
+  ;*HMKey 221454220380
+2 Textzeilen in Textblöcke wandeln =Edi3
+  ;*HMKey 221454220381
+2 Textattribute verändern =Edi4
+  ;*HMKey 221454220382
+2 Attribute ändern =Edi20
+  ;*HMKey 221454220411
+2 Gruppenzugehörigkeit ändern =Edi5
+  ;*HMKey 221454220383
+2 Layerzugehörigkeit ändern =Edi6
+  ;*HMKey 221454220384
+2 Verschieben und Kopieren =Edi7
+  ;*HMKey 221454220385
+2 Winkel beim Verschieben automatisch ermitteln =Edi8
+  ;*HMKey 221454220386
+2 Kopieren als Matrix =Edi7_2
+  ;*HMKey 211523230972
+2 Skalieren und Kopieren =Edi9
+  ;*HMKey 221454220387
+2 Skalieren mit Maus =Edi9_2
+  ;*HMKey 211523230975
+2 Spiegeln =Edi10
+  ;*HMKey 221454220388
+2 Drehen und Kopieren =Edi11
+  ;*HMKey 221454220389
+2 Rotieren ohne Rotation =Edit7_3
+  ;*HMKey 211523230973
+2 Rotieren von Objekten mit Versatz in der Rotationsachse =CS_281736010059
+  ;*HMKey 281736010059
+2 Positionieren von 3D-Objekten im Raum mit Rotation =Editrot
+  ;*HMKey 211523231047
+2 Ausrichten von Elementen =Edit_4
+  ;*HMKey 211523230974
+2 Runden =Edi12
+  ;*HMKey 221454220390
+2 Ganzes Profil oder Polyline runden =Edit12_2
+  ;*HMKey 211523230976
+2 Fasen =Edi13
+  ;*HMKey 221454220391
+2 Ganzes Profil oder Polyline abschrägen =Edit13_2
+  ;*HMKey 211523230977
+2 Strecken =Edi21
+  ;*HMKey 221454220412
+2 Trennen =Edi22
+  ;*HMKey 221454220413
+2 Trennen von Objekten mit einer Schnittlinie =Edi22_2
+  ;*HMKey 211523231025
+2 Aufbrechen =Edi23
+  ;*HMKey 221454220414
+2 Aufbrechen Attribute übernehmen =Edi23_3
+  ;*HMKey 211523231064
+2 Zeichenelemente mit Kreis ausschneiden und skalieren =CS_211523231065
+  ;*HMKey 211523231065
+2 Zeichenelemente mit Polygon ausschneiden uns skalieren =CS_211523231066
+  ;*HMKey 211523231066
+2 Zeichnung säubern =CS_211523231059
+  ;*HMKey 211523231059
+2 Zusammenfügen von Objekten =Edit21_2
+  ;*HMKey 211523230978
+2 Text-Kontur =Edi24
+  ;*HMKey 221454220415
+2 Globale Anzeige aller Endpunkte von Elementen =Edi21_3
+  ;*HMKey 211523230994
+2 Drag&Drop =Drag_Drop
+  ;*HMKey 211523231058
+2 Local-Operationen =CS_151058540048
+  ;*HMKey 281736010043
+2 Verlängern von 3D-Körpern an einer Schnittfläche =Localstr
+  ;*HMKey 211523231053
+2 Verschieben einer Kante an Körperflächen =CS_151058540045
+  ;*HMKey 281736010046
+2 Verschieben von Flächen an 3D-Volumenobjekten =Localver
+  ;*HMKey 211523231050
+2 Skalieren von Durchbrüchen =CS_281736010060
+  ;*HMKey 281736010060
+2 Verschieben von Löchern und Durchbrüchen an Körpern =CS_151058540044
+  ;*HMKey 281736010045
+2 Entfernen von Rundungen und Flächen =Kante_entfernen
+  ;*HMKey 211523231060
+2 Trimmen
+3 Trimmen =Edi14
+  ;*HMKey 221454220392
+3 Trimmen einzeln =Edi15
+  ;*HMKey 221454220393
+3 Trimmen doppelt =Edi16
+  ;*HMKey 221454220394
+3 Trimmen mehrfach =Edi17
+  ;*HMKey 221454220395
+3 Trimmen frei =Edi18
+  ;*HMKey 221454220396
+3 Trimmen mit Wertangabe =Edi19
+  ;*HMKey 221454220397
+3 Trimmen von 3D-Elementen mit Flächen und Körperflächen =c21
+  ;*HMKey 281736010028
+3 Trimmen von Flächen an Flächen und Körpern =c20
+  ;*HMKey 281736010027
+1 Bitmapfunktionen
+2 Lademenü =bi8
+  ;*HMKey 030828030009
+2 Bitmap Formate auswählen =bi7
+  ;*HMKey 030828030008
+2 Bitmap laden =bi6
+  ;*HMKey 030828030007
+2 Bitmap Einfügeposition =bi5
+  ;*HMKey 030828030006
+2 Bitmap Selektieren =bi4
+  ;*HMKey 030828030005
+2 Bitmap verändern =bi3
+  ;*HMKey 030828030004
+2 Zoom in Bitmaps =Zoom_in_Bitmaps
+  ;*HMKey 030828030025
+2 Bitmap Palette =bi1
+  ;*HMKey 030828030002
+2 Darstellungs- und Komprimierungsfunktionen =Bitb2
+  ;*HMKey 030828030012
+2 Bitmap speichern =M4044
+  ;*HMKey 030828030010
+2 Bitmapbearbeitungsmenü
+3 Bitmap Allgemeines =Bitb1
+  ;*HMKey 030828030011
+3 Bitmap fangen =CS_030828030032
+  ;*HMKey 030828030032
+3 Bitmapbearbeitungsfunktionen =Bitb4
+  ;*HMKey 030828030014
+3 Speichern einer Bitmap =Bitb5
+  ;*HMKey 030828030015
+3 Speichern eines Ausschnitts einer Bitmap =Bitb52
+  ;*HMKey 030828030026
+3 Auswählen -radieren/zeichnen =Bitb6
+  ;*HMKey 030828030016
+3 Vorder- und Hintergrund von Monobitmaps festlegen =Bitb62
+  ;*HMKey 030828030027
+3 Rechteck bearbeiten in einer Bitmap =Bitb8
+  ;*HMKey 030828030019
+3 Polygon bearbeiten in einer Bitmap =Bitb9
+  ;*HMKey 030828030020
+3 Polyline als TIF-Datei abspeichern =CS_030828030030
+  ;*HMKey 030828030030
+3 Ganze Bitmap invertieren =Bitb10
+  ;*HMKey 030828030022
+3 Rotieren von Bitmaps =Bitb11
+  ;*HMKey 030828030023
+3 Komprimierungseinstellung =Bitb3
+  ;*HMKey 030828030013
+3 Einzelne Linien in Bitmaps vektorisieren =CS_030828030031
+  ;*HMKey 030828030031
+3 Faltenkorrektur in einer Bitmap =CS_030828030036
+  ;*HMKey 030828030036
+3 Nachträgliches Einbetten einer Bitmap =CS_030828030037
+  ;*HMKey 030828030037
+3 Hineinzeichnen von MegaCAD Elementen in die Bitmap =Bitb7
+  ;*HMKey 030828030018
+3 Sicherheitsabfrage beim Speichern =bi8_2
+  ;*HMKey 030828030035
+3 Pfade beim Laden einer Zeichnung mit Bitmaps =bi83
+  ;*HMKey 030828030033
+1 Zeichnungsverwaltung
+2 Zeichnungsverwaltung-Allgemein =Zei1
+  ;*HMKey 221454220314
+2 Verwaltung =Zei2
+  ;*HMKey 221454220315
+2 Zeichnung und Dateibibliotheken =Zei3
+  ;*HMKey 221454220316
+2 Zeichnung ansehen =Zei4
+  ;*HMKey 221454220317
+2 Zeichnung neu erstellen =Zeichnung_neu
+  ;*HMKey 091612020988
+2 Zeichnung laden =Zei9
+  ;*HMKey 221454220318
+2 Zeichnung die letzen vier =ma31
+  ;*HMKey 221454220300
+2 Zeichnung einfügen =Zei10
+  ;*HMKey 221454220319
+2 Zeichnung speichern =Zei11
+  ;*HMKey 221454220320
+2 Zeichnung speichern als =Zei12
+  ;*HMKey 221454220321
+2 Speichern Zeichnung im 2D- 4.5 Format =CS_091612021035
+  ;*HMKey 091612021035
+2 Zeichnung löschen =Zei13
+  ;*HMKey 221454220322
+2 Zeichnung drucken =Zei14
+  ;*HMKey 221454220323
+2 Zeichnung ausschneiden =Zei15
+  ;*HMKey 221454220324
+2 Ausschneiden Zeichnung 2D =CS_091612021036
+  ;*HMKey 091612021036
+2 Export-Import =EX_IMPORT
+  ;*HMKey 091612021056
+2 Zeichnungsdatenbank
+3 Allgemeines zur Zeichnungsverwaltung =Zv1
+  ;*HMKey 281431520001
+3 Zeichnungsverwaltung aufrufen =Zv4
+  ;*HMKey 281431520004
+3 Arbeiten mit der Zeichnungsverwaltung in MegaCAD =Zv4_2
+  ;*HMKey 281431520015
+3 Das-Hauptmenü der Zeichnungsverwaltung =Zv7
+  ;*HMKey 281431520007
+3 Der Bildschirmaufbau =Zv5
+  ;*HMKey 281431520005
+3 Funktionsumfang =Zv2
+  ;*HMKey 281431520002
+3 Grundsätzliches zur Bedienung =Zv3
+  ;*HMKey 281431520003
+3 Hotkey- und Dialogleiste =Zv6
+  ;*HMKey 281431520006
+3 Datensatzeingabe in Aktionsfeldern =Zv13
+  ;*HMKey 281431520013
+3 Das Menü Ansicht =Zv10
+  ;*HMKey 281431520010
+3 Das Menü Bearbeiten =Zv8
+  ;*HMKey 281431520008
+3 Das Menü Extras =Zv11
+  ;*HMKey 281431520011
+3 Neu =Zv9
+  ;*HMKey 281431520009
+1 Dateibilbliotheken
+2 Bibliotheksverwaltung-Allgemein =Bib1
+  ;*HMKey 221454220532
+2 Aufbau von Dateibibliotheken =Bib2
+  ;*HMKey 221454220533
+2 Dateibibliotheken-Besonderheiten =Bib3
+  ;*HMKey 221454220534
+2 Kopiren von DOS-Dateien in/aus Bibliotheken =Bib4
+  ;*HMKey 221454220535
+2 Verschieben von Dateien in/aus Bibliotheken =Bib5
+  ;*HMKey 221454220536
+2 Löschen von Dateien in Bibliotheken =Bib6
+  ;*HMKey 221454220537
+2 Inhalt von Bibliotheken anzeigen =Bib7
+  ;*HMKey 221454220538
+2 Status einer Bibliothek anzeigen =Bib8
+  ;*HMKey 221454220539
+2 Status rücksetzen =Bib9
+  ;*HMKey 221454220540
+2 Dateibibliotheken reorganisieren =Bib10
+  ;*HMKey 221454220541
+1 Makroverwaltung
+2 Makros-Allgemein =Ma1
+  ;*HMKey 221454220295
+2 Dateimanager von MegaCAD =Ma3M3
+  ;*HMKey 091612021030
+2 Verwaltung-Makros =Ma2
+  ;*HMKey 091612020299
+2 Makros und Dateibibliotheken =Ma3
+  ;*HMKey 221454220297
+2 Makros ansehen =Ma4
+  ;*HMKey 221454220298
+2 Makro neu =ma30
+  ;*HMKey 221454220299
+2 Makro laden =Ma9
+  ;*HMKey 221454220301
+2 Makros, die letzen vier =ma31
+  ;*HMKey 221454220300
+2 Makro einfügen =Ma10
+  ;*HMKey 221454220302
+2 Makro drehen mit den Cursortasten =Ma11
+  ;*HMKey 221454220303
+2 Makrowinkel beim Einfügen ermitteln =Ma12
+  ;*HMKey 221454220304
+2 Makro beim Einfügen spiegeln =Ma13
+  ;*HMKey 221454220305
+2 DB-Info =Ma14
+  ;*HMKey 221454220306
+2 Baugruppen (Makros in Makros) =CS_091612021070
+  ;*HMKey 091612021070
+2 Makros exklusiv einfügen =Ma15
+  ;*HMKey 221454220307
+2 Makro speichern =Ma16
+  ;*HMKey 221454220308
+2 Makro speichern als =Ma17
+  ;*HMKey 091612020312
+2 Speichern 2D =CS_091612021019
+  ;*HMKey 091612021019
+2 Speichern im 2D- 4.5 Format =CS_091612021033
+  ;*HMKey 091612021033
+2 Makrodatei löschen =Ma18
+  ;*HMKey 221454220310
+2 Makro drucken =Ma19
+  ;*HMKey 221454220311
+2 Makro ausschneiden =Ma20
+  ;*HMKey 221454220312
+2 Ausschneiden 2D =CS_091612021034
+  ;*HMKey 091612021034
+1 Textinfos zu Zeichnungsobjekten
+2 Elementinfo =Elementinfo
+  ;*HMKey 091612020978
+2 Datenbankschnittstelle
+3 Stücklisten und Datenbankinformationen =Db1
+  ;*HMKey 091612020456
+3 Makro anzeigen =Db2
+  ;*HMKey 221454220453
+3 DB-Einträge und Makros anzeigen =Db3
+  ;*HMKey 221454220454
+3 Makros austauschen =Db4
+  ;*HMKey 221454220455
+3 Exklusiv =Db5
+  ;*HMKey 221454220456
+3 Einzelne oder alle Makros auswählen =Db6
+  ;*HMKey 221454220457
+3 Stückliste-Datenbankausgabe =Db7
+  ;*HMKey 221454220458
+3 Schlüsselwörter =Db8
+  ;*HMKey 221454220459
+3 Auflösen von Makros =Makro_aufloesen
+  ;*HMKey 111519141031
+1 Import/Export
+2 Koordinatenschnittstelle
+3 Koordinatenschnittstelle Allgemein =Ko1
+  ;*HMKey 221454220437
+3 Kommentar =Ko2
+  ;*HMKey 221454220438
+3 Koordinatenschnittstelle-Zeichnungsobjekte wählen =Ko3
+  ;*HMKey 221454220439
+3 Koordinaten wählen =Ko4
+  ;*HMKey 221454220440
+3 Koordinaten in Datei übernehmen =Ko5
+  ;*HMKey 221454220441
+3 Koordinaten aus Datei einlesen =Ko6
+  ;*HMKey 221454220442
+3 Nullpunktberechnung bei der CDL-Schnittstelle =null1
+  ;*HMKey 211529060496
+3 WMF-Daten erzeugen und einfügen =WMF_Daten
+  ;*HMKey 211529060503
+3 HP-GL Daten einlesen =Ko7
+  ;*HMKey 221454220443
+3 ACIS-Daten Importieren-Exportieren =CS_211529060497
+  ;*HMKey 211529060497
+2 Datenaustausch im DXF-DWG-IGES-Format
+3 Allgemeines über DXF-DWG =Dwg
+  ;*HMKey 121145360629
+3 DXF-DWG-Schnittstelle =DXF_Gliederung
+  ;*HMKey 121145360628
+3 Das Programm DXFDWG =Dxf6
+  ;*HMKey 121145360632
+3 Einstellungen bestimmen =Dxf15
+  ;*HMKey 121145360652
+3 Setup Farben-Fonts =Dxf12
+  ;*HMKey 121145360637
+3 DXF-DWG-Datei anlegen =Dxf9
+  ;*HMKey 121145360634
+3 PRT-Konvertieren =Dxf3
+  ;*HMKey 121145360631
+3 PRT-Datei anlegen =Dxf11
+  ;*HMKey 121145360636
+3 Übertragung von DWG-Dateien nach MegaCAD =Dxf4
+  ;*HMKey 121145360649
+3 Übertragung von MegaCAD nach AutoCAD-DWG =Dxf5
+  ;*HMKey 121145360648
+3 DXF-Konvertieren =Dxf2
+  ;*HMKey 121145360630
+3 DXF-Nachkommastellen =Dxf13
+  ;*HMKey 121145360638
+3 Mehrere Dateien auf einmal konvertieren =Dxf10
+  ;*HMKey 121145360635
+3 Einlesen von Dateien mit großen Maßeinheiten =Dxf14
+  ;*HMKey 121145360650
+3 Starten in MegaCAD =Dxf8
+  ;*HMKey 121145360651
+3 Start des DXF-DWG-Programms über das MegaCAD-Gruppenwindow =Dxf7
+  ;*HMKey 121145360633
+3 BonusDXF =Dxf16
+  ;*HMKey 121145360653
+3 Datenaustausch mit DXF 3D =3DMDXF
+  ;*HMKey 121145360655
+3 Datenaustausch mit IGES 3D =IGES_Daten
+  ;*HMKey 121145360656
+3 STL-Format erzeugen =STL_Format
+  ;*HMKey 211529060504
+1 Visual-Basic Schnittstelle
+2 Visual Basic-Schnittstelle =Contents@BASICHLP.HLP
+  ;*HMKey 211518540333
+1 Parametrik Programm
+2 Parametrik Programm =Erste_Seite@MEGAP.HLP
+  ;*HMKey 211507020259
+2 Arbeiten mit der Parametric
+3 Grundsätzliche Arbeitsweise des Parametricmoduls =CS_161502050031@MEGAP.HLP
+  ;*HMKey 161502050031
+3 Arbeiten mit dem Parametricmodul in MegaCAD =CS_161502050001@MEGAP.HLP
+  ;*HMKey 161502050001
+3 Parametric beenden und zu MegaCAD zurückkehren =CS_161502050023@MEGAP.HLP
+  ;*HMKey 161502050023
+2 Zeichnungsverwaltung
+3 Zeichnungsverwaltung der parametrischen Dateien =CS_161502050002@MEGAP.HLP
+  ;*HMKey 161502050002
+2 Bedingungen von Elementen
+3 Linien mit gleicher Länge =CS_161502050026@MEGAP.HLP
+  ;*HMKey 161502050026
+3 Parallele Linien =CS_161502050027@MEGAP.HLP
+  ;*HMKey 161502050027
+3 Parallele Linien mit gleicher Länge =CS_161502050028@MEGAP.HLP
+  ;*HMKey 161502050028
+3 Drehung von Horizontaler / Vertikaler Linie =CS_161502050003@MEGAP.HLP
+  ;*HMKey 161502050003
+3 Symmetrieachsen definieren =CS_161502050007@MEGAP.HLP
+  ;*HMKey 161502050007
+3 Elemente mit gleichem Punkt trennen =CS_161502050004@MEGAP.HLP
+  ;*HMKey 161502050004
+3 Zusammengehörige Punkte definieren =CS_161502050008@MEGAP.HLP
+  ;*HMKey 161502050008
+3 Set ändern =CS_161502050035@MEGAP.HLP
+  ;*HMKey 161502050035
+3 Finden von Schnittpunkten =CS_161502050029@MEGAP.HLP
+  ;*HMKey 161502050029
+3 Bögen mit gleichem Radius =CS_161502050030@MEGAP.HLP
+  ;*HMKey 161502050030
+3 Finden von tangierenden Elementen =CS_161502050006@MEGAP.HLP
+  ;*HMKey 161502050006
+3 Finden von gleichen Konturen =CS_161502050005@MEGAP.HLP
+  ;*HMKey 161502050005
+3 Punkteset Kreis =CS_161502050039@MEGAP.HLP
+  ;*HMKey 161502050039
+3 Punkteset Linie =CS_161502050038@MEGAP.HLP
+  ;*HMKey 161502050038
+3 Punkteset Matrix =CS_161502050045@MEGAP.HLP
+  ;*HMKey 161502050045
+3 Kreisset Kreis =CS_161502050043@MEGAP.HLP
+  ;*HMKey 161502050043
+3 Kreisset Linie =CS_161502050044@MEGAP.HLP
+  ;*HMKey 161502050044
+3 Kreisset Matrix =CS_161502050042@MEGAP.HLP
+  ;*HMKey 161502050042
+3 Konturset Matrix =CS_161502050049@MEGAP.HLP
+  ;*HMKey 161502050049
+3 Konturset Linie =CS_161502050041@MEGAP.HLP
+  ;*HMKey 161502050041
+3 Makroset Matrix =CS_161502050047@MEGAP.HLP
+  ;*HMKey 161502050047
+3 Makroset Linie =CS_161502050048@MEGAP.HLP
+  ;*HMKey 161502050048
+3 Makroset Kreis =CS_161502050046@MEGAP.HLP
+  ;*HMKey 161502050046
+3 Set ändern =CS_161502050035@MEGAP.HLP
+  ;*HMKey 161502050035
+3 Verteilung eines Liniensets im Dialog =CS_161502050050@MEGAP.HLP
+  ;*HMKey 161502050050
+3 Parallel Profile =CS_161502050037@MEGAP.HLP
+  ;*HMKey 161502050037
+3 Schachteln =CS_161502050040@MEGAP.HLP
+  ;*HMKey 161502050040
+2 Parametric definieren
+3 Die Optionen zur parametrischen Bemaßung =CS_161502050033@MEGAP.HLP
+  ;*HMKey 161502050033
+3 Parametrische Zeichnung mit Maßen versehen =CS_161502050025@MEGAP.HLP
+  ;*HMKey 161502050025
+3 Bemaßung aus Skizze automatisch generieren =CS_161502050009@MEGAP.HLP
+  ;*HMKey 161502050009
+2 Parametric bearbeiten
+3 Parametrische Bemaßungen bearbeiten =CS_161502050012@MEGAP.HLP
+  ;*HMKey 161502050012
+3 Parametrischen Bemaßungstext editieren =CS_161502050011@MEGAP.HLP
+  ;*HMKey 161502050011
+3 Parametrische Programm verändern =CS_161502050032@MEGAP.HLP
+  ;*HMKey 161502050032
+3 Bemaßen von Teilbereichen in einer Zeichnung untereinander =CS_161502050034@MEGAP.HLP
+  ;*HMKey 161502050034
+3 Maßtabelle schreiben-verändern =CS_161502050014@MEGAP.HLP
+  ;*HMKey 161502050014
+3 Maße über Maßtabelle verbinden, editieren =CS_161502050013@MEGAP.HLP
+  ;*HMKey 161502050013
+3 Anzeige aller Maßtexte ändern =CS_161502050010@MEGAP.HLP
+  ;*HMKey 161502050010
+3 Skizze durch Punktverschiebung verändern =CS_161502050015@MEGAP.HLP
+  ;*HMKey 161502050015
+2 Optionen
+3 Anzeige von parametrischen Abhängigkeiten =CS_161502050018@MEGAP.HLP
+  ;*HMKey 161502050018
+3 Runden/Fasen von Zeichenelementen =CS_161502050016@MEGAP.HLP
+  ;*HMKey 161502050016
+3 UNDO/REDO-Parametrik =CS_161502050019@MEGAP.HLP
+  ;*HMKey 161502050019
+1 Drucken und Plotten mit MPlot
+2 Allgemeines zum Plotprogramm =Plo1
+  ;*HMKey 221113170002
+2 Das Eingangsmenü =p2
+  ;*HMKey 080809560041
+2 Speichern 2D in MegaCAD =CS_080809560043
+  ;*HMKey 080809560043
+2 Drucken und Plotten unter Windows mit MegaCAD-Treibern =p3
+  ;*HMKey 080809560003
+2 Drucken/Plotten mit MegaCAD-Drucker =p19
+  ;*HMKey 080809560019
+2 Zeichnung plotten oder drucken mit Windows-Treibern =p6
+  ;*HMKey 080809560006
+2 Ausgabe einer Zeichnung auf einem kleinerem Druckerformat als das Blattformat =p7
+  ;*HMKey 080809560007
+2 Ändern der Blattformate beim Drucken mit MegaCAD-Drucker =p5
+  ;*HMKey 080809560005
+2 Blattformat verändern =p21
+  ;*HMKey 080809560021
+2 Plotten mit Überlänge =p20
+  ;*HMKey 080809560020
+2 Texte skalieren im Plotprogramm =p28
+  ;*HMKey 080809560028
+2 Laden einer Datei (Zeichnung) =p8
+  ;*HMKey 080809560008
+2 Auswahl über die Tastatur =p9
+  ;*HMKey 080809560009
+2 Auswahl über eine Liste =p10
+  ;*HMKey 080809560010
+2 Zeichnung positionieren nachträglich oder beim Laden =p11
+  ;*HMKey 080809560011
+2 Zeichnung verschieben =p12
+  ;*HMKey 080809560012
+2 Ausschnitt erstellen =p14
+  ;*HMKey 080809560014
+2 Eingabe Textzeile =p27
+  ;*HMKey 080809560027
+2 Zeichnung löschen =p13
+  ;*HMKey 080809560013
+2 Zoom Rechteck =p16
+  ;*HMKey 080809560016
+2 Neuzeichnen =p15
+  ;*HMKey 080809560015
+2 Gruppenverwaltung =p23
+  ;*HMKey 080809560023
+2 Layerverwaltung =p22
+  ;*HMKey 080809560022
+2 SLD-Dateien speichern =p17
+  ;*HMKey 080809560017
+2 HPGL-Datei erzeugen =p18
+  ;*HMKey 080809560018
+2 Linienbreite einstellen =p24
+  ;*HMKey 080809560024
+2 Schwarz/weiß-Ausdruck aktivieren =p26
+  ;*HMKey 080809560026
+2 Helpfunktionen =p29
+  ;*HMKey 080809560029
+2 TrueType-Fonts als Vektorfonts ausgeben =p25
+  ;*HMKey 080809560025
+2 Probleme bei der Inbetriebnahme eines Plotters =p36
+  ;*HMKey 080809560036
+2 Plotter kalibrieren (nur unter Verwendung der MegaCAD-Plottertreiber) =p4
+  ;*HMKey 080809560004
+2 HP-Plotter anschließen =p32
+  ;*HMKey 080809560032
+2 Plotten auf einem HP Laserjet III /IV =p34
+  ;*HMKey 080809560034
+2 Drucken und Plotten im Netz mit MegaCAD =p35
+  ;*HMKey 080809560035
+2 Postscriptunterstützung im Plotprogamm =p30
+  ;*HMKey 080809560030
+2 Plotten und Drucken im Hintergrund mit Parametersteuerung =p39
+  ;*HMKey 080809560039
+2 ESCAPE-Sequenz vor und hinter dem Plotfile senden =p37
+  ;*HMKey 080809560037
+2 Hardware Einstellungen für den HP DesignJet 600 / 650C =p33
+  ;*HMKey 080809560033
+2 Synchronzeichen bei CALCOMP-Plottern =p31
+  ;*HMKey 080809560031
+2 Plotprogramm von MegaCAD direkt aufrufen =p38
+  ;*HMKey 080809560038
+2 Beenden =p40
+  ;*HMKey 080809560040
+1 Einstellungen (Setup)
+2 Einstellungen verändern und speichern  (Setup) =Set1
+  ;*HMKey 221454220461
+2 Aktuelle Parameter speichern =Set2
+  ;*HMKey 221454220462
+2 Hotkey Datei laden =Set5
+  ;*HMKey 221454220463
+2 Linienbreite einstellen =Setup_Linibreite
+  ;*HMKey 221454220488
+2 Cursor\Achsenkreuz Farben einstellen =CS_091612021037
+  ;*HMKey 091612021037
+2 Hiddenlinie Linestyle unsichtbare Linien einstellen =CS_091612021039
+  ;*HMKey 091612021039
+2 Setup Text-Einstellungen =Setup_Text_Einstellungen
+  ;*HMKey 221454220487
+2 Feature Tree aus =CS_091612021069
+  ;*HMKey 091612021069
+2 Facettierung ändern =c17
+  ;*HMKey 281736010024
+2 ACIS Version zur Ausgabe (Export,Import) einstellen =c19
+  ;*HMKey 281736010026
+2 Symbolmenüs =Symbol
+  ;*HMKey 091612020990
+2 Symbolmenüs belegen
+3 Menü belegen allgemein =Menue_belegen
+  ;*HMKey 091612020991
+3 Funktionssymbolauswahl =Symbolsuche
+  ;*HMKey 091612020992
+3 Belegen von Menüleisten =Symbol_in_Menue
+  ;*HMKey 091612020993
+3 Synbole löschen =Symbole_Loeschen
+  ;*HMKey 091612020008
+3 Symbole bearbeiten =Symbolbearbeitung
+  ;*HMKey 091612020995
+3 Anwendermenüs =neue_Menues
+  ;*HMKey 091612020559
+3 Standardfunktionen verändern =Besonderheiten_Stdtfkkt
+  ;*HMKey 091612020561
+2 Rastermenü
+3 Raster-Allgemein =mR1
+  ;*HMKey 221454220326
+3 Rasteroptionen =mR2
+  ;*HMKey 221454220327
+3 Bildschimraster einstellen (Rasterwerte am Bildschirm abgreifen) =mR3
+  ;*HMKey 111512340331
+3 Fangraster einstellen =mR4
+  ;*HMKey 221454220329
+3 Winkelraster und Sternraster =mR6
+  ;*HMKey 221454220331
+3 Rasterbezugspunkt verändern =mR7
+  ;*HMKey 221454220332
+3 Zeichnungsnullpunkt verändern =mR8
+  ;*HMKey 221454220333
+3 Zeichenblattgröße wählen =mR9
+  ;*HMKey 221454220334
+3 Maßeinheiten wählen =mR10
+  ;*HMKey 221454220335
+2 Setup-Einstellungen
+3 Einstellungen =Set6
+  ;*HMKey 091612020470
+3 2D-Modus einschalten =Set6
+  ;*HMKey 091612020470
+3 Fadenkreuz klein (groß) =Set7
+  ;*HMKey 221454220465
+3 Taschenrechner =Set8
+  ;*HMKey 221454220466
+3 Hilfe =Set9
+  ;*HMKey 221454220467
+3 Fehlermeldungen =Set10
+  ;*HMKey 221454220468
+3 Klick-Distanz =Set11
+  ;*HMKey 221454220469
+3 Inverse Elemente =Set12
+  ;*HMKey 221454220470
+3 Undo-Redo =Redo_K1
+  ;*HMKey 221454220530
+3 Grad-Vollkreis =Set14
+  ;*HMKey 221454220472
+3 Linestyle =Set15
+  ;*HMKey 221454220475
+3 BAK-Datei und Timer =BAK_Datei_und_Timer
+  ;*HMKey 221454220473
+3 MOP-Werkz. löschen =CS_091612021071
+  ;*HMKey 091612021071
+3 ACIS Genauigkeit =CS_091612021072
+  ;*HMKey 091612021072
+2 Layout
+3 Layout(Multiwindow-Technik) =Set18
+  ;*HMKey 221454220483
+3 Anordnung der Menüleisten auf dem Bildschirm =Set20
+  ;*HMKey 221454220484
+3 Farbe des Hintergrundes =Set21
+  ;*HMKey 221454220485
+3 Verschiebbare Menüs =Verschiebbare_Menues
+  ;*HMKey 221454220486
+1 Fonteditor in MegaCAD
+2 Start des Fonteditors =Font3
+  ;*HMKey 121157540604
+2 Allgemeines über den Fonteditor =Font1
+  ;*HMKey 121157540602
+2 Das Hauptmenü vom Fontprogramm =Font9
+  ;*HMKey 121157540609
+2 Schriften in MegaCAD =Font2
+  ;*HMKey 121157540603
+2 Start des Fonteditores über das MegaCAD-Gruppenwindow =Font4
+  ;*HMKey 121157540605
+2 Zeichen auswählen =Font12
+  ;*HMKey 121157540612
+2 Zeichen ansehen =Font10
+  ;*HMKey 121157540610
+2 Einen Buchstaben vor- oder zurück anzeigen =CS_121157540629
+  ;*HMKey 121157540629
+2 Zeichen vergrößert anzeigen =Font11
+  ;*HMKey 121157540611
+2 Zeichen neu erstellen =Font20
+  ;*HMKey 121157540620
+2 Zeichen editieren =CS_121157540631
+  ;*HMKey 121157540631
+2 Zeichen überarbeiten und erstellen =Font13
+  ;*HMKey 121157540613
+2 Einstellungen Fontprogramm =CS_121157540626
+  ;*HMKey 121157540626
+2 Font laden =CS_121157540624
+  ;*HMKey 121157540624
+2 Anderen Font auswählen =Font21
+  ;*HMKey 121157540621
+2 Einen Buchstaben vor- oder zurück anzeigen =CS_121157540629
+  ;*HMKey 121157540629
+2 Einen ganzen Buchstaben löschen =CS_121157540633
+  ;*HMKey 121157540633
+2 Buchstaben kopieren =CS_121157540630
+  ;*HMKey 121157540630
+2 Buchstabenbreite =CS_121157540627
+  ;*HMKey 121157540627
+2 Raster festlegen =CS_121157540625
+  ;*HMKey 121157540625
+2 Font speichern =CS_121157540632
+  ;*HMKey 121157540632
+2 Linien zeichnen im Fontprogramm =Font14
+  ;*HMKey 121157540614
+2 Bögen zeichnen im Fontprogramm =Font16
+  ;*HMKey 121157540616
+2 Kreise zeichnen im Fontprogramm =Font15
+  ;*HMKey 121157540615
+2 Spline zeichnen =CS_121157540628
+  ;*HMKey 121157540628
+2 Elemente löschen im Fontprogramm =Font17
+  ;*HMKey 121157540617
+2 Neuzeichnen im Fontprogramm =Font18
+  ;*HMKey 121157540618
+2 Hotkeys im Fonteditor =Font22_2
+  ;*HMKey 121157540635
+2 Beenden des Fonteditors =Font22
+  ;*HMKey 121157540622
+1 Anwendermenüs
+2 Usermenü-Allgemein =User1
+  ;*HMKey 221454220520
+2 Usermenü-Dos-Menü =User2
+  ;*HMKey 091612020528
+2 Dateistruktur User/Dos-Menü =User3
+  ;*HMKey 091612020529
+2 Anwender-Symbolmenü =Anwender_Symbolmenue
+  ;*HMKey 091612020999
+2 Parametrisierbare Funktionen
+3 Exec =User4
+  ;*HMKey 221454220523
+3 Batch =User5
+  ;*HMKey 221454220524
+3 Input =User6
+  ;*HMKey 221454220525
+3 PushFunc =Pushfunc
+  ;*HMKey 091612021025
+3 Makro einfügen =User7
+  ;*HMKey 221454220526
+3 Texteditor =User8
+  ;*HMKey 221454220527
+3 Cdl-lesen =User9
+  ;*HMKey 221454220528
+3 CopyFile =CopyFile
+  ;*HMKey 221454220529
+1 MegaCAD konfigurieren MCONFIG
+2 Konfiguration und Einstellungen Allgemein =Con1
+  ;*HMKey 221454220544
+2 MConfig-Das Hauptmenü =Con2
+  ;*HMKey 221454220545
+2 Tastaturbelegung erstellen =Con3
+  ;*HMKey 221454220546
+2 Tastaturbelegung laden (neu erstellen) =Con4
+  ;*HMKey 221454220547
+2 Tasten belegen =Con5
+  ;*HMKey 221454220548
+2 Optionstasten in der Funktionsauswahl =Con6
+  ;*HMKey 091612020556
+2 EXEC-Befehle auf Tasten legen =Con8
+  ;*HMKey 221454220551
+2 Tastaturbelegung speichern =Con13
+  ;*HMKey 221454220556
+2 Tastaturbelegung aktivieren =Con14
+  ;*HMKey 221454220557
+2 Tastaturbelegung drucken =Con15
+  ;*HMKey 221454220558
+2 Tastaturbelegung editieren =Con17
+  ;*HMKey 221454220559
+2 Programm mit Ende beenden =Con18
+  ;*HMKey 221454220560
+2 Tastaturbelegung in MegaCAD aufrufen =Con19
+  ;*HMKey 221454220561
+2 USERMENÜ/DOS-Menü erstellen (bearbeiten) =Con42
+  ;*HMKey 221454220562
+2 MENÜ laden (neu erstellen) =User2
+  ;*HMKey 221454220521
+2 MENÜ belegen =Con44
+  ;*HMKey 221454220564
+2 MENÜ speichern =Con45
+  ;*HMKey 221454220565
+2 Menübelegung drucken =Con46
+  ;*HMKey 221454220566
+2 MegaCAD-Batch-Datei erzeugen =Con47
+  ;*HMKey 221454220567
+2 Batchdatei in der Funktionsauswahl =Con10
+  ;*HMKey 091612020560
+1 C-Schnittstelle
+2 Einleitung C-Interpreter =cint1
+  ;*HMKey 251128590966
+1 Tips und Tricks
+2 Definition von Linienattributen =tips2
+  ;*HMKey 221454220903
+2 Breite Linien beim Drucken-Plotten =tips21
+  ;*HMKey 221454220921
+2 Defaultwerte =tips3
+  ;*HMKey 221454220904
+2 ASCII-Zeichen =tips5
+  ;*HMKey 221454220906
+2 Textimport =tips6
+  ;*HMKey 221454220907
+2 Konvertierung alter MTL-Dateien =tips7
+  ;*HMKey 221454220908
+2 Stücklistenausgabe =tips8
+  ;*HMKey 221454220909
+2 Stücklistendatei im dBase III plus Format =tips9
+  ;*HMKey 221454220910
+2 Import von großen DXF-Dateien =tips10
+  ;*HMKey 221454220911
+2 Plotdatei Informationen anhängen =tips12
+  ;*HMKey 221454220912
+2 HP DesignJet 600 / 650C =tips13
+  ;*HMKey 221454220913
+2 HP Laserjet III /IV =tips14
+  ;*HMKey 221454220914
+2 Plotten mit Überlänge =tips15
+  ;*HMKey 221454220915
+2 Drucken und Plotten im Netz mit MegaCAD =tips16
+  ;*HMKey 221454220916
+2 Plotteranpassung =tips17
+  ;*HMKey 221454220917
+2 Erweiterte Angaben zum Plotprogramm =tips18
+  ;*HMKey 221454220918
+2 Einträge im Usermenü =tips19
+  ;*HMKey 221454220919
+2 Digitizer Installation für  Windows =tips20
+  ;*HMKey 221454220920
+2 Import/Export =Import_Export
+  ;*HMKey 091612020440

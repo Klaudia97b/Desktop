@@ -1,0 +1,64 @@
+GRP Ignore    "                        "
+GRP Mode      " Modus-Funktionen       "
+GRP Select    " Auswahl-Funktionen     "
+GRP Zoom      " Zoom-Funktionen        "
+GRP Edit      " Edit-Funktionen        "
+GRP Text      " Text-Funktionen        "
+GRP Angle     " Winkel-Funktionen      "
+GRP Line      " Linien-Funktionen      "
+GRP Point     " Punkt-Funktionen       "
+GRP Circle    " Kreis-Funktionen       "
+GRP Arcs      " Bogen-Funktionen       "
+GRP Pixel     " Bitmap-Funktionen      "
+GRP Toggle    " Schalter-Funktionen    "
+GRP Ellipse   " Ellipsen-Funktionen    "
+GRP Macro     " Makro-Funktionen       "
+GRP Drawing   " Zeichnungs-Funktionen  "
+GRP Dimension " Bemaáungs-Funktionen   "
+GRP Info      " Info-Funktionen        "
+GRP Main      " Hauptmenue-Funktionen  "
+GRP Defines   " Festwerte-Funktionen   "
+GRP Cdl       " CDL-Funktionen         "
+GRP Style     " Linestyle-Funktionen   "
+GRP Special   " Sonder-Funktionen      "
+GRP windows   " Windows-Funktionen     "
+GRP Volume    " 3D-K”rper-Funktionen   "
+GRP Archive   " Archiv-Funktionen      "
+GRP Clipboard " Clipboard-Funktionen   "
+Ignore    : NoFunc
+Zoom      : StoreZ1
+Special   : Undo
+Clipboard : CopyPic
+Edit      : EdtMenu
+Special   : GoMenu
+Special   : AttrDef
+Special   : SetIncPt
+Angle     : PhiInc
+Mode      : ModeFree
+Select    : TypPnt
+Line      : LinMenu
+Point     : PntMenu
+Circle    : CirMenu
+Arcs      : ArcMenu
+Ellipse   : ElpMenu
+Text      : TxtCfg
+Dimension : DimMenu
+Macro     : MacManag
+Drawing   : PrtManag
+Info      : InfMenu
+Volume    : VolMenu
+Main      : IsoMet
+Special   : CurMenu
+Toggle    : TglSrch
+Special   : PushFunc
+Main      : XHatch
+Special   : InputDlg
+Cdl       : CDLRead
+Special   : Palette
+Main      : Layer
+Defines   : SavParms
+Style     : AttGrp
+Main      : BmpMenu
+Pixel     : PixMenu
+Volume    : ChgView
+Archive   : ArchCall

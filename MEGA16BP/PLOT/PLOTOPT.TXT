@@ -1,0 +1,14 @@
+PLOT [Filename.CFG]
+PLOT [Eingabefile] [/DEVICE] </PORT> <AusgabeFile> [/FORMAT]  </Optionen>
+
+
+DEVICE  = /MEGAPLOT | /MEGAPRINT | /WINDRIVER
+PORT    = /NETZ: | /FILE: | /LPT1: | /LPT2: | /COM1: | /COM2: | /COM3: | /COM4:
+         if (PORT == /FILE:"name.plt")     then <OutputFile>
+         if (PORT == /NETZ:"name.of.port") then <Pfad>
+FORMAT  = /A4 | /A3 | /A2 | /A1 | /A0 | /FORMAT132 | /FREE_FORMAT
+/NOZOOM = Faktor wird auf 1, Nullpunkt links unten, hat nur bei Prt wirkung,
+          also keine SLD
+/GRPLAY = Ausgeschaltete Layer Gruppen aus Prt ubernehmen
+/SINGLE = Elemente einer Sld Zeichnung auf einzelne Blatter ausgeben, falls
+          Port == FILE, hat kein Sinn

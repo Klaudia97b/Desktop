@@ -1,0 +1,69 @@
+GoMenu
+TxtCfg
+TxtLine
+TxtBlock
+Editor
+TxtMark
+TxtElem
+TxtBNum
+TxtPar
+TxtFill
+TxtLFill
+TxtXch
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+User_txt_plus
+DEF:InterP .\CIP\pomoc.mtl\txt-inny.cip
+HLP:Zmiana tekstu|Zmiana wskazanego tekstu na inny
+B16:‹X²z¶­\}¶·°¢¶­œz»­œ¢¶Mž¢†X²z†®œ¢»­°z¶Mžz†¸œ¢¶­\}¶·\}¶Wžz¶­œŠ¶­œz¶­œzV®œz¶?
+B16:¶­œŠXrz¶­œz¶q¥z¶­@??­œ{¶ŸœBFM›z¶­€z¶M›z¯M[??­\w¶MzF­œz¯­\?¶M›zF?›B¶ŸœB¯?
+B24:¶­œz¶­œz¶­œz¶­p¥‹¸œz¶­œz¶­œz»W^}¶­œz¶­°z¶­\¥¶­œz¶­œ¢»­œz†¸œz‹®\¥†Xr¥¶­p}¶­p}‹®\¥¶­@
+B24:¶M²z¶­p¥¶­p}¶­œ¢»­œz‹¸œz‹®œz¶Wžz¶W^¥¶M²¢»­p¥»­p}¶Wžz‹¸œz¶­œz¶mz¶­œz¶­œz¶­œŠ¶­œz¶­@
+B24:¶­œz¶­œ{¶­œz¶­œz¶­œŠXrz¶­œz???w¶m¥{¶­œz¶M[?F­œz¸­œz¯­œzFŸœz¶mz¶?›z¶­@w¶MzFŸ@??Ÿ@
+B24:¶Mz¶MB¯­@w¶­œB¯­œz?Ÿœz?­œz¶?›z¶M?w¶Mz¶­\?¶­\?FŸœB¯?›z??›z?­\?¶M?w¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\txt-plus.cip 3.09
+HLP:plus/minus|Dodawanie (odejmowanie) warto˜ci do wskazanego tekstu
+B16:¶­œz¶­œz¶­œz¶Wžz¶­œz¶Mž¢¶­œz¶·œz†®œz¶Mr}†¸œ{¶­œ¢¶MžzV®œz¶­p¥»­¤z¶­œz¶­œz¸?
+B16:¶­œz¶­œz¸­œz¶M›z¶±œz¶­@wVnz¶ŸœB¯m¥z¶M?w¯Ÿœ‹¸­œB¶??w¶­œz¶­œB¶­œz¶­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶Wr}¶­œz¶­œz¶­p}†¸œz¶­œz¶Wžz‹®p}¶­œz¶­\¥¶­œz‹®œz¶­@
+B24:¶Wr¥»­\¥¶­œz¶­œz‹®œz‹®œŠ¸­œz¶M²z¶Wžz¶m¥z¶­œz¶­p}†¸œzX®œz¶­œz‹Xr}¶­¤z¶­œz¶­œz¶­œzX®@
+B24:¶­œz¶­œz¶­œz¸­œz¶­œz¶­œz¶mz¶­œz¶­@w¶­œŠ¶­œz¶­œB?­œ{V²œz¶?›z¶?zVr¥z¶­\?¶­@?¯­¤‹¶­@
+B24:¶???¯M[?¶q¥{¶­œz?­\?FŸœ‹X²œz¶MzF???¶­œz¶­œz¶­œz?­œz¶­œz¶­œz¶??w¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\bolte-ii.cip
+HLP:Odno˜nik z TXT|Odno˜nik z tekstem
+B16:¶­œz¶­œz¶­œz¶Wr}¶­œz¶Mz¶‹®œz¶Mr¶­œr}¶­\µ­œz¶»­œB??wF??›z«€zF \w}¶—B¶Mz¯»?
+B16:¶—B¶Mz¯»­pE­@?¯Ÿ¸œz«œz¶­œ²z¶Mz¶­œz}¶­p¥­œz¦¶­\}¶Wr¥»­œ¢¶­œz¶­œz»­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶Mr¥»­œz¶­œz¶­pµ­œr}¶­œz¶­\¥­œz¶­Xžz¶­œz«œz¶­œz¶»­@
+B24:¶­œ¢­œz¶­œz¦¶­œz†œz¶­œz¶­\žz¶­„GP{w¶ bƒG¶­œ¢­‚z¶ ‚z¶ \žz¶—º¯­|·¯­|w¦¶­\µ]›z¶ œzN­¸@
+B24:¶­p¶ œº¯ œº¯®œz«|w¶]{w¶]›²z¶­pN­|w¶ œF¦¶­œz«œz¶­œz¶­¸œz¶­p¶­œz¶­œ²z¶­œz«œz¶­œz¶»­@
+B24:¶­\}‹œz¶­œr}¶­œz»­\¥­œz¥¶­œz¶·œz¶Mr¥»­œz¶­°z¶­œz¶­œz¶­œ¢¶­œz¶­œz¶­œz†®œz¶­œz¶­œz¶­@
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc

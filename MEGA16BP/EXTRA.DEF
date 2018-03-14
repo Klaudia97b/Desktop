@@ -1,0 +1,162 @@
+NAM:User_B1
+DEF:DoMenu Text.mnu
+HLP:Menu tekst¢w|Menu wprowadzania tekst¢w
+B16:¶­œB?Ÿœz¶­œz¶Ÿ\w¶­œz¶­@?¶­œz¶­œB¶Ÿœz¶­œz??›z¶­œB¯­œz¶­œz¯M›zFŸœz¶Ÿ\w¶Ÿœz¶?
+B16:¶Ÿ\w¶Mz¶­@?¯­œz¶­œB¶Ÿœz¶­œzF­€z?Ÿœz¶­œz¶M[w¶­œz¶­\w¯­œz¶­œz¯Ÿœz¶­œzF?›z¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­\??Ÿœz¶­œz¶­œz¶ŸœB¶­œz¶­œz¶­\w¶Ÿœz¶­@
+B24:¶­œz¶­€zF­œz¶­œz¶­œz??›z¶­œz¶­œB¶M›z¯­œz¶­œz¶ŸœB¶M›z¶­œz¶­€B¶ŸœB¶­œz¶­œz¯Ÿ@??­œz¶­@
+B24:¶­\w¶Ÿœz¶­œz¶­œzF??w¶M??¶­œz¶­€zF­œz¯M›z¶­œz¯­€B¯M›B¶­œz¶­œzF­œB¶Ÿœz¶­œz¶­€z¶Ÿ\w¶­@
+B24:¶­œz¶­@wF­€z¶­œz¶­œz¶­€z¯­œz¶­œz¶­œB?Ÿœz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+NAM:User_CIP1
+DEF:InterP .\CIP\PARA.CIP
+HLP:Moduˆ parametryzacji|Uruchomienie moduˆu parametryzacji
+B16:¶­œ¢‹¸œz¶­œz¶­°z¶­œz¶­œ¢¶­œz¶­œz‹®œz¶­œz†®œz¶­œz¶Mžz¶­\w?­\}¶M[w¯?›z»­\?¯?
+B16:¯?›z¶­\?¯Ÿ@w¶­œz¯Ÿ€z¶­œz¶­€B¶­œz¶­œBFWr¥‹Xr¥KMr¥‹Xr¥‹X›z¶­œz¶­œz¶­œz¶­œz¶?
+B24:¶­œz¶Mr¥»­œz¶­œz¶­\¥‹X²z¶­œz¶­œz†®œ¢»­œz¶­œz¶­œz¶Wžz¶­œz¶­œz¶­\¥¶­œz¶­œz¶­œz‹®œz¶­@
+B24:¶­œz¶­\¥¶­œz¶­œz¶­œz‹®œz¶­œz¶­œz¶M²z¶­œz¶­œz¯­œz¶­œB¶­œB¶?›z¶Wžz¶?›B¶Ÿ@?¶­\¥¶­\?¯Ÿ@
+B24:F????????????­€B?­œz¶­œz?Ÿ€z¯Mz¶­œz¶Mz¯M›z¯­œz¶­œB¶M›B¶­œz¶­œz¶­œB¶Ÿœz¶­œz¶­œz¶Ÿ@
+B24:F­œz¶­œz¶­œzF­@¥‹Xr¥‹Xr¥‹X‚z‹Xr¥‹Xr¥‹Xr¥¯­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+NAM:User_CIP2
+DEF:InterP .\CIP\PARASEL.CIP
+HLP:wyb¢r do parametryzacji|Wyb¢r element¢w do parametryzacji
+B16:¶­œ¢‹¸œz¶­œz¶­°z¶­œz¶­œ¢¶­œz¶­œz‹®œz¶­œz†®œz¶­œz¶Mžz¶­\w?­\}¶M[w¯?›z»­\?¯?
+B16:¯?›z¶­\?¯Ÿ@w¶­œz¯Ÿ€z¶­œz¶­€B‹Xr¥‹XrE¶­œz¶µ­¼­œš¶­\¬¶­œš¶­œz™®œzº­œ’in¶­¶?
+B24:¶­œz¶Mr¥»­œz¶­œz¶­\¥‹X²z¶­œz¶­œz†®œ¢»­œz¶­œz¶­œz¶Wžz¶­œz¶­œz¶­\¥¶­œz¶­œz¶­œz‹®œz¶­@
+B24:¶­œz¶­\¥¶­œz¶­œz¶­œz‹®œz¶­œz¶­œz¶M²z¶­œz¶­œz¯­œz¶­œB¶­œB¶?›z¶Wžz¶?›B¶Ÿ@?¶­\¥¶­\?¯Ÿ@
+B24:F????????????­€B?­œz¶­œz?Ÿ€z¯Mz¶­œz¶Mz¯M›z¯­œz¶­œB¶M›B¶­œz¶­œz¶­œB¶?r¥‹Xr¥‹Xr¥‹ @
+B24:¶­œz¶i”¶­œz¶­œz¶µ\|¶­œzžz¶­¬zf®œ’–®œª¶­œœ¶­¨z¶³´z¶¹œzº­œz¹­\|¼­œ}¶µœz¶­h”¹m¶­œ®@
+NAM:User_CIP3
+DEF:InterP .\CIP\PARAMAC.CIP
+HLP:edycja obiektu|Edycja obiektu parametryzowanego
+B16:‹¸\¥¶W²¢‹¸œz»·\}¶·p}¶·°z»­°¢¶­°¢¶·œ¢†Xž¢»Mr}†®œz¶­œz¶­\w?­œz¶M[w¯?›z¶­\?¯?
+B16:??›z¶­\?¯Ÿ@w¶­œz¯Ÿ€z¶­œz¶­€B‹Xr¥‹XrE¶­œz¶µ­¼­œš¶­\¬¶­œš¶­œz™®œzº­œ’in¶­¶?
+B24:¶Mr}†X^¥¶W²¢‹®\¥‹¸°z†Nž¢¶Mžz¶­p}»­°¢¶·œ¢¶­œ¢»Mžz»·\}¶·œz†¸œ¢»M^}†®\}¶­p}¶·œ¢†®°z†®@
+B24:¶­œz†®\}»Mžz»­œ¢»­p¥†¸\¥»Mžz¶­œz¶­œz¶­œz¶­œz¯­œz¶­œB¶­œB¶?›z¶­œz¶?›B¶Ÿ@?¶­œz¶­\?¯Ÿ@
+B24:F????????????­€B?­œz¶­œz?Ÿ€z¯Mz¶­œz¶Mz¯M›z¯­œz¶­œB¶M›B¶­œz¶­œz¶­œB¶?r¥‹Xr¥‹Xr¥‹ @
+B24:¶­œz¶i”¶­œz¶­œz¶µ\|¶­œzžz¶­¬zf®œ’–®œª¶­œœ¶­¨z¶³´z¶¹œzº­œz¹­\|¼­œ}¶µœz¶­h”¹m¶­œ®@
+NAM:User_ODBC1
+DEF:LoadDll odbcv.dll
+HLP:ODBC|ODBC-Uruchomienie bazy danych
+B16:†®p}†¸\¥»·°¢†N^}»­°¢†N^¥¶·œ¢†N^}»·°z¶·\¥¶Wž¢‹®œz¶­\??M›z¶­œB¶­@w???wF­\?¯?
+B16:¯¾¾F??›z¶Ÿ¾¾¾¾~w¶­€¾¾¾¾¾¯­œB¾^??????F½~GPaƒGM{?GPaƒGŸ\·?PaƒGP›z??????z¶?
+B24:†¸œ¢‹®\¥»­\¥¶Mž¢¶·\}†®°z»Mž¢¶·\}†®°z»Mžz¶·\}†®°z‹¸œ¢¶­\}†®°z»Mž¢¶·œz†®°z»Mž¢¶·\}†®@
+B24:†¸œ¢‹®\¥»­\¥¶­œz¶­œz¶­@?¯­€z¶­œz¶­œB¶­€B¯­œz¶­œzF­œzF?›B???w¶M›z¶M??F½¾¾¾ œz¶­\??Ÿ@
+B24:¯¾¾¾¾@???Ÿœz¶M»¾¾¾¾¾¾¾~w¶­œB¾¾¾¾¾¾¾¾N­œz¶Ÿ¾¾¾¾¾¾¾¾‚z¶­\·¾¾¾F????????F½¾¾NOaƒGPaƒG @
+B24:¯¾¾FGPaƒGPaƒ¯M»¾NOaƒGPaƒG œB¾^_ƒGPaƒGPz¶Ÿ~GPaƒGPaC¶­\·?PaƒGPaƒG­œzF?????????›z¶­@
+NAM:User_DB1
+DEF:Batch .\MEGABASE\MEGABAS1.MBT
+HLP:Katalog rysunk¢w|Baza danych rysunk¢w
+B16:‹®p}†¸°z‹¸°¢†N^¥»·°¢†¸\¥†®°¢†N^}»M²¢†¸\¥¶?z¶­œz¶ŸœzFM›z?Ÿœz¶­@wF½~w¶­\?¯?
+B16:¯¾¾F??›z¶Ÿ¾¾¾¾~w¶­€¾¾¾¾¾¯­œB¾^_ƒGPaCF½~ƒGPaƒ·M{GPaƒG­\·GPaƒG°œz??????›z¶?
+B24:‹¸œ¢‹®œ¢»M²z‹Xž¢¶·\}¶·°¢†®°¢¶·\}†®\}»·°z»·\}†Xžz†¸\¥¶M^}†®°z»­°z†Nž¢†Nžz»Mžz»­°¢¶·@
+B24:‹¸œ¢‹®œB?Ÿœz¶­œz¶­œz?­œB¯­€z¶­œz¶Ÿœz¶­€B¯­œz¶­œz¶­œzF?›zF??w¶­œz¶M??¶M»¾¾ œz¶­\??Ÿ@
+B24:?½¾¾¾@???Ÿœz¶M»¾¾¾¾¾¾¾~w¶­œB¾¾¾¾¾¾¾¾N­œz¶Ÿ¾¾¾¾¾¾¾¾‚z¶­\·¾¾¾F????????F½¾¾NOaƒGPaƒG @
+B24:¯¾¾FGPaƒGPaƒ¯M»¾NOaƒGPaƒG œB¾^_ƒGPaƒGPz¶Ÿ~GPaƒGPaC¶­\·?PaƒGPaƒG­œzF?????????›z¶­@
+NAM:User_DB2
+DEF:Batch .\MEGABASE\MEGABAS2.MBT
+HLP:Katalog makr|Baza danych makr
+B16:‹®p}»­p}‹¸°z¶Wž¢»·°¢†¸°z†¸°¢†®œ¢¶M²¢‹¸\¥¶?z¶­œz¶ŸœzFM›z?Ÿœz¶­@wF½~w¶­\?¯?
+B16:¯¾¾F??›z¶Ÿ¾¾¾¾~w¶­€¾¾¾¾¾¯­œB¾^_ƒGPaCF½~ƒGPaƒ·M{GPaƒG­\·GPaƒG°œz??????›z¶?
+B24:‹¸œ¢‹®°z†Nr}†Xž¢¶·\}‹N²¢†Nž¢¶·\}†N^}»·°¢¶·\}†Xž¢¶M^¥»·\}†®°z»·œ¢†N^}†Nžz»M^}¶·°¢¶WB
+B24:‹¸œ¢‹®œB?Ÿœz¶­œz¶­œz?­œB¯­€z¶­œz¶Ÿœz¶­€B¯­œz¶­œz¶­œzF?›zF??w¶­œz¶M??¶M»¾¾ œz¶­\??Ÿ@
+B24:?½¾¾¾@???Ÿœz¶M»¾¾¾¾¾¾¾~w¶­œB¾¾¾¾¾¾¾¾N­œz¶Ÿ¾¾¾¾¾¾¾¾‚z¶­\·¾¾¾F????????F½¾¾NOaƒGPaƒG @
+B24:¯¾¾FGPaƒGPaƒ¯M»¾NOaƒGPaƒG œB¾^_ƒGPaƒGPz¶Ÿ~GPaƒGPaC¶­\·?PaƒGPaƒG­œzF?????????›z¶­@
+NAM:User_lin_plus
+DEF:DoMenu .\menu\plus.mtl\LIN-PLUS
+HLP:MENU LINIE +|Dodatkowe menu konstruowania linii
+B16:Xv¥z¶­œz¶q­‹¶­œz¶­¬œz®œz¶­œŠxrz¶­œzV²¥{¶­œB¯­œz¶­œB¯­œ¢»­œB¯­œz¶M²B¯­œz¶?
+B16:¶­@¥¶­œz­®@w¶Wžz­®@w¶­œ¢«®œz¶­œz­N²z¶­œz­®œz‹®œz­®œz¶­œz¶­œz¶­œz¶­œz¶­œz¶?
+B24:Xr¥‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶­œŠX²¥‹¸­œz¶­œz¶q¥›Xrz¶­œz¶­œ›z¶­Œ¶­œz¶­œzVr¥ŒX²œz¶­œz¶­@
+B24:Xr­‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶?›ŠXr¥‹¸­œz¶Mz¶­œz¶­œz¶­@w¶­œz¶­œz¶­\?¶­œz¶M²z¶­œB¯­œz¶­@
+B24:¶­p¥¶Mz¶­œz¶­œz¶WBw¶­œz¶­œz¶­\?‹®œz¶­œ²½­œB¯­\¥¶­œ²­®œz?­œz¶M²z­®œz¶­œz¶­œz­¼œz¶­@
+B24:¶­œz¶z~¶Wžz¶­œz¶­x~¶­œz‹®œz¶­\¶¶­œz¶­\E¶­œ²½­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+NAM:User_okr_plus
+DEF:DoMenu CIR-PLUS
+HLP:MENU OKR¨GI +|Dodatkowe menu konstruowania okr©g¢w
+B16:Xv¥z¶­œz¶q­‹¶­œz¶­¬œz®œz¶­œŠxrz¶­œzV²¥{F??w¶­œz¶ŸœzF­œz¶M›z¶­€z¶­€z¶­œz¯?
+B16:¶­€z¶­œz¯­œB¶­œz¶ŸœzF­œz¶­€z¶M›z¶­œB¶­œB¶­œz¯­œz¶ŸœzF­œz¶­\??Ÿœz¶­œz¶­œz¶?
+B24:Xr¥‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶­œŠX²¥‹¸­œz¶­œz¶q¥›Xrz¶­œz¶­œ›z¶­Œ¶­œz¶­œzVr¥ŒX²œz¶­œz¶­@
+B24:Xr­‹X®œz¶­œz¶m¥‹Zr¥zF???¶­œŠXr¥‹¸?›z¶Mz¶­œz¶­€z¶­œzF­œz¶­œB¶­œz¶­\w¶­œz¶Ÿœz¶­œzF­@
+B24:¶­œz¯­œz¶­œzF­œz¶M›z¶­œz¶­€z¶­œB¶­œz¶­œz¯­œz¶Ÿœz¶­œz¶M›z¶­\w¶­œz¶­œB¶­œzF­œz¶­œz¶Ÿ@
+B24:¶­œzF­œz¶­œz¯­œz¶­€z¶­œz¶M›z¶­œzF­œz¶­\w¶­œz¶­\?¶­œB¯­œz¶­œz¶M???­œz¶­œz¶­œz¶­œz¶­@
+NAM:User_luki_plus
+DEF:DoMenu ARC-PLUS
+HLP:MENU UKI +|Dodatkowe menu konstruowania ˆuk¢w
+B16:Xv¥z¶­œz¶q­‹¶­œz¶­¬œz®œz¶­œŠxrz¶­œzV²¥{¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz??›z¶?
+B16:¶­\?¶­@w¶­œB¶­œzF­œzF­œz¶M›z¶Ÿœz¶­œB¶­€z¶­œzF­œB¶­œz¶M›z¶­œz¶­œz¶­œz¶­œz¶?
+B24:Xr¥‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶­œŠX²¥‹¸­œz¶­œz¶q¥›Xrz¶­œz¶­œ›z¶­Œ¶­œz¶­œzVr¥ŒX²œz¶­œz¶­@
+B24:Xr­‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶­œŠXr¥‹¸­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@??Ÿœz¶­@
+B24:¶­œzFŸœz¶?›z¶­œz¶M›z¶­œz¯­œz¶­\w¶­œz¶­€z¶­œz¯­œz¶­œzF­œz¶M›z¶­œz¶­€z¶­\w¶­œz¶­œzF­@
+B24:¶­€z¶­œz¶­œz¯­œz¯­œz¶­œz¶M›z¶M›z¶­œz¶­œB¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+NAM:User_info_plus
+DEF:DoMenu INF-PLUS
+HLP:MENU INFORMACJE +|Dodatkowe informacje matematyczne
+B16:Xv¥z¶­œz¶q­‹¶???¶­¬œzN›z¶ŸœŠxrB??›zV²¥{¶­œz¶­œz¶­œz†Xžz¶M?w¶·œ¢¶­€zF­°z†@
+B16:¶­€zF­°z†®œB¶M›z¶·œz¶?z¶MžzF­œz¶­\}¶M›z¶­€z¶M??¯­\w¶·œz¯­œB¶­œz¶Ÿœz¯­œz¶?
+B24:Xr¥‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶­œŠX²¥‹¸­œz¶­œz¶q¥›Xrz??z¶­œ›z¶­Œ¶ŸœzF­œzVr¥ŒX²€z¶­\w¶­@
+B24:Xr­‹X®€z¶M›z¶m¥‹Zr¥zF??w¶­œŠXr¥‹¸­œz¶Mr¥¶­œz¶­œz¶­\¥‹Xžz¶­œzF?z‹¸\¥»­œz¶M›zFM²z¶WB
+B24:¶­œzF­œzF­œz‹¸œz¶­€z¶­€z¶W²z¶­œz¯­œz¯­p¥¶­œz¶M›z¶M›z‹®œz¶­œz¯­\w¶M²z¶­\w¶­@?¯­œ¢»­@
+B24:¶­€z¶­œz¶Ÿœz¶­œz¯­œz¶­€z†¸œz????¶­œB¶­p}¶­œB¶­œzF­œz¶­œz¶Ÿœz¶M›z¶­œz¶­\w¶­\w¶­œz¶­@
+NAM:User_lay_plus
+DEF:DoMenu LAY-PLUS
+HLP:MENU WARSTWY i GRUPY +|Dodatkowe menu zarzadzania warstwami i grupami
+B16:Xv¥z¶­œz¶q­‹¶­œz¶­¬œz®œz¶­œŠxrA?????O²¥C¾¾¾¾¾ œz?]¾¾¾¾‚zF]{½¾¾¾F¶M{·»¾¾¾N?
+B16:¶M{·»^???­\·¯Xr·¾P›z¯ ¾¾¯^aw¶Ÿ‚¾¾ bƒ¯­€F¾¾BƒG œBN?????zF½¾¾¾¾~w¶M??????¶?
+B24:Xr¥‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶­œŠX²¥‹¸­œz¶­œz¶q¥›Xrz¶­œz¶­œ›z¶­Œ¶­œz¶­œzVr¥ŒX²œz¶­œz¶­@
+B24:Xr­‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶­œŠXr¥‹¸???????¯­œz¶­\·¾¾¾¾¾^›z¶­œz?]²¾¾¾¾F¶­œz¶Ÿ‚¦»¾¾¾¾ @
+B24:¶­œzF]{¥¾¾¾¾N­œz¶­€FŽ¸¾¾¾¾‚z¶­œz¯ r¥»¾¾¾¯­œz¶M{·‹X¾¾¾^›z¶­œBN½¾¾N???¶­œz¶Ÿ‚¾¾¾‚¾N @
+B24:¶­œzF]»¾¾^»†G­œz¶­€F¾¾¾FNPz¶­œz¯ ¾¾¾@aƒ¯­œz¶M{???????›z¶­œB¾¾¾¾¾¾~w¶­œz¶???????¯­@
+NAM:User_edit_plus
+DEF:DoMenu EDT-PLUS
+HLP:MENU EDYCJI +|Dodatkowe menu edycji element¢w
+B16:Xv¥z¶­œz¶q­‹¶­œz¶­¬œz®œz¶­œŠxrz¶­œzV²¥{¶­œz¶­œz¶­œz¶­œz¶­œz¶­œzƒ§Pa¶Gbƒ?
+B16:³­\y³Mœz³§œz³§\y¶§Py¶§z³­b¶­b¶§œb†­œb†­z†MPyƒ§\a³Mœz¶­œz¶­œz¶­œz¶­œz¶?
+B24:Xr¥‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶­œŠX²¥‹¸­œz¶­œz¶q¥›Xrz¶­œz¶­œ›z¶­Œ¶­œz¶­œzVr¥ŒX²œz¶­œz¶­@
+B24:Xr­‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶­œŠXr¥‹¸­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶GPa†Gz†G\aƒ§@
+B24:†­œz†­z†­œb¶­z¶­z³­z¶§œz³­œz³Mœz³­\y¶MPy¶Mœb¶Mœz†­œb¶­œb¶§œb¶­z¶§œz¶§\y¶§œz³­@
+B24:†­œz†­z†­œb¶­PaƒMPa¶MPy¶§œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+NAM:User_mac_plus
+DEF:DoMenu MAC-PLUS
+HLP:MENU MAKRA +|Dodatkowe menu funkcji makro
+B16:Xv¥z¶­œz¶q­‹¶­œB?M«œz®œz¯­@‡xrA??­\?O²¥»¾^›z¶­œB¾@???­œzF]_ƒG œz¶M?ƒGP›z¶?
+B16:¶M_ƒG œz¶­\???z¶­œz¶­œz¶­œŠ¶mz¸­¤‹V²¤{VnŠ¶m{¸m{V®œ{¶±¤‹Xnz¸­¤Š¶m‹¸?
+B24:Xr¥‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶­œŠX²¥‹¸­œz¶­œz¶q¥›Xrz¶­œz¶­œ›z¶­ŒF?›z¶­œzVr¥ŒX²€¾???w¶­@
+B24:Xr­‹XN»¾¾¾‚z¶m¥‹Zr¥B¾¾¾¾¯­œŠXr¥‹¸Ÿ¾F????¯­œz¶­\·NOaƒGP›z¶­œzF]_ƒGPaw¶­œz¶­@GPaƒ¯­@
+B24:¶­œz¶M_ƒGPaw¶­œz¶­œBGPaƒG­œz¶­œz¶?????›z¶­œz¶­œz¶­œz¶­œ‹¶m¥zXrzXrzVr‹¸q¥‹¸q¥‹¸­@
+B24:Xr¥‹V²œ‹V²œ‹¶m¥ŠV²¤{V²¤{¶­œŠ¸­¤{Xr¥{X®œz¶qzXn¥‹Xn¥zX®œ‹¶m¥Š¸m¥ŠXr¥zV²œŠ¸qŠ¸m¥‹¶­@
+NAM:User_txt_plus
+DEF:DoMenu TXT-PLUS
+HLP:MENU TEKSTàW +|Dodatkowe menu konstruowania tekst¢w
+B16:Xv¥z¶­œz¶q­‹¶­œz¶­¬œz®œz¶­œŠxrz¶??wV²¥{¶­\wF­œz¶?›z?Ÿœz¶M›B¶Ÿ\w¶­\wFM??¶?
+B16:¶­\??­œz¶­œz¯M›z¶­œz¶Ÿ\w¶­œz¶­œzFM?w¶­œz¶ŸœBF­œz¶­\wFM›z¶­œz¶M[w¶­œz¶­@?¶?
+B24:Xr¥‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶­œŠX²¥‹¸­œz¶­œz¶q¥›Xrz¶­œz¶­œ›z¶­Œ¶­œz¶­œzVr¥ŒX²œz??z¶­@
+B24:Xr­‹X®œz¯­€z¶m¥‹Zr¥z¶M›z¯­œŠXr¥‹¸­œB¶M›z¶­œz¶­œz¶??w¶­œz¶­œzF­\w¶Ÿœz¶­œz¶­€zF­\w¶­@
+B24:¶­œz¶Ÿ€z¯­€z¶­œz¶­\w¯???¶­œz¶­œz¯­€z¶­œz¶­œz¶M??¯­\??­œz¶­œB¶M›z¶Ÿ\w¶­œz¶ŸœBFŸ\wF­@
+B24:¶­œz¶­œB¶­€z¯­œz¶­œz¶Ÿœz¯M›z¶­œz¶­œB¯M›B¶­œz¶­œz¶­œB¶Ÿœz¶­œz¶­œzF?z¶­œz¶­œz¶­œz¶­@
+NAM:User_jednost0
+DEF:InterP .\CIP\pomoc.mtl\jednost0.cip
+HLP:Wsp¢ˆczynnik skali|Ustawienie wsp¢ˆczynnika skali
+B16:Xr¥‹Xr¥‹X²œz¶­œz¶m¥z¶­œz¶­œ‹¶­œz¶±¤zX®œz¶­œz¶qz¶­œŠV®¤{¶­œz¶­œŠ¸­œzVn{V@
+B16:¸­œz¶­œzV²¤ŠVn{¸m¥z¶­œz¶­œ‹Vn{¸±¤zX®œz¶­œz¶q{¸±¤ŠV®¤{¶­œz¶­œŠXr¥‹Xr¥‹X@
+B24:Xr¥‹Xr¥‹Xr¥‹Xrz¶­œz¶­œz¶­œ‹¶­œz¶­œz¶­œzV²œz¶­œz¶­œz¶­¤{¶­œz¶­œz¸mzX®œz¶­œz¶­œz¶mA
+B24:¸­œz¶­œz¶­œz¶qz¶­œz¶­œ{V®œ‹¶­œz¶­œz¶­œzV²œz¶­œz¶­œz¶­¤{¶­œz¶­¤z¸mzX®œz¶­œz¶­œz¶mA
+B24:¸­œz¶­œz¶­œz¶qz¸mŠ¶±œ{V®œ‹¶­œz¶­œz¶­œzV²œz¶­œz¶­œz¶­¤{¶±œ{V®¤z¸mzX®œz¶­œz¶­œz¶mA
+B24:¸­œz¶­œz¶­œz¶qz¸mŠ¶±œ{V®œ‹¶­œz¶­œz¶­œzV²œz¶­œz¶­œz¶­¤{¶­œz¶­œz¶­œzXr¥‹Xr¥‹Xr¥‹XrA
+NAM:User_atrybuty
+DEF:InterP .\CIP\pomoc.mtl\atrybuty.cip
+HLP:oˆ¢wek N|Uaktywnienie definicji atrybut¢w (pami©† nr ?)
+B16:¶­œz¶­œz¶­œz¶­œz¶­œB†ŽzXrzFM^|Vr¥‹¶M[}¹m¥zX®œz»³œz¶qz¯·¨z¶m¥z¶­°’¶­¤{¶?
+B16:¶Ÿ°’¶­¤{¶­€¢f®œŠ¸­œB†Žz¶­œz¶M^|¶m¥z¶M[}¹­œ‹¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œzF­\¥¶³œz¶­œz¶­€z†¸\|¶­œz¶­œz¶­p}f®œz¶­œz¶M›z‹®¨z¶m¥‹¸­@
+B24:¶Ÿœ¢»zVr¥‹¸­\w¶Wž’¶­¤{¶qzF­\¥¶³œz¶­œ‹¶­€z†¸\|¶­œzV²œz¶­p}f®œz¶m¥z¶M›z‹®¨z¶­œ‹¶­@
+B24:¶Ÿœ¢»z¶m¥z¶­œz¶Wž’¶­œŠ¸­œzF­\¥¶³œz¶qz¶­€z†¸\|¶­œz¶­œz¯­p}f®œz¶­œz¶M›z‹®¨z¶­¤{¶­@
+B24:¶Ÿœ¢»z¶m¥z¶­œz¶Wž’¶­œz¶­œzF­\¥¶³œz¶­œz¶­€z†¸\|¶­œz¶­œz¶­œz¶­œz¶­œB¯­œz¶­œz¶­œz¶??
+NAM:User_wym_plus
+DEF:DoMenu wym-plus
+HLP:zmiana menu ikonowego|Wczytywanie i zapis do pliku innych menu ikonowych
+B16:¶­œz¶q¥‹X®œz¶­¤‹Zrz¶­œŠXv¥{¶M\aV¶­œ¸­\y³m¥›X²œb³Gœ‹xr¥z¶§\yXr¥‹?Ÿb³?z¶?
+B16:??????z¶?z¶­@?¶­€z¶­œzF­œB‹®œz¶M›z†Xr}¶­\w¶M^¥‹Xr¥¯­\}¶­œ¢‹¸œz»­œz¶M²z¶?
+B24:¶­œz¶­œzVr¥‹X²œz¶­œz¶­¤‹xr¥{¶­œz¶­œzXr­‹X®œz¶­œz¶m¥‹Zr¥z¶­œz¶­œŠz¶­œ¸­œz†MPy¶q¥›XrA
+B24:¶­œb³§œzVr¥ŒX²œz†M\a³­¤‹xr¥{¶­œb¶MœzXr¥‹X®œz¶§œb¶­œz¶­\wF­\yƒ§\wF­œzFMz¶­œzFŸ€z¶­@
+B24:??????????›z¶M[?¶­œz¶MB¶­œB¶Ÿœz¶­œB¶Ÿœz¶Ÿœz¶­œz¶­\w¶­\w¶­œz¶­œzF­œz†X²z¶­œz¶­€z¶­@
+B24:‹Xr¥»­œz¶M›z¶M²z‹Xr¥»­œB¶­œ¢»­œz‹Xr¥»Ÿœz¶Wžz¶­œz‹Xr}¶­\¥¶­œz¶­œz‹®œz†¸œz¶­œz¶M²z¶­@

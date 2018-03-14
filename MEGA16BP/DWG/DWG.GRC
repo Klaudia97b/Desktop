@@ -1,0 +1,49 @@
+DwgMenu MENU
+
+BEGIN
+    POPUP "&Plik"
+    BEGIN
+        MENUITEM "&DWG->PRT", 1110
+        MENUITEM "&PRT->DWG", 1120
+        MENUITEM "&Bˆ©dny DXF", 1137
+        MENUITEM "&Wyb¢r", 1130
+        MENUITEM "&Koniec", 9997
+    END
+
+    POPUP "&Wersja ACAD'a"
+    BEGIN
+        MENUITEM "ACAD25", 1025
+        MENUITEM "ACAD26", 1026
+        MENUITEM "ACAD9 ", 1009
+        MENUITEM "ACAD10", 1010
+        MENUITEM "ACAD11", 1011
+        MENUITEM "ACAD12", 1012
+        MENUITEM "ACAD13", 1013
+        MENUITEM "ACAD14", 1014
+        MENUITEM "ACAD2000", 1015
+    END
+
+    POPUP "Wersja &PRT"
+    BEGIN
+        MENUITEM "6.0 PRT", 48
+        MENUITEM "4.5 PRT", 45
+    END
+
+    POPUP "&Setup"
+    BEGIN
+        MENUITEM "&Kolor", 1150
+        MENUITEM "&Punkt klawitury", 1133
+        MENUITEM "&Edycja tabeli", 1134
+        MENUITEM "&Ustawienia ", 1135
+        MENUITEM "Jednostka danych", 1140
+        MENUITEM "Jednostka wynik¢w", 1141
+        MENUITEM "Dxf miejsc po przecinku", 1142
+     END
+
+    POPUP "&Pomoc"
+    BEGIN
+        MENUITEM "&Pomoc", 1090
+        MENUITEM "&O...", 1100
+    END
+
+END

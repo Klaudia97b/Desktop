@@ -1,0 +1,153 @@
+GoMenu
+DEF:CallDll .\cip\megamass.dll 101
+HLP:Od punktu odniesienia|Wymiarowanie od punktu odniesienia
+B16:F­œz¶­œz¯M›B¶­œB¶Ÿ\w?­œzFŸ€z????????¶Ÿ@w¶­\?F­€z¯­œz¯M›B¶­œz¶­\wF­€B¶Ÿœz¯?
+B16:FMB¯Ÿœz¯M????z¶Ÿ\w?MB¶­€z¯M[wF­œB¶Ÿœz¶M›zF­°z¶­\}¶M^¥‹œz¥«\r¥†®œz¶·œz»?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¯­œz¶­œz¶­\w¶M›B¶­œz¶­\wF­@
+B24:¶Ÿ@w¶­œz¶­@w¯­\???????????›zFMz¶­œz¶MB¶­€z¯­œz¶­œB¶Ÿœz¯­œz¶­œz¶­\w¶M›B¶M›B¶­œzF­@
+B24:¶Ÿ@w¶?[w¶­œz¯­\??????­œz¶M›zFMzFŸ€z¶­œB¶­€z¯­€z¯­œz¶Ÿœz¯­œz¶M›z¶­\w¶M›z¶­œB¶­œzF­@
+B24:¶·œz¶­\}¶­œz»­\}¶­œz†®œz¶Mž¢‹Xz¶­Xr¥­œr¥‹®°z¶­œz»­œz¶·œz»­œz¶Mžz¶­\}¶­œz¶­œz¶­œz¶­@
+DEF:CallDll .\cip\megamass.dll 102
+HLP:aäcuchowo|Wymiarowanie ˆ¥äcuchem wymiarowym
+B16:¶m”i¶­œz¶­œy–­œz¶­œz”iœz–i”z¶­œz¶­œz¶­”i´­œi”­œz¶­œz¶­\w¶­\w¶­œB¯Mz¯Ÿ\wF?
+B16:¯??w?Ÿ\?F?????????B?Ÿ@?¶?[?¶?›BF­€z?­œzF­œz¶?žz¶Mžz¶­p¥«\r¥­œr¥»­œz»­œz†@
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œi”­œz¶­œz¶­œz–­”z¶­œz¶­@
+B24:¶­œz”iœz–i”z¶­œz¶­œz¶­œz¶­œz¶­œj”©œz”iœz¶­œz¶­œz¶­œz¶­œz¶Ÿœz¶Ÿœz¶M›z¶­\wFŸ\w¯M›B¶­@
+B24:¶­€B?Ÿ@?¶?[w¶­œz?????????­œz¶M[??M?wFŸ€z¶­œB¶?›BF­€z¯­œz¶Ÿœz¶Ÿœz¶M›z¶­\}¶­\}¶­œ¢¶­@
+B24:¶­p¥­Xrµ­\r}¶­œz»­œz»­œz†®œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:CallDll .\cip\megamass.dll 103
+HLP:Wymiar kontrolny|Wymiar zaznaczony jako kontrolny
+B16:¶m¥‹Xr¥‹¶­¤z¶­œz¶±œ{¶©”i¶­œ‹¶­”j–­œzV®œj–mœz¶mz–mœy¶­œ{¶mœy´­œzV®œy”©œzV@
+B16:¶±œz¶­œz¸M›‹Xr¥‹X®\wF­œzFM›z¯?›z¶M[w¶???????¯­€B¯­œz¯ŸœB¶Ÿœz¶Ÿ€zF­œz¶­œB¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œzVr¥‹Xr¥‹X®œz¶mz¶­œz¶­œ{¶­œ{¶­”j”©œz¶±@
+B24:¶mz¶mœy–­œz¶±œŠ¶­œj–­”z¶­œ{¶±œz¶©”z´­œzV®œ{¶­œy´mœz¶­¤zV®œz–mœj¶­œz¸­œ{¶­”j”©œz¶±@
+B24:¶­œ{¶­œz¶­œz¸­œz¯q¥‹Xr¥‹X²œz¶M›B¶­œz¶Ÿ\w¶­œBFŸœz¶­\?F­œz¶?????????z¶­\w?­œz¶­@w¯­@
+B24:¶­€z¯­œz¶M›B¶­œz¯­œz¶­œz¶Ÿœz¶M›z¶­œz¶­\w¶­œB¶­œz¶­œzF­œz¶Ÿœz¶­œz¶­€z¶­\w¶­œz¶­œz¯­@
+DEF:CallDll .\cip\megamass.dll 104
+HLP:Wymiar teoretyczny|Wymiar zaznaczony jako teoretyczny
+B16:¶m¥‹Xr¥‹¶­œ{¶­œzV®œz¸©”i´mz¶±”j¶©œ{¶­¤j–­”z¸­œŠ–mœj¶±œzVnœy–­¤z¶my”iœŠ¶?
+B16:¶mz¶­œŠ¶Ÿœ‹Xr¥‹XNz¯­œz¶Ÿ\?FŸœz¶­@w??????????[?¶­œzFŸ@wF­œz¶M›B¯­œz¶­œzF?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶q¥‹Xr¥‹¶­œz¶­œ{¶­œz¶±œz¶­œzV®”j”©œ{¶­@
+B24:¶­œz¸mœy–­¤z¶­œz¶mj–­”z¸­œz¶­œŠ¶©”z´mz¶­œz¶±œy´mœŠ¶­œz¶­œ{–mœj¶±œz¶­œzV®”j”©œ{¶­@
+B24:¶­œz¸­œz¶­¤z¶­œz¯m¥‹Xr¥‹¸Ÿœz¶M›B¶­œz¶Ÿ\w¶­œBFŸœz¶­\?F­œz¶?????????z¶­\w?­œz¶­@w¯­@
+B24:¶­€z¯­œz¶M›B¶­œz¯­œz¶­œz¶Ÿœz¶M›z¶­œz¶­\w¶­œB¶­œz¶­œzF­œz¶Ÿœz¶­œz¶­€z¶­\w¶­œz¶­œz¯­@
+DEF:CallDll .\cip\megamass.dll 105
+HLP:Podkre˜lenie wymiaru|Zaznaczenie wymiaru przez podkre˜lenie
+B16:¶­œy”iœz¶­œz´©œy¶­œz¶©”z´­œz¶­”j¶©œz¶­œj–­”z¶­œz–mœj¶­œz¶mœi”­œz¶­œz¶­œz¶?
+B16:¯m¥‹Xr¥‹FŸ\w¶­œz¯MB¯­œz¶?[??????????Mz¶­œB¯?›B¶­œzF­@w¶­œz¶­œB¯­œz¶­œzF?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­”j”©œz¶­@
+B24:¶­œz¶mœy–­œz¶­œz¶­œj–­”z¶­œz¶­œz¶©”z´­œz¶­œz¶­œy´mœz¶­œz¶­œz–mœj¶­œz¶­œz¶­”j”©œz¶­@
+B24:¶­œz¶­œz¶­œz¶­œz¯m¥‹Xr¥‹¸Ÿœz¶M›B¶­œz¶Ÿ\w¶­œBFŸœz¶­\?F­œz¶?????????z¶­\w?­œz¶­@w¯­@
+B24:¶­€z¯­œz¶M›B¶­œz¯­œz¶­œz¶Ÿœz¶M›z¶­œz¶­\w¶­œB¶­œz¶­œzF­œz¶Ÿœz¶­œz¶­€z¶­\w¶­œz¶­œz¯­@
+DEF:CallDll .\cip\megamass.dll 106
+HLP:(Wymiar) pomocniczy|Zaznaczenie wymiaru nawiasami zwykˆymi
+B16:¶­œ{¶­¤z¶­œŠ–m”y¸­œz¸mœy´mz¶±œy´©œ{¶­¤z´©”z¸­œŠ¶©”j¶±œzV®”j–­¤z¶­¤j–iœ{¶?
+B16:¶­œ{¶­¤z¶Ÿœz¶­œz¶Mz¯­œz¶Ÿ\?FŸœz¶­@w??????????[?¶­œzFŸ@wF­œz¶M›B¯­œz¶­œzF?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¸­œz¸­œz¶­œz¶±”j”©¤z¶­@
+B24:¶­œz¸mœy–­¤z¶­œz¶mj–­”z¸­œz¶­œŠ¶©”z´mz¶­œz¶±œy´mœŠ¶­œz¶­œ{–mœj¶±œz¶­œz¶±”j”©¤z¶­@
+B24:¶­œz¶±œz¶±œz¶­œz¯­œz¶­œz¶Ÿœz¶M›B¶­œz¶Ÿ\w¶­œBFŸœz¶­\?F­œz¶?????????z¶­\w?­œz¶­@w¯­@
+B24:¶­€z¯­œz¶M›B¶­œz¯­œz¶­œz¶Ÿœz¶M›z¶­œz¶­\w¶­œB¶­œz¶­œzF­œz¶Ÿœz¶­œz¶­€z¶­\w¶­œz¶­œz¯­@
+DEF:CallDll .\cip\megamass.dll 107
+HLP:[Wymiar] pomocniczy|Zaznaczenie wymiaru nawiasami kwadratowymi
+B16:¶m¥z¶­œ‹¶­œ{¶­œzV®œz¸mœi´mz¶±œy´©œ{¶­¤z´©”z¸­œŠ¶©”j¶±œzV®”j–­¤z¶mj–iœŠ¶?
+B16:¶mz¶­œŠ¶Ÿœ‹¶­œzXNz¯­œz¶Ÿ\?FŸœz¶­@w??????????[?¶­œzFŸ@wF­œz¶M›B¯­œz¶­œzF?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶qz¶­œ‹¶­œz¶­œ{¶­œz¶±œz¶­œzV®”j”©œ{¶­@
+B24:¶­œz¸mœy–­¤z¶­œz¶mj–­”z¸­œz¶­œŠ¶©”z´mz¶­œz¶±œy´mœŠ¶­œz¶­œ{–mœj¶±œz¶­œzV®”j”©œ{¶­@
+B24:¶­œz¸­œz¶­¤z¶­œz¯m¥z¶­œŠ¸Ÿœz¶M›B¶­œz¶Ÿ\w¶­œBFŸœz¶­\?F­œz¶?????????z¶­\w?­œz¶­@w¯­@
+B24:¶­€z¯­œz¶M›B¶­œz¯­œz¶­œz¶Ÿœz¶M›z¶­œz¶­\w¶­œB¶­œz¶­œzF­œz¶Ÿœz¶­œz¶­€z¶­\w¶­œz¶­œz¯­@
+DEF:CallDll .\cip\megamass.dll 108
+HLP:auto. ˜rednica|automatyczne wymiarowanie ˜rednic
+B16:¶­œj–iœz¶­œz–mœy¶­œz¶mœy´­œz¶­œy”©œz¶M›z¶­œz¯­\w¯­œz?Ÿœz??????z¶Ÿ€Raƒ??¶?
+B16:¶ŸHx¶‡B¶­@P¶­œzA­œR¶­œz¶›zf­œz¶­\x¶›z¶­œz±­\P¶­œzf£œz¶£œz¶›z¶­HPaƒ‡z¶?
+B24:¶­œz¶mœi”­œz¶­œz¶­œj–­”z¶­œz¶­œz¶©”z´­œz¶­œz¶­œy´mœz¶­œz¶­œz–m”i¶­œz¶­œz¶­œz¶­œz¶­@
+B24:¶­€z¶­œz¶­œB¶­œz¯M›z¶­œB¶Ÿœz¶M[?¶­œz¶?[w¶­œB?????????­œz¶Ÿ@w¶­œzFŸ€z¶­\wFGPa£€z¯­@
+B24:¶­€za­œz¶ƒ›B¶­œz¯£œz¶­œz±Ÿœz¶M‡z¶­œz¶­Hw¶­œR¶­œz¶­œzf­œz¶£œz¶­œz¶­ˆz¶­\x¶­œz¶­œz±­@
+B24:¶­ˆz¶­œz¶­œR¶­œz±­œz¶­œz¶£œz¶­ˆz¶­œz¶­ˆz¶­œzf­œz¶­œR¶­œz¶­\P¶­œza­œz¶­œz¶GPa£œz¶­@
+DEF:CallDll .\cip\megamass.dll 109
+HLP:auto. gwinty|automatyczne wymiarowanie gwint¢w
+B16:´­”y–m”y¶iœy´mœy´­”j¶©œy´©œj¶­”z´i”z¶Ÿœz¶­œz¶Ÿ€z¯­œzF­€BFŸœz¶MBF?????????
+B16:F­€bƒGPwFM›b³­œz³M[w¶­œz¶M\w¯­œj”©œb¯§œy¶­œj¶§z–©œz´­z³­œi”­\y¶Mœz¶­œb¶?
+B24:¶iœz”­”z”iœz¶­œy´©”z´mœj¶­œz–­”z´mœj¶©œz¶­”z¶mœj¶©œy¶­œz´­œj¶©œi”­œz¶­œz¶­œz¶­œz¶­@
+B24:¶­€z¶­œz¶­œB¶­œz¯M›z¶­œB¶Ÿœz¶M[?¶­œz¶?[w¶­œB?????????­œz¶Ÿ@w¶­œzFŸ€z¶­\wFMPaƒ§€z¯­@
+B24:¶­€zƒ­œz¶GœB¶­œz¯­œz¶­œz³Ÿœz¶M›z¶i”i¶­Pw¶­œb¶m”z¶m”z†­œz¶§œy¶­œz–­z¶­\y–­œz¶­”z³­@
+B24:¶­z´­œz¶mœb¶­œz³­”y¶­”y¶§œz¶­z¶i”i¶­z¶­œz†­œz¶­œb¶­œz¶­\a¶­œzƒ­œz¶­œz¶MPaƒ§œz¶­@
+DEF:CallDll .\cip\megamass.dll 110
+HLP:gwint metryczny|Zaznaczanie gwintu jako metryczny
+B16:¶­œz¶­œz¶­œz¶­œz¶­°z¶Mž{Vr¥¢»­p}¸±œzˆ¸œ¢»±¤z¶Q^}»·¤Š¶­d}»·°ŠV®œŠ»Mž¢VnzV@
+B16:»­œ¢VnzV¸œz†n{¶m±z¶Mž{¸­œ£¶­\}¸±œzˆ®œz»±œ‹X®œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+B24:¶­œz¶­œz¶­œz¶­°z¶MžŠ¶m¥‹¶­œz‹®\¥¶±œ{¶mz¶M²z†¸œ{V®œŠ¶­œ¢†N^}V®¤z¶±œz¶·°¢†®¤z¸­œ{¶­@
+B24:†®°z»mŠ¶­¤z¶­°z¶MžŠ¶±œz¸­œz»­œ¢¶±œ{¶mz¶Mžz¶·œ{V®œŠ¶­œ¢¶­\}V®¤z¶±œz¶·œz†®¤zVr¥z¶­@
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:CallDll .\cip\megamass.dll 111
+HLP:Tekst do wymiaru|Doˆ¥czenie tekstu dodatkowego do wymiaru
+B16:–m”¡‹X²z†nœy„N²z»·œy´I^¥¶·°z´©T¥‹Xž¢¶©”j»Wž¢†®”j–·p}†Nžj–i°¢‹¸œ¢¶­œz¶­œz¶?
+B16:¯­œz¶­\w¶Ÿ\w¶­€z¯­€B¯­œB¯ŸœB??????zFMz¶MB¶M›B¶­\wF­\w¶­œz¶M›z¯­œz¶­\w¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz–m”i†X²¢‹®\¥»­”j¶©°z»·\}»­@
+B24:¶mœy–Mž¢†®°¢¶­œj–­”¢‹¸p¥¶·œz¶©”z´·\}»M^}¶­œy´m\}†Nž¢†®œz–m”i†®°¢‹®\¥»­œz¶­œz¶­œz¶­@
+B24:¶Ÿœz¶­œz¶­€z¶­\wF­œz¶­€z¯­œzFMz¶­œz?M›z¶­@?????????¶­œz¯?›z¶­œB¯Ÿœz¶M›B¶­œz¶Ÿ\w¶­@
+B24:¶Ÿœz¶­œz¶­€z¶­\w¶­œz¶­œz¯­œzF­œz¶­œz¶M›z¶­€z¶­œz¶­œB¶­œz¯­œz¶­œz¶Ÿœz¶­œz¶­œz¶­œz¶­@
+DEF:CallDll .\cip\megamass.dll 112
+HLP:Wyˆ¥czenia asocjatywno˜c|Wyˆ¥czenia asocjatywno˜ci wymiaru
+B16:¶­œz¶­œz¶­œz¶­œz¶­\}¶­œz¶­°z†®œz¶­p}¶­°z¶­œ¢¶m¥{O²¤£O®œ{¸Ÿœ{F­¤z¸±d¥ˆxŠ¶?
+B16:X²¤£FmŠ¶±¤zFW¦{V®¤Š¶M^¸mŠVN¯Šˆx¥z¶­\}¶­°z¶­\¥¶­œ¢»­œz»­œz¶Mžz¶­œz¶­\¥¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­°z¶­œz¶­œz¶·œz†®œz¶­œz¶­°z¶­\}¶­œz¶­œ¢¶­@
+B24:¶­\}¶­œz¶­°z¶­œz¶·œz¶­œ¢¶­œzX²\X®¤‹†r¥z¶±œŠV¸œŠ¶M¦zV®œ{¶±¤¢¶±\}¸­¤zV®œ{¸Mž{»mz¸­@
+B24:Xr¥zXN^¶±œŠ¶mz¸­œ{»m{¶±œŠ¶mzV¸°ŠV®œ{¶±œŠ¶­°z†²¤zV®œ{¶±¤£¶qe}Vrz¶­œz†®œz¶·œz¶­@
+B24:¶­œ¢¶­œz†®œz¶­œz†®œz¶­\}¶­œz¶Mžz¶­œz¶·œz¶­\}¶­œz¶­œ¢¶­œz¶­œz¶­œz¶Mžz¶­œz¶­œz¶­œz»­@
+DEF:CallDll .\cip\megamass.dll 113
+HLP:Wˆ¥czenia asocjatywno˜ci|Wˆ¥czenia asocjatywno˜ci z przeliczeniem wymiaru
+B16:¶­œz¶­œz¶­œz¶­œz¶­œ{¶qŠX®¤ŠVnz¸­œ{Xn{¶±œz¸q{¸­¤z¶±¤‹¸mzX®¤Š¸±œŠ¶­¤ŠV@
+B16:¸±œŠ¶­¤ŠV²¤zV®œŠVn¥ŠV²œ‹¸­¤z¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+B24:¶­œz¶­œz¶­œz¶­œ‹¸­¤‹¶q¥zX²œz¸­¤Š¶­¤z¶±œŠ¶mz¸±œz¸­œ{¶±œŠ¶m{¶mzV®œ{¶q¥‹¶qzX®¤zV®@
+B24:V®œ{¶mzVnz¸­¤zV®œŠ¶­¤Š¶mz¸­¤z¶±œz¸±œŠ¶mz¸q¥zX²œŠX®œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:CallDll .\cip\megamass.dll 114
+HLP:Przes. wart. prostop.|Przesuni©cie warto˜ci wymiaru prostopadle do linii wymiar.
+B16:¶­œz¶­p¥¶­œz¶­\}»·œz¶­œ¢¶·\}¶­”j”­°z¶­œj–mœ¢¶­œz–m\}†®°z¶mœy„N^}¶­œy”©p¥¶?
+B16:¶­œz¶­\}¶Ÿœz¶­œz¶Ÿ€z¯­œzF­€BFŸœz¶MBF????????M[?¶­œz?M[wF­œz¶Ÿ\w¯­œz¶­œz¯?
+B24:¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz»­œz¶­œz¶­œz¶W²z¶­œz¶­œz¶­°¢†®œz¶­œz¶­œ¢¶·\}¶­œz¶­œz¶­\}¶­@
+B24:¶­œz¶­œz¶­°z¶­œz¶­œj–i”z»­œz¶­œz¶©”z´Mžz¶­œz¶­œy´mœ¢¶­œz¶­œz–mœj¶·œz¶­œz¶­”j¶·\}†®@
+B24:¶­œz¶mœy–·°¢¶­œz¶­œj–i”¢‹®œz¶­œz¶­œz¶Mžz¶­œB¶­œz¶­œzF­œz¶Ÿ\w¶­œzF­€z¶­\w?­œz¶­@w¯­@
+B24:¶­@?????????¶­œz¯?›z¶­œB¯Ÿœz¶M›B¶­œz¶Ÿ\w¶­œB¶­œz¶­œzF­œz¶Ÿœz¶­œz¶­€z¶­\w¶­œz¶­œz¯­@
+DEF:CallDll .\cip\megamass.dll 115
+HLP:Przes. wart. r¢wnol.|Przesuni©cie warto˜ci wymiaru r¢wnolegle do linii wymiar.
+B16:¶·œz¶­œ¢¶Wr¥‹Xr¥‹¸\}¶­œz¶­°z†®œy”©\}¶­œz´©”z¶­œz¶©”j¶­œz¶­”j–­œz¶­œj–iœz¶?
+B16:¶­œz¶­œz¶­€B¶­œBF­œBF­œzF?›zF??????w¶M[w¶­\w¯­\w¶­œz¶Ÿœz¯­œz¶­€z¶Ÿœz¶­œB¶?
+B24:¶Mžz¶­œz¶­œ¢¶­\}¶­œz¶­œz¶Mžz‹Xr¥‹Xr¥‹Xr¥»­°z¶­œz¶­œz¶·œz†®œz¶­œz¶­°z¶­œz¶­”j”©œz¶­@
+B24:¶­œz¶mœy–­œz¶­œz¶­œj–­”z¶­œz¶­œz¶©”z´­œz¶­œz¶­œy´mœz¶­œz¶­œz–mœj¶­œz¶­œz¶­”j”©œz¶­@
+B24:¶­œz¶­œz¶­œz¶­œz¯­œz¶­œz¶Ÿœz¶M›B¶­œz¶Ÿ\w¶­œBFŸœz¶­\?F­œz¶?????????z¶­\w?­œz¶­@w¯­@
+B24:¶­€z¯­œz¶M›B¶­œz¯­œz¶­œz¶Ÿœz¶M›z¶­œz¶­\w¶­œB¶­œz¶­œzF­œz¶Ÿœz¶­œz¶­€z¶­\w¶­œz¶­œz¯­@
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc

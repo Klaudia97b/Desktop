@@ -1,0 +1,14 @@
+01Ustawianie rysunku
+02Przesuwanie rysunku
+03Kasowanie rysunku
+04Powt¢rzenie rysowania
+05Wyb¢r wycinka
+06Przesˆanie do plotera
+07Tworzenie pliku HPGL
+08Zapisanie slajdu zˆo¾eniowego
+09Wydruk rysunku
+10Wyb¢r aktywnej GRUPY
+11Wyb¢r aktywngo LAYER
+12Wpisanie tekstu
+13Powi©kszanie i zmniejszanie ZOOM
+14Dopasowanie rysunku do formatu papieru

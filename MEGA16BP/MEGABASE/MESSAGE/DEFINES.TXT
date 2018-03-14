@@ -1,0 +1,2 @@
+PRTPFAD=..\prt\*.prt
+MACPFAD=..\mac\*.mac

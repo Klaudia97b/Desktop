@@ -1,0 +1,14 @@
+2
+Wsp¢ˆrz©dne x-warto˜†: $V$Ny-Wert: $V
+Odst©p: $V
+Odst©p: $V
+K¥t: $Vø
+K¥t: $Vø
+Dˆugo˜†: $V
+Promieä: $V  
+1. p¢ˆo˜: $V  2.p¢ˆo˜: $V
+Obw¢d: $V
+Pole powierzchnii: $V mmý
+Punkt ci©¾ko˜ci $Nx-Wert: $V$Ny-Wert: $V
+Momenty bezwˆadno˜ci $NIxx: $V $NIyy: $V  $NIxy: $V
+Obj©to˜† $V mmý

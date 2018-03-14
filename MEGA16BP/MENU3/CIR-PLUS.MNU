@@ -1,0 +1,104 @@
+GoMenu
+DEF:InterP .\cip\pomoc.mtl\okr-2okr.cip
+HLP:2 okr©gi wsp¢ˆ˜rodkowe|Dwa okr©gi wsp¢ˆ˜rodkowe do wskazanego ("0")
+B16:¶­\???›z¶­\?¶­œB¯­œB¶Wr¥»M›z¯Mžz¶MžB¶Ÿ°z??›¢FM[}F­œB¶·@w»Ÿœz¶Ÿ°B¯·€z¶­€¢F?
+B16:¯·€z¶­œz¶Ÿ°B¶­œzX²€¢¶ŸœzV®œ{¯·\??mz¸Ÿ\}¶­œ{¶±\w†Xr}¸­¤zFŸœz¶±œŠ¶­\??Ÿœ‹¸?
+B24:¶­œz????¯­œz¶­œzFŸœz¶­@w¶­œz¶M›z‹Xr}¶Ÿœz¶­\w†¸œz¶WžB¶­œz¯Mžz¶­œz»M›z¶Ÿ\}¶???¯­°z¯­@
+B24:FMžz¯­œz¯­°B¶M›¢¶Ÿœz¶­€z»M›B†®€z¶­œzF­°B¶Ÿ°z¯­œz¶­€z»Ÿ\w»M›z¶­œz¯M^wFMžB¶­œz¶M›¢F­@
+B24:¯·\w¶­œz¶Ÿ\}¶M[}F­œz¶­\w¶­¤C¶·\w¶­œz¯q¥zVN[}¶Ÿœz¶Ÿ¤zV®¤B¶·œB??Š¶­œ{¶M›¢¶­œz¶±œzV®@
+B24:¶M›¢»­œzV®œz¸­œz¯­p¥‹¸¤z¶mz¶­@w¶­œz¸­œŠ¶­œz¶???V®¤zV®œz¶­œz¶­¤zVrz¶­œz¶­œzX®œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\okr-obw1.cip
+HLP:Okr¥g = obw¢d|Okr¥g zdefiniowany przez jego obw¢d
+B16:¶­\???›z¶­\?¶­œB¯­œB¶­œz¶M›z¯­œz¶­œB¶Ÿœz¶­œzFM›z¶­œz¶­@w¶m¥{X®œB¯­œ{V®¤zF?
+B16:¯­œ{V®¤zFŸœz¸mŠ¶Mz¶­œz¶­\w¯­œz¶­œB¶Ÿœz¶­œzF­\w¶­œz¶ŸœzFŸœz¶?›z¶­\???›z¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­@???z¶­œz¶­\?¶­œzFŸœz¶­œz¯­œz¶­œB¶­œz¶Ÿœz¶­œz¶M›z¶­€z¶­œz¶­œz¯­@
+B24:¶Ÿœz¶­œz¶­œz¯­\w¶­œz¶­œz¶M›z¯­œz¶­œz¶­œz¯M›z¶m¥‹Vrz¶M›B¶­œŠ¶mz¸­œB¶Ÿœz¶±œŠ¶mz¶Ÿ@
+B24:F­œzV®œ{¶±œzF­€z¶­¤zV®œ{¶­€z¯­œz¸­¤zV®œz¯M›z¶­œz¶­œz¶M›z¯­œz¶­œz¶­\w¶M›z¶­œz¶­œzF­@
+B24:¶M›z¶­œz¶­œB¶­œz¯­œz¶­œzF­œz¶­€z¶­œz¶M›z¶­œzFŸœz¶­@w¶­œz¶­œB????¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\okr-pol1.cip
+HLP:Okr¥g = pole|Okr¥g zdefiniowany przez jego pole powierzchni
+B16:¶­\???›z¶­\?¶­œB¯­œB¶­œz¶M›z¯­œz¶mB¶Ÿœz¶­¤ŠFM›z¶­œz¸­@w¶­œzV®œB¯m¥{Xn¥{F?
+B16:¯mŠ¶±œzFŸœ{V®¤z¶Mz¸mŠ¶­\w¯­œz¶­œB¶Ÿœz¶­œzF­\w¶­œz¶ŸœzFŸœz¶?›z¶­\???›z¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­@???z¶­œz¶­\?¶­œzFŸœz¶­œz¯­œz¶­œB¶­œz¶Ÿœz¶­œz¶M›z¶­€z¶­œz¶m¥z¯­@
+B24:¶Ÿœz¶­œzV®¤z¯­\w¶­œz¶­¤z¸M›z¯­œz¶­œz¶±œz¯M›z¶­œz¶­¤z¶M›B¶­œz¶­œŠ¶­œB¶ŸœŠX²¤‹¶q¥{¶Ÿ@
+B24:F­œ{¶±œŠ¶­œzF­€zV®œ{¶±œz¶­€z¯­¤zV®œ{¶­œz¯M›z¸­¤zV®œz¶M›z¯mz¸­¤z¶­\w¶M›z¶­œz¶­œzF­@
+B24:¶M›z¶­œz¶­œB¶­œz¯­œz¶­œzF­œz¶­€z¶­œz¶M›z¶­œzFŸœz¶­@w¶­œz¶­œB????¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\okr-inny.cip
+HLP:zamiana ˜rednicy|Zmiana ˜rednicy okreg¢w
+B16:¶­\}¶Mžz¶­\¥¶­œ¢»­œz¶­œz¶­œz»­\??­œ¢¶·œB¶­€z†Nžz¯­œ{¯­°zF­¤‹¸M›z¶M›ŠV²\w¶?
+B16:¶M›Š¸±\w¶­\wVr¥z¯­°zFmzF­\}»­€z¶Ÿœ¢¶·œz??›z†®œz¶­œz¶­œz†¸œz¶Wžz¶­\}¶Mžz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­\¥¶Wžz¶­œz¶­\}¶­œz¶·œz¶­œz»­œz¶­œ¢¶­œz¶­œz???w¶­œz¶­°zFŸœz¶?›z»­@
+B24:¶·œB¶­œz¶M›z»­\}F­œz¶±œz¯Mžz¶­€z¶­œ{¶M›z¶­œB¶­œ‹X®œz¯­œ¢¶Ÿœz¸m{¶M›¢¶·\w¶mŠV®œB¶·@
+B24:†®€z¶±¤z¸­\w†®°z¯­œ{¸mzF­°z¶M›z¶q¥{¶­€z¶­œz¯­œ{¶­œB¶­œz»M›zV®œz¶Ÿ\}¶Mžz¯­œz¶­€z†®@
+B24:¶Mžz?­œzFŸœ¢¶­œz¶­\???›z¶­œz¶­°z¶­œz¶Mžz¶­œz†®œz¶­\}¶­œz¶­œz‹®p}¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\okr-tnij.cip
+HLP:Podziaˆ okr©gu|Podziaˆ okr©gu na ˆuki
+B16:¶­\¶­œžz¶­\?¶­œB¯­œB¶­œz¶M›z¯­œz¶­œB¶ŸœŠ¶­œ{Fžz¶±œŠ¶­x~¶­œ{¸­œ²½­œzV®œz¦@
+B16:½­œ‹Vr¥z¦¼œŠ¶±¤z¸ºzV®¤Š¶±\~¯­¤{¶qB¶Ÿœz¶­œzF­\w¶­œz¶ŸœzFŸœz¶?›z¶­\¶­œžz¶?
+B24:¶­œz¶­œz¶­œz¶­œz¶­x¶­œºz¶­œz¶­\?¶­œzFŸœz¶­œz¯­œz¶­œB¶­œz¶Ÿœz¶­œz¶M›z¶­€z¶±œz¶±œz¯­@
+B24:¶Ÿœz¶±œz¸­œz¯­\w¶­œ{¶mz¶M›z½­œz¶±œ{¶­œz½žz¶­œ{V®œz¶ž²¶­œz¶qz¶­œ²¶»œz¶­œ‹¶­œz¶»@
+B24:¦®œz¶­¤{¶­œz¦®¸z¶­œzX®œz¶­¸z½­œŠ¸±œ{X®œz½žzV®œ{V®œ{¶žz¯­¤z¸­œ{V®\w¶M›z¸mzV®¤zF­@
+B24:¶M›zX®œzV²œB¶­œz¯­œz¶­œzF­œz¶­€z¶­œz¶M›z¶­œzFŸœz¶­@w¶­œz¶­œ²­œz¶¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\CIP\pomoc.mtl\okr-rzut.cip
+HLP:rozrzucanie okr©g¢w|Rozrzucanie okreg¢w pomi©dzy dwoma wskazanymi
+B16:†¸œz¶­œz¶·\}¶­œz¶­°z»­œz¶­œz‹®œz¶­œz¶­œŠ¸­œz¶­œz¸mz¶­œz¶±œ{¶­œz¶­œ‹¶­œz¶?
+B16:¶­œz¶qz¶­œz¶mŠ¶­€zF­œ{V®œB¯M›zV²œzFM[w¶­œz‹N[w¯­œz†®pwFŸœz¶Mž¢¯­€z¶­œ¢»?
+B24:¶W²z¶­œz¶­œz¶­°z†®œz¶­œz¶­œ¢¶­\}¶­œz¶­œz¶·œz†®œz¶­œz¶­\}¶­°z¶­œz¶­œz¶·œ¢¶­œz¶­œz¶­@
+B24:¶W²z¶­œz¶­œz¶­œz¶­¤‹¸­œz¶­œz¶­œŠ¶­¤z¶­œz¶­œz¶±œz¸­œz¶­œz¶­œ{¶mz¶­œz¶­œzV®œŠ¶­œz¶­@
+B24:¶­œzVr¥z¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œzX²œz¶­œz¶­œz¶±œŠ¶­œB¶Ÿœz¶Ÿœ{¶±œz¶?[w¶­\wV®œ{¶­@
+B24:FŸ€B?M›zVrz¶­€B¯­œBF­œz¶­œz¯?[?¯??w¶­œ¢»M›B¶­œz¯­œz†®°B¶Ÿœz¶M›z¶­°z»­œz¶­œz¶­œz†¸@
+DEF:InterP .\cip\pomoc.mtl\okr-perp.cip
+HLP:Okr¥g prostopadˆy|Okr¥g styczny do linii prostopadˆej do wskazanego elementu
+B16:»­œz¶­œz¶Mžz¶­œz¶­œ¢¶M???­œz¶·€z¶­€z¶­\w¶­œz¯­œB¦®œz¶M›z¯­¸z¶­œB¶Ÿœz½­œzF?
+B16:¶Ÿœz¦®œzF­€z¶­¸z¶M›B¶­œz½­\wF­œz¶­œz¯­€z¶­œzF­œz¯­œz¶Ÿœz¶M›z¶M›z¶­œB??z¶?
+B24:»­œz¶­œz¶­œz¶­°z¶­œz¶­œz¶­œz†®œz¶­œz¶­œz¶­\}¶­\??Ÿœz¶­œz¶·œB¯­œB¯­œz¶­œ¢?­œz¶­@w¶­@
+B24:¶­\?¶­œz¶­\w¶­œzFžz¶­œzF­œz¶M›z½­œz¶­\w¶­œB¶­¸z¶­œzF­œzF­œz¦®œz¶­\w¶­€z¶­\~¶­œzF­@
+B24:¶M›z¶­\~¶­œz¯­œB¶­œz¶­œz¶M›z¶Ÿœz¶­œz¶­œB¶­œB¶­œz¶­œzF­œz¶Ÿœz¶­œz¶­€z¶­œB¶­œz¶­œB¶­@
+B24:¶­\w¶­œz¶­\w¶­œz¶?›z¶­œB¯­œz¶­œz?­œz?­œz¶­œz¶­\??Ÿœz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­œz¶­@
+DEF:InterP .\cip\pomoc.mtl\okr-ptmp.cip
+HLP:pkt obwodu i ˜rodek|Okr¥g przez wskazanie punktu na obwodzie i ˜rodka
+B16:¶­\??Ÿ\~¶­\?¶­\?½­œB¶­œz­œºz?­œz¶­@wF­œz¶­œ²FM›z¶žz¶M[w¶­\~¶­\w¯­\¶­¼œz¯?
+B16:¯­œz½­œz¯Ÿœz¶»œz¶Ÿ€z¶­œz¶­€B¯­œz¶­\?¶M›z¶­œB¶­\?¶­œz?­œz¶ŸœzF­œz¶­\??Ÿœz¶?
+B24:¶­œzF???¯­¸z¶­œz¶?›z¶­@w½­œz¶­€z¶­œz¶žz¶­œB¶­œz¶z¶­¼œzF­œz¶­œz¶[›z¶M›z¶­œz¶­\~¯­@
+B24:F­œz¶­œz¶­¸z¯­€z¶­œz¶­œz¶M›B¶­œz¶žz¶­œz¯Ÿœz¶­œ²¶­œz¶M[w¶­œz¶»œz¶­œBF­œz¶›z¶­®œz¶Ÿ@
+B24:¯­œz¶­¸z¶­œzFM›z¶­œz½­œz¶­€B¶­œz¶žz¶­œz¯M›z¶­œz¶­œz¶ŸœB¶­œz¶­œz¶­\w¶M›z¶­œz¶­œz¯­@
+B24:¶M›z¶­œz¶­\w¶­œz¯­œz¶­œz¯­œz¶­€z¶­œz¶Ÿœz¶­œzFŸœz¶Mz¶­œz¶­œB???w¶­œz¶­œz¶­œz¶­œz¶­@
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc
+NoFunc

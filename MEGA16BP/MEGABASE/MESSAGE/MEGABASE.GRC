@@ -1,0 +1,49 @@
+MEGABASE MENU
+BEGIN
+    POPUP "Datei"
+    BEGIN
+        MENUITEM "Anwendung îffnen",    "mb_appl_open"
+        MENUITEM "Anwendung schlie·en", "mb_appl_close"
+        MENUITEM SEPARATOR
+        MENUITEM "Zeichnungsdaten",     "mb_appl_0"
+        MENUITEM "Makrodaten",          "mb_appl_1"
+        MENUITEM SEPARATOR
+        MENUITEM "Drucken",             "mb_print"
+        MENUITEM SEPARATOR
+        MENUITEM "Reorganisieren",      "mb_reorg"
+        MENUITEM SEPARATOR
+        MENUITEM "Datei in MegaCAD laden",    "mb_load_prt"
+        MENUITEM "Datei in MegaCAD einfÅgen", "mb_insert_prt"
+        MENUITEM "Beenden",             "mb_exit"
+    END
+    POPUP "Bearbeiten"
+    BEGIN
+        MENUITEM "Neu",                 "mb_new_record"
+        MENUITEM "éndern",              "mb_change_record"
+        MENUITEM "Kopieren",            "mb_copy_record"
+        MENUITEM "akt. Satz lîschen",   "mb_remove_current_record"
+        MENUITEM "sel. SÑtze lîschen",  "mb_remove_select_records"
+        MENUITEM SEPARATOR
+        MENUITEM "Indexwahl",           "mb_choose_index"
+        MENUITEM "Selektieren",         "mb_select"
+        MENUITEM "globale Selektion",   "mb_global_select"
+        MENUITEM "Selektion aufheben",  "mb_reset_select"
+    END
+    POPUP "Ansicht"
+    BEGIN
+        MENUITEM "Tabelle",             "mb_show_tab"
+        MENUITEM "Maske",               "mb_show_mask"
+    END
+    POPUP "Extras"
+    BEGIN
+        MENUITEM "Import Daten",        "mb_import_dates"
+        MENUITEM "Export Daten",        "mb_export_dates"
+        MENUITEM SEPARATOR
+        MENUITEM "Toolbar ein/aus",     "mb_toggle_toolbar"
+    END
+    POPUP "Hilfe"
+    BEGIN
+        MENUITEM "Hilfe",                "mb_winhelp"
+        MENUITEM "Info",                "mb_help_info"
+    END
+END

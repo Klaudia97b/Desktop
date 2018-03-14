@@ -1,0 +1,10 @@
+TEXT  :Description,
+TEXT  :Material,
+FORMAT:?,
+
+REPEAT:
+SEARCH:DESCRIPTION:
+SEARCH:%n
+SEARCH:MATERIAL:
+TEXT  :;
+END   :

@@ -1,0 +1,55 @@
+MB_MAIN     TOOLBAR 24  24  OEM
+filename           bmCntx bmCnty bm# Menucommand      show enabled help
+.\masken\mbtoolb.bmp    10  5   47  "mb_appl_0"         1   1   "Otw¢rz PRT"
+.\masken\mbtoolb.bmp    10  5   48  "mb_appl_1"         1   1   "Otw¢rz MAC"
+END         0   0   0   0       1   1   ""
+
+MB_VIEW     TOOLBAR 24  24  OEM
+
+.\masken\mbtoolb.bmp    10  5   47  "mb_appl_0"         1   1   "Otw¢rz PRT"
+.\masken\mbtoolb.bmp    10  5   48  "mb_appl_1"         1   1   "Otw¢rz MAC"
+.\masken\mbtoolb.bmp    10  5   19  "mb_load_prt"       1   1   "Zaàadowanie pliku do MegaCADa"
+"die Zeichnungsverwaltung beenden und den selektierten Dateinamen in MegaCAD laden"
+.\masken\mbtoolb.bmp    10  5   29  "mb_insert_prt"       1   1   "Doà•czenie pliku w MegaCADzie"
+"die Zeichnungsverwaltung beenden und den selektierten Dateinamen in MegaCAD einfÅgen"
+.\masken\mbtoolb.bmp    10  5   16  "mb_show_tab"       1   1   "Tabela"
+.\masken\mbtoolb.bmp    10  5   22  "mb_select"         1   1   "Selekcja"
+.\masken\mbtoolb.bmp    10  5   23  "mb_global_select"  1   1   "Selekcja globalna"
+.\masken\mbtoolb.bmp    10  5   24  "mb_reset_select"   1   1   "Rezygnacja z selekcji"
+.\masken\mbtoolb.bmp    10  5   25  "mb_new_record"     1   1   "Nowy rejestr"
+.\masken\mbtoolb.bmp    10  5   26  "mb_change_record"  1   1   "Zmie‰ rejestr"
+.\masken\mbtoolb.bmp    10  5   20  "mb_copy_record"    1   1   "Kopiuj rejestr"
+.\masken\mbtoolb.bmp    10  5   30  "mb_first_record"   1   1   "Pierwszy rejestr"
+.\masken\mbtoolb.bmp    10  5   31  "mb_prev_record"    1   1   "Poprzedni rejestr"
+.\masken\mbtoolb.bmp    10  5   32  "mb_next_record"    1   1   "Nast©pny rejestr"
+.\masken\mbtoolb.bmp    10  5   33  "mb_last_record"    1   1   "Ostatni rejestr"
+.\masken\mbtoolb.bmp    10  5   18  "mb_print"          1   1   "Drukuj"
+END         0   0   0   0       1   1   ""
+
+MB_TAB      TOOLBAR 24  24  OEM
+
+.\masken\mbtoolb.bmp    10  5   47  "mb_appl_0"         1   1   "Otw¢rz PRT"
+.\masken\mbtoolb.bmp    10  5   48  "mb_appl_1"         1   1   "Otw¢rz MAC"
+.\masken\mbtoolb.bmp    10  5   17  "mb_show_mask"      1   1   "Maska"
+.\masken\mbtoolb.bmp    10  5   22  "mb_select"         1   1   "Selekcja"
+.\masken\mbtoolb.bmp    10  5   23  "mb_global_select"  1   1   "Selekcja globalna"
+.\masken\mbtoolb.bmp    10  5   24  "mb_reset_select"   1   1   "Rezygnacja z selekcji"
+.\masken\mbtoolb.bmp    10  5   25  "mb_new_record"     1   1   "Nowy rejestr"
+.\masken\mbtoolb.bmp    10  5   26  "mb_change_record"  1   1   "Zmie‰ rejestr"
+.\masken\mbtoolb.bmp    10  5   20  "mb_copy_record"    1   1   "Kopiuj rejestr"
+.\masken\mbtoolb.bmp    10  5   30  "mb_first_record"   1   1   "Pierwszy rejestr"
+.\masken\mbtoolb.bmp    10  5   31  "mb_prev_record"    1   1   "Poprzedni rejestr"
+.\masken\mbtoolb.bmp    10  5   32  "mb_next_record"    1   1   "Nast©pny rejestr"
+.\masken\mbtoolb.bmp    10  5   33  "mb_last_record"    1   1   "Ostatni rejestr"
+.\masken\mbtoolb.bmp    10  5   18  "mb_print"          1   1   "Drukuj"
+END         0   0   0   0       1   1   ""
+
+MB_UPDATE   TOOLBAR 24  24  OEM
+
+.\masken\mbtoolb.bmp    10  5   40  10      1   1   "Zapis"
+"Zapis rejestr¢w einschlie·lich der dyn. SÑtze"
+.\masken\mbtoolb.bmp    10  5   41  "mb_close_dynrecords" 1   0   "dyn. Gruppe Sp."
+.\masken\mbtoolb.bmp    10  5   31  "mb_prev_dynrecord"   1   0   "Poprzedni rejestr dyn."
+.\masken\mbtoolb.bmp    10  5   32  "mb_next_dynrecord"   1   0   "Nast©pny rejestr dyn."
+.\masken\mbtoolb.bmp    10  5   42  "mb_abort_update"     1   1   "Powr¢t"
+END         0   0   0   0       1   1   ""

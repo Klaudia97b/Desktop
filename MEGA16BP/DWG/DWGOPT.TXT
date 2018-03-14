@@ -1,0 +1,17 @@
+CONVDWG [plik.CFG]
+CONVDWG [plik_«r¢dˆowy] [plik_wynikowy] [/O | /I] < ... >
+
+Parametry  Znaczenie
+---------  ---------
+/I         tworzenie pliku PRT
+/O         tworzenie pliku DWG
+/XWERT     punkt odniesienia X
+/YWERT     punkt odniesienia Y
+/W         nadpisanie istniej¥cego pliku
+/BMAK      przej©cie wymiarowania jako BLOK
+/IINCH     DWG-DXF  w pliku «r¢dˆowym jednostk¥ jest CAL (standard mm)
+/OINCH     DWG-DXF  warto˜ci poda† w CALACH
+/BDXF      DXF jako plik binarny
+/A2OEM     Megacad teksty Ansi konwertowa† do tekst¢w Oem
+/O2ANSI    Acad teksty Oem konwertowa† w MegaCADzie do tekst¢w Ansi
+/ACAD12    w formacie ACAD12 (standard ACAD13)

@@ -1,0 +1,142 @@
+; Help Magician Pro CNT File v4.00.000
+:Base Megap.hlp
+:Title 
+1 Das Parametricmodul =CS_161502050024
+  ;*HMKey 161502050024
+1 Neues Im Parametricprogramm
+2 Punkteset Matrix =CS_161502050045
+  ;*HMKey 161502050045
+2 Punkteset Linie =CS_161502050038
+  ;*HMKey 161502050038
+2 Punkteset Kreis =CS_161502050039
+  ;*HMKey 161502050039
+2 Kreisset Matrix =CS_161502050042
+  ;*HMKey 161502050042
+2 Kreisset Linie =CS_161502050044
+  ;*HMKey 161502050044
+2 Kreisset Kreis =CS_161502050043
+  ;*HMKey 161502050043
+2 Konturset Matrix =CS_161502050049
+  ;*HMKey 161502050049
+2 Konturset Linie =CS_161502050041
+  ;*HMKey 161502050041
+2 Makroset Linie =CS_161502050048
+  ;*HMKey 161502050048
+2 Makroset Matrix =CS_161502050047
+  ;*HMKey 161502050047
+2 Makroset Kreis =CS_161502050046
+  ;*HMKey 161502050046
+2 Verteilung eines Liniensets im Dialog =CS_161502050050
+  ;*HMKey 161502050050
+2 Schachteln =CS_161502050040
+  ;*HMKey 161502050040
+2 Parallel Profile =CS_161502050037
+  ;*HMKey 161502050037
+2 Maﬂformeln als Datei automatisch erstellen =CS_161502050051
+  ;*HMKey 161502050051
+2 Darstellung anpassen =CS_161502050036
+  ;*HMKey 161502050036
+2 Parametrischen Bemaﬂungstext editieren =CS_161502050011
+  ;*HMKey 161502050011
+1 Arbeiten mit der Parametric
+2 Grunds‰tzliche Arbeitsweise des Parametricmoduls =CS_161502050031
+  ;*HMKey 161502050031
+2 Arbeiten mit dem Parametricmodul in MegaCAD =CS_161502050001
+  ;*HMKey 161502050001
+2 Parametric beenden und zu MegaCAD zur¸ckkehren =CS_161502050023
+  ;*HMKey 161502050023
+1 Zeichnungsverwaltung
+2 Zeichnungsverwaltung der parametrischen Dateien =CS_161502050002
+  ;*HMKey 161502050002
+2 Zeichnung als Email versenden =CS_161502050052
+  ;*HMKey 161502050052
+1 Bedingungen von Elementen
+2 Linien mit gleicher L‰nge =CS_161502050026
+  ;*HMKey 161502050026
+2 Parallele Linien =CS_161502050027
+  ;*HMKey 161502050027
+2 Parallele Linien mit gleicher L‰nge =CS_161502050028
+  ;*HMKey 161502050028
+2 Drehung von Horizontaler / Vertikaler Linie =CS_161502050003
+  ;*HMKey 161502050003
+2 Symmetrieachsen definieren =CS_161502050007
+  ;*HMKey 161502050007
+2 Elemente mit gleichem Punkt trennen =CS_161502050004
+  ;*HMKey 161502050004
+2 Zusammengehˆrige Punkte definieren =CS_161502050008
+  ;*HMKey 161502050008
+2 Set ‰ndern =CS_161502050035
+  ;*HMKey 161502050035
+2 Finden von Schnittpunkten =CS_161502050029
+  ;*HMKey 161502050029
+2 Bˆgen mit gleichem Radius =CS_161502050030
+  ;*HMKey 161502050030
+2 Finden von tangierenden Elementen =CS_161502050006
+  ;*HMKey 161502050006
+2 Finden von gleichen Konturen =CS_161502050005
+  ;*HMKey 161502050005
+2 Punkteset Kreis =CS_161502050039
+  ;*HMKey 161502050039
+2 Punkteset Linie =CS_161502050038
+  ;*HMKey 161502050038
+2 Punkteset Matrix =CS_161502050045
+  ;*HMKey 161502050045
+2 Kreisset Kreis =CS_161502050043
+  ;*HMKey 161502050043
+2 Kreisset Linie =CS_161502050044
+  ;*HMKey 161502050044
+2 Kreisset Matrix =CS_161502050042
+  ;*HMKey 161502050042
+2 Konturset Matrix =CS_161502050049
+  ;*HMKey 161502050049
+2 Konturset Linie =CS_161502050041
+  ;*HMKey 161502050041
+2 Makroset Matrix =CS_161502050047
+  ;*HMKey 161502050047
+2 Makroset Linie =CS_161502050048
+  ;*HMKey 161502050048
+2 Makroset Kreis =CS_161502050046
+  ;*HMKey 161502050046
+2 Set ‰ndern =CS_161502050035
+  ;*HMKey 161502050035
+2 Verteilung eines Liniensets im Dialog =CS_161502050050
+  ;*HMKey 161502050050
+2 Parallel Profile =CS_161502050037
+  ;*HMKey 161502050037
+2 Schachteln =CS_161502050040
+  ;*HMKey 161502050040
+1 Parametric definieren
+2 Die Optionen zur parametrischen Bemaﬂung =CS_161502050033
+  ;*HMKey 161502050033
+2 Parametrische Zeichnung mit Maﬂen versehen =CS_161502050025
+  ;*HMKey 161502050025
+2 Bemaﬂung aus Skizze automatisch generieren =CS_161502050009
+  ;*HMKey 161502050009
+1 Parametric bearbeiten
+2 Parametrische Bemaﬂungen bearbeiten =CS_161502050012
+  ;*HMKey 161502050012
+2 Parametrischen Bemaﬂungstext editieren =CS_161502050011
+  ;*HMKey 161502050011
+2 Parametrische Programm ver‰ndern =CS_161502050032
+  ;*HMKey 161502050032
+2 Maﬂformeln als Datei automatisch erstellen =CS_161502050051
+  ;*HMKey 161502050051
+2 Bemaﬂen von Teilbereichen in einer Zeichnung untereinander =CS_161502050034
+  ;*HMKey 161502050034
+2 Maﬂtabelle schreiben-ver‰ndern =CS_161502050014
+  ;*HMKey 161502050014
+2 Maﬂe ¸ber Maﬂtabelle verbinden, editieren =CS_161502050013
+  ;*HMKey 161502050013
+2 Darstellung anpassen =CS_161502050036
+  ;*HMKey 161502050036
+2 Anzeige aller Maﬂtexte ‰ndern =CS_161502050010
+  ;*HMKey 161502050010
+2 Skizze durch Punktverschiebung ver‰ndern =CS_161502050015
+  ;*HMKey 161502050015
+1 Optionen
+2 Anzeige von parametrischen Abh‰ngigkeiten =CS_161502050018
+  ;*HMKey 161502050018
+2 Runden/Fasen von Zeichenelementen =CS_161502050016
+  ;*HMKey 161502050016
+2 UNDO/REDO-Parametrik =CS_161502050019
+  ;*HMKey 161502050019

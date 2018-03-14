@@ -1,0 +1,31 @@
+; Help Magician Pro CNT File v4.00.000
+:Base MBWIN.HLP
+:Title Zeichnungsverwaltung
+1 ZV-Inhalt =ZV_Gliederung
+  ;*HMKey 281431520014
+1 Allgemeines zur Zeichnungsverwaltung =Zv1
+  ;*HMKey 281431520001
+1 Arbeiten mit der Zeichnungsverwaltung in MegaCAD =Zv4_2
+  ;*HMKey 281431520015
+1 Zeichnungsverwaltung aufrufen =Zv4
+  ;*HMKey 281431520004
+1 Funktionsumfang =Zv2
+  ;*HMKey 281431520002
+1 Grundsätzliches zur Bedienung =Zv3
+  ;*HMKey 281431520003
+1 Das-Hauptmenü der Zeichnungsverwaltung =Zv7
+  ;*HMKey 281431520007
+1 Der Bildschirmaufbau =Zv5
+  ;*HMKey 281431520005
+1 Hotkey- und Dialogleiste =Zv6
+  ;*HMKey 281431520006
+1 Das Menü Ansicht =Zv10
+  ;*HMKey 281431520010
+1 Das Menü Bearbeiten =Zv8
+  ;*HMKey 281431520008
+1 Das Menü Extras =Zv11
+  ;*HMKey 281431520011
+1 Neu =Zv9
+  ;*HMKey 281431520009
+1 Datensatzeingabe in Aktionsfeldern =Zv13
+  ;*HMKey 281431520013

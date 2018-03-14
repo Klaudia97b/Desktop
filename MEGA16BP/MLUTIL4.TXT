@@ -1,0 +1,187 @@
+/*********************  MLCOPY & MLMOVE *************/
+[MLCOPY]
+Gebrauch : mlcopy [Quellpfad]<name> [Zielpfad]<name> [-s] [-q] [-t] [-v]
+Fehler passiert : %d
+Kann Datei <%s> fÅr die Ausgabe nicht îffnen
+Kann Datei <%s> fÅr die Eingabe nicht îffnen
+Anzahl kopierter Dateien : %d
+Fehler beim Vergleich von %s, Quelle wird nicht gelîscht
+Fehler beim Vergleich von %s
+Fehler beim Kopieren von %-36s zu %-36s
+Gebrauch : mlmove [Quellpfad]<name> [Zielpfad]<name> [-s] [-q] [-t]
+[END]
+/*********************  END MLCOPY & MLMOVE *************/
+
+/*********************  MLSTAT **************************/
+[MLSTAT]
+Gebrauch : mlstat <LIB-Name> [-?] [-f] [-o[p]] [-h]
+Fehler passiert : %d
+  --> Datei - Bibliothek %s  <--
+       LÑnge der Namen : %u
+       'Cluster'-Grî·e : %u
+    EintrÑge pro Block : %u
+           DateilÑnge     :
+           Anzahl Dateien : %u
+           Daten echt     :
+           Daten benutzt  :
+           Leere EintrÑge : %u
+           gelîscht       : %u
+ Bytes fÅr Verzeichnisse  : %lu (%u Blîcke)
+WÅrde komprimiert brauchen :
+        Bei Clustergrî·e  2K -->
+        Bei Clustergrî·e  4K -->
+        Bei Clustergrî·e  8K -->
+        Bei Clustergrî·e 16K -->
+        Bei Clustergrî·e 32K -->
+Lib %s nicht geîffnet
+     Grî·e Hashtabelle : %u
+     Keine Hashtabelle in dieser Bibliothek
+         HashschlÅssel : %u
+            Anzahl Blîcke  : %u
+            Anzahl Dateien : %u
+Blockanzahl der Freispeicherliste : %u
+                  freier Speicher :
+Dateien pro HashschlÅssel max/min : %u / %u
+Optimale Hashtabellengrî·e : %u / %u
+[END]
+/*********************  END MLSTAT **********************/
+
+/*********************  MLDEL ***************************/
+[MLDEL]
+Gebrauch : mldel [Pfad]<Name>
+%d Dateien gelîscht
+Konnte "%s" nicht lîschen
+[END]
+/*********************  END MLDEL ***********************/
+
+/*********************  MLCHMOD  ************************/
+[MLCHMOD]
+Gebrauch : mlchmod [Pfad]<Name> [+/-r] [+/-w]
+Konnte die Attribute fÅr %s nicht Ñndern
+[END]
+/*********************  END MLCHMOD *********************/
+
+/*********************  MLDIR ***************************/
+[MLDIR]
+Gebrauch : mldir [Pfad]<Name>
+%d Dateien gefunden
+[END]
+/*********************  END MLDIR ***********************/
+
+/*********************  MLRESET *************************/
+[MLRESET]
+Gebrauch : mlreset [Pfad]<Name>
+%d Dateien zurÅckgesetzt
+Datei %s nicht geîffnet
+[END]
+/*********************  END MLRESET *********************/
+
+/*********************  MLREORG *************************/
+[MLREORG]
+Gebrauch : mlreorg <Bibliotheksname>
+Fehler in MLCOPY
+<%s> wird reorganisiert . . .
+fertig
+[END]
+/*********************  END MLREORG *********************/
+
+/*********************  MLMKDIR *************************/
+[MLMKDIR]
+Gebrauch : mlmkdir <Bibliotheksname>
+<%s> konnte nicht erzeugt werden
+<%s> erzeugt
+[END]
+/*********************  END MLMKDIR *********************/
+
+/*********************  MTL1to4 *************************/
+[ML1TO4]
+Gebrauch : mtl1to4 [LW:][Startverzeichnis]
+Ohne Angabe wird die gesamte aktuelle Platte durchsucht.
+Fortfahren ? (J/N)
+Alte Bibliothek %s gefunden, umwandeln ? (J/N)
+Abgebrochen
+Verzeichnis :
+Verzeichnis existiert nicht
+[END]
+/*********************  END MTL1to4 *********************/
+
+/*********************  GMTL1TO4*************************/
+[GMTL1TO4]
+Verzeichnis :
+Start
+Ende
+Startverzeichnis
+Umwandlung von Megatech Bibliotheken
+Ja
+Nein
+Alte Bibliothek gefunden !
+Umwandeln ?
+Startverzeichnis existert nicht
+OK
+Bibliothek ist leer, neue leere anlegen ?
+Kann temporÑre Bibliothek nicht erzeugen
+wird jetzt kopiert ...
+wird jetzt verglichen ...
+Fehler beim Schreiben der Datei
+Fehler beim Vergleichen der Dateien
+Konnte alte Bibliothek nicht lîschen
+Konnte temporÑre Bibliothek nicht umbenennen
+Anfangsverzeichnis eingeben:
+[END]
+/*********************  END GMTL1TO4 *******************/
+
+/*********************  WMTL1TO4*************************/
+[WMTL1TO4]
+Verzeichnis :
+Start
+Ende
+Startverzeichnis
+Umwandlung von Megatech Bibliotheken
+Ja
+Nein
+Alte Bibliothek gefunden !
+Umwandeln ?
+Startverzeichnis existert nicht
+OK
+Bibliothek ist leer, neue leere anlegen ?
+Kann temporÑre Bibliothek nicht erzeugen
+wird jetzt kopiert ...
+wird jetzt verglichen ...
+Fehler beim Schreiben der Datei
+Fehler beim Vergleichen der Dateien
+Konnte alte Bibliothek nicht lîschen
+Konnte temporÑre Bibliothek nicht umbenennen
+Abgebrochen
+Startverzeichnis eingeben :
+Bibliothek gefunden !
+Reorganisieren ?
+Reorganisier-tool fÅr Megatech Bibliotheken
+Alte Bibliotheken gefunden :
+Alte Bibliotheken konvertiert :
+Bibliotheken gefunden :
+Bibliotheken reorganisiert :
+Megalib Werkzeuge
+Megalib Werkzeuge
+Bibliotheken konvertieren :
+Konvertiert Megatech Bibliotheken vom alten Format
+(MegaCAD Version 3 und Ñlter) in das neue Format
+(MegaCAD version 4 und spÑter).
+-----------------------------------------------
+Bibliotheken reorganisieren :
+Reorganisiert Megatech Bibliotheken fÅr optimale
+Leistung. Nur Bibliotheken, die ein Reorganisieren
+benîtigen, werden gefunden.
+[END]
+/*********************  END GMTL1TO4 *******************/
+
+/*********************  MLEXTR *************/
+[MLEXTR]
+Gebrauch : mlextr [source-MTL] [dest-MTL]
+Fehler : %d
+Anweisungsdatein <%s> nicht zum Schreiben geîffnet
+Anweisungsdatein <%s> nicht zum Lesen geîffnet
+%d files copied
+<%s> ist keine gÅltige Bibliothek
+<%s> existiert bereits
+[END]
+/*********************  END MLEXTR *************/

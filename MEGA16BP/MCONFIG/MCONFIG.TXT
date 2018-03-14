@@ -1,0 +1,228 @@
+"dd.mm.yy HH:MM"
+"doà•czyÜ do pliku Batch  "
+"podaÜ parametr              "
+"przyporz•dkowaÜ parametr    "
+" podaÜ jednostk© miary      "
+"Menu gà¢wne                 "
+"przyporz•dkowanie klawiszy  "
+"ustalenie pola digitizera       "
+"nadanie nazwy funkcji menu      "
+" formularza digitizera      "
+"aktywizacja pliku HOTKEY    "
+" podanie wartoòci NIC: ###  "
+" klawisze myszy: Lewy- tekst przesun•Ü; Prawy- kasowaÜ"
+" ustaliÜ typ funkcji        "
+" wybranie funkcji           "
+" àadowanie pliku            "
+" zapisanie pliku            "
+" edycja pliku               "
+" edycja rozkaz¢w EXEC       "
+" wydrukowanie pliku         "
+" definiowanie klawiszy      "
+" wyb¢r pliku MENU           "
+" parametry makro            "
+" Nazwa zbioru gor•cych klawiszy  "
+" Nazwa zbioru CDL digitizera     "
+" Nazwa zbioru spoolera drukarki  "
+" plik makro jako parametr ?      "
+" wyr¢æniÜ wybrane makro          "
+" plik .PRT jako parametr ?       "
+" plik .CDL jako parametr ?       "
+" plik HPGL jako parametr ?       "
+" plik tekstowy jako parametr ?   "
+" Nazwa       "
+" dygitizer "
+" klawiatura"
+" menu      "
+" batch     "
+" dane      "
+" wyniki    "
+" -wartoòci "
+" -pliki "
+" nazwa funkcji "
+" plik .CIP jako parametr ?       "
+" plik .DLL jako parametr ?       "
+" argumenty         "
+" 1-szy plik  (CopyFile)          "
+" 2-gi plik  (CopyFile)           "
+" Drukarka nie gotowa             "
+" -maski nie mog© otworzyÜ        "
+" plik z danymi jest uszkodzony   "
+" brak wejòcia (plik index bà©dny)"
+" plik bà©dny lub uszkodzony      "
+" plik nie istnieje               "
+" nie da si© otworzyÜ pliku       "
+" nie da si© wczytaÜ pliku        "
+" wybraÜ inny plik ?              "
+" Taki plik juæ istnieje          "
+" nadpisaÜ ?                      "
+" æaden plik nie zostaà wczytany  "
+" funkcja nie moæe byÜ wybrana    "
+" funkcja nie implementowana      "
+" lista parametr¢w za dàuga       "
+" tylko 1 makro moæe byÜ parametr."
+" brak parametru wprowadzaj•cego ?"
+" Klawisz (kombinacja) niedost©pny"
+" NadpisaÜ ustawienia MegaCAD`a ? "
+" pole nie znalezione             "
+" dwukropek niedozwolony          "
+" nazwa rozkazu nie wybrana       "
+" redefiniowaÜ obszar myszy?      "
+" obszar myszy nie ustawiony      "
+" zachowaÜ istniej•ce definicje ? "
+" niewàaòciwe zbi¢r digitizera    "
+" nie mam nic do zapisania        "
+" obszar nachodzi na pole myszy   "
+" obszar nachodzi na inne pola    "
+" nieprawidàowy prostok•t         "
+" za duæo p¢l                     "
+" pola nie moæna r¢wno podzieliÜ  "
+" mimo wszystko podzieliÜ ?       "
+" obszar juæ zaznaczony           "
+" siatka nie kryje wszystkich p¢l "
+"   Brak sterownika myszy !!!     "
+"   Bà•d zapisu !!!               "
+" niedost©pne funkcje OPCJA       "
+" Nie mog© uruchomiÜ tego programu"
+" przerwanie programu:"
+" bà•d wprowadzenia            "
+" brak miejsca w pami©ci       "
+" plik maski  "
+" plik inicjalizuj•cy   "
+" plik danych  "
+" chwilowy plik roboczy  "
+" z bà©dami !    "
+" nie da si© otworzyÜ!"
+" nie daje si© zapisaÜ !       "
+"  Zako‰czyÜ program   ???     "
+" Opcja   "
+"  Status "
+" naciònij klawisz      "
+" Wybierz funkcj©     "
+" edycja przed EXEC ?       "
+" przerwa po EXEC ?         "
+" pozostaÜ w 'grafice' ?    "
+" aplikacja WINDOWS ?       "
+" kompletne menu   "
+" rozkaz :         "
+" format      "
+" mysz        "
+" pole        "
+" podziaà     "
+" kasuj 1     "
+" kasuj 2     "
+" przerysuj   "
+" CDL         "
+" Wczytanie   "
+" nowy        "
+" Edycja      "
+" wprowadziÜ :"
+" Plik Batch  "
+" funkcje MegaCADa   "
+" menu-WùASNE "
+" DOS-menu    "
+" inne menu-pliki    "
+" Tw¢rz-Zmie‰ "
+" rysowanie   "
+" powr¢t      "
+" funkcja     "
+"n = ?  : "
+"m = ?  : "
+"za dàugie"
+" bà©dne     "
+"zaj©te    "
+" ----> "
+" <---- "
+"caàoòÜ"
+"wolne  "
+"klawisz"
+"zdanie "
+" nie "
+"punkt"
+""
+" MCONFIG: Konfiguracja MegaCAD'a"
+" MCONFIG "
+" Wersja 14.8PL "
+" 'CAD PO POLSKU'   "
+".*"
+" >>  "
+" wszystkie funkcje     "
+" funkcje ZOOM          "
+" funkcje EDIT          "
+" funkcje TEKST         "
+" OPCJE punkty          "
+" funkcje K§T           "
+" funkcje LINIA         "
+" funkcje PUNKT         "
+" funkcje OKR§G         "
+" funkcje ùUK           "
+" funkcje MAPA BITOWA   "
+" funkcje PRZEù§CZ      "
+" funkcje ELIPSA        "
+" funkcje MAKRO         "
+" funkcje RYSUNEK       "
+" funkcje WYMIARY       "
+" funkcje INFO          "
+" OPCJE element         "
+" funkcje MENU Gù‡WNE   "
+" funkcje STAùE         "
+" funkcje CDL           "
+" pasek g¢rny           "
+" funkcje SPECJALNE     "
+" funkcje BRYùY         "
+" funkcje WINDOWS       "
+" SPIS funkcji          "
+" funkcje OPCJE         "
+" funkcje ARGUMENT      "
+" tworzenie ELEMENT‡W   "
+" tworzenie POLILINII   "
+" EXEC                  "
+" BATCH                 "
+" INPUT                 "
+" funkcja 'PushFunc'    "
+" wyb¢r funkcji         "
+" Temat:  "
+" Siatka      ",                        // modus_string
+" zapami©taÜ ?    ",                    // janei_string
+" nie otwarty !   ",
+" Powt¢rzyÜ pr¢b© ?            ",       // frage_string
+" Makro ok ?                   ",
+" Pan-Zoom    ",                        // funcs_string
+" Makro       ",
+" Rysunek     ",
+" Nowy        ",
+" Nowy rys.   ",
+" Doà•czenie  ",
+" Kasowanie   ",
+" Zapisanie   ",
+" Wycinanie   ",
+" Wydruk      ",
+" Zarz•dzanie ",
+" SieÜ        ",
+" Wszystkie   ",
+" Datei einfg.",
+"Szukany tekst",
+"Zast•piÜ :   ",
+" Nazwa :     ",
+" Polilinia   ",
+" K•t    :",                            // value_string
+" Faktor :",
+" x-wart.:",
+" y-wart.:",
+"   tak   ",
+"   nie   ",
+" Zast•piÜ",
+" Szukaj  ",
+" Linia : ",
+" POWR‡T  ",
+" Obr¢t makro     ",                    // buttn_string
+" Zmiana wielkoòci",
+"  Siatka linii   ",
+" ZapisaÜ jako    ",
+"Na pewno przerwaÜ ?  ",                // confg_string
+"Zast•piÜ tekst ?     ",
+"Tekst jest za dàugi! ",
+"Rozkaz przerwany !!! ",
+"Undo ",                                // einfo_string
+" ok  ",
+

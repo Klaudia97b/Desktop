@@ -1,0 +1,14 @@
+wml1to4 MENU
+
+BEGIN
+    POPUP "&Funktionen"
+    BEGIN
+        MENUITEM "MTL &Konvertieren",   100
+        MENUITEM "MTL &Reorganisieren", 101
+        MENUITEM "&Ende",               9997
+    END
+    POPUP "Hilfe"
+    BEGIN
+        MENUITEM "&šber", 200
+    END
+END

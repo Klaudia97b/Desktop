@@ -1,0 +1,144 @@
+MegpMenu MENU
+BEGIN
+  POPUP "&Pliki"
+    BEGIN
+      POPUP "Pliki &MegaCADa"
+        BEGIN
+          MENUITEM "Katalogi &rysunk¢w"       ,334
+          MENUITEM "&Kasowanie rysunk¢w"      ,341
+          MENUITEM SEPARATOR
+          MENUITEM "&Nowy rys."               ,345
+          MENUITEM "&Wczytanie"               ,336
+          MENUITEM "&Import rysunku"          ,337
+          MENUITEM "&Zapisanie"               ,338
+          MENUITEM "Zapis &jako"              ,339
+          MENUITEM "&Wycinanie"               ,343
+          MENUITEM "W&yr¢ænienie"             ,335
+          MENUITEM SEPARATOR
+          MENUITEM "&1"                       ,348
+          MENUITEM "&2"                       ,349
+          MENUITEM "&3"                       ,350
+          MENUITEM "&4"                       ,351
+        END
+      MENUITEM SEPARATOR
+      POPUP "Pliki &parametryzowane"
+        BEGIN
+          MENUITEM "&Katalogi plik¢w"         ,680
+          MENUITEM "Kasowanie &plik¢w"        ,687
+          MENUITEM SEPARATOR
+          MENUITEM "&Nowy"                    ,691
+          MENUITEM "Wczytanie"                ,682
+          MENUITEM "&Doà•czenie"              ,683
+          MENUITEM "&Zapisanie"               ,684
+          MENUITEM "Zapisanie &jako"          ,685
+          MENUITEM "&Wycinanie"               ,689
+          MENUITEM "W&yr¢ænienie"             ,681
+          MENUITEM SEPARATOR
+          MENUITEM "&1"                       ,694
+          MENUITEM "&2"                       ,695
+          MENUITEM "&3"                       ,696
+          MENUITEM "&4"                       ,697
+        END
+      MENUITEM SEPARATOR
+      MENUITEM "&Wydruk"                      ,342
+      MENUITEM "Druk-&Setup"                  ,515
+      MENUITEM SEPARATOR
+      MENUITEM "D&OS"                         ,344
+      MENUITEM SEPARATOR
+      MENUITEM "&Koniec"                      ,9997
+    END
+    POPUP "&Makro"
+    BEGIN
+        MENUITEM "&Zarz•dzanie"                 ,313
+        MENUITEM SEPARATOR
+        MENUITEM "&Doà•czenie"                  ,316
+        MENUITEM "Wy&cinanie"                   ,322
+        MENUITEM "W&yr¢ænienie"                 ,314
+        MENUITEM SEPARATOR
+
+    END
+    POPUP "&Konstr."
+    BEGIN
+        MENUITEM "MENU IKONOWE &LINII.."        ,167
+        MENUITEM "MENU IKONOWE &OKR®G‡W.."      ,201
+        MENUITEM "MENU IKONOWE ù&UK‡W.."        ,226
+        MENUITEM "MENU IKONOWE &WYMIAROWANIA"   ,280
+    END
+    POPUP "&R¢wnoòci"
+    BEGIN
+        MENUITEM "Elementy st&yczne       "     ,700
+        MENUITEM "Punkty &przeci©cia      "     ,701
+        MENUITEM "R¢wna &dàugoòÜ          "     ,702
+        MENUITEM "&R¢wnolegàoòÜ i dàugoòÜ "     ,703
+        MENUITEM "Taki sam &promie‰       "     ,704
+        MENUITEM "Taki sam p&unkt         "     ,707
+        MENUITEM "Nie wsp¢lny pu&nkt      "     ,708
+        MENUITEM "&bez pion./poziom.      "     ,709
+        MENUITEM "Punkty-&Szablonu        "     ,711
+    END
+    POPUP "&Zoom"
+    BEGIN
+        MENUITEM "Zmniej&sz  {h}"               , 12
+        MENUITEM "Powi©ks&z"                    , 11
+        MENUITEM "C&aày rysunek {a}"            , 13
+        MENUITEM "Skala &1:1 {0}"               , 15
+        MENUITEM "W&ycinek {w}"                 , 16
+        MENUITEM "Poprzedn&i "                  , 29
+        MENUITEM SEPARATOR
+        MENUITEM "&Przesuni©cie {P}"            , 17
+        MENUITEM SEPARATOR
+        MENUITEM "W&yczyòÜ {r}"                 , 18
+        MENUITEM SEPARATOR
+        MENUITEM "&Konfiguracja"                , 20
+    END
+    POPUP "&Funkcje"
+    BEGIN
+        MENUITEM "&Kasowanie"                   , 78
+        MENUITEM "&Layer"                       ,490
+        MENUITEM "&Grupa"                       ,491
+        MENUITEM "Edytor &tekstu"               ,274
+        MENUITEM SEPARATOR
+        MENUITEM "&Fang-Modus"                  ,447
+        MENUITEM SEPARATOR
+        MENUITEM "&Wahl-Modus"                  ,447
+        MENUITEM SEPARATOR
+        MENUITEM "&HauptmenÅ"                   ,447
+        MENUITEM SEPARATOR
+        MENUITEM "Inter&preter"                 ,441
+        MENUITEM "Doà•czenie makra"             ,4000
+        MENUITEM SEPARATOR
+
+        MENUITEM "Element - Inf&o"              ,516
+        MENUITEM SEPARATOR
+    END
+    POPUP "&Konfiguracja"
+    BEGIN
+        MENUITEM "Konfiguracja &siatki"         ,492
+        MENUITEM SEPARATOR
+        MENUITEM "Zapisanie &ustawienia"        ,503
+        MENUITEM SEPARATOR
+        MENUITEM "Konfiguracja &programu"       ,508
+        MENUITEM "Konfiguracja &ekranu"         ,509
+        MENUITEM SEPARATOR
+    POPUP "Konfiguracja tekstu"
+    BEGIN
+        MENUITEM "Konfiguracja tekstu"          ,270
+    END
+        MENUITEM SEPARATOR
+        MENUITEM "Konfiguracja wymiarowania"    ,307
+        MENUITEM SEPARATOR
+        MENUITEM "Ustawianie gruboòci linii"    ,512
+        MENUITEM SEPARATOR
+
+        MENUITEM "Zarz•dzanie menu ikonowymi"   ,513
+        MENUITEM "Tworzenie i ustawianie ikon"  ,517
+    END
+    POPUP    "&Schowek"
+    BEGIN
+    END
+    POPUP    "&?"
+    BEGIN
+        MENUITEM "&Help..."                     ,450
+        MENUITEM "&Info..."                     ,449
+    END
+END

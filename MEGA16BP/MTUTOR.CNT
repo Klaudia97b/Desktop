@@ -1,0 +1,62 @@
+; Help Magician Pro CNT File v4.00.000
+:Base MTUTOR.HLP
+:Title 
+1 Grundlagen
+2 Einleitung =Einleitung
+  ;*HMKey 
+2 Vorkenntnisse =Vorkenntnisse
+  ;*HMKey 
+2 Allgemeines =Allgemeines
+  ;*HMKey 
+1 Bedienung
+2 Grundlagen der Bedienung =Grundlagen
+  ;*HMKey 
+2 Fenster =Fenster
+  ;*HMKey 
+2 Hauptmenü =Hauptmen_
+  ;*HMKey 
+2 Modus-Menü =ModusMMen_
+  ;*HMKey 
+2 Koordinaten =Koordinaten
+  ;*HMKey 
+2 Anzeigebereich =Anzeigebereich
+  ;*HMKey 
+2 Die Zeichenfläche =Zeichenflaeche
+  ;*HMKey 
+2 Zeichnungsobjekte =Zeichnungsobjekte
+  ;*HMKey 
+2 Taschenrechner =Taschenrechner
+  ;*HMKey 
+2 Attribute
+3 Attributbestimmung =Attributbestimmung
+  ;*HMKey 
+3 Farbe setzen =Farbe_setzen
+  ;*HMKey 
+3 Attribute direkt setzen =Attribute_direkt_setzen
+  ;*HMKey 
+2 2D und 3D
+3 Erste Schritte mit MegaCAD 3D =Erste_Schritte
+  ;*HMKey 
+3 3D und 2D in MegaCAD 3D =3D_und_2D_
+  ;*HMKey 
+3 Grundlagen der 3D-Konstruktion =CS_151758480318
+  ;*HMKey 151758480318
+1 Übungslektionen
+2 Lernschritt 1 =Lernschritt_1
+  ;*HMKey 
+2 Lernschritt 2 =Lernschritt_2
+  ;*HMKey 
+2 Lernschritt 3 =Lernschritt_3
+  ;*HMKey 
+2 Lernschritt 4 =Lernschritt_4
+  ;*HMKey 
+2 Lernschritt 5 =Lernschritt_5
+  ;*HMKey 
+2 Lernschritt 6 =Lernschritt_6
+  ;*HMKey 
+2 Lernschritt 7 =Lernschritt_7
+  ;*HMKey 
+2 Lernschritt 8 =Lernschritt_8
+  ;*HMKey 151758480026
+2 Zusammenfassung =Zusammenfassung
+  ;*HMKey 

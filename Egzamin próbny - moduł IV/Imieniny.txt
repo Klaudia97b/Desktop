@@ -1,0 +1,188 @@
+	Lista znajomych rodziców i dzieci						
+							
+	Imiê	Nazwisko	Rok urodzenia	Kod Pocztowy	Pokrewieñstwo	Telefon	Imieniny
+17	Agnieszka	Æwiartka	1999		kole¿anka		
+10	Magdalena	B³aszczykowska	1999		kole¿anka		
+21	Marcin	Jaskó³a	1998		kolega	548652245	
+33	S³awomir	Gargamel	1994				
+14	Monika	Burnejko	1993		kole¿anka		
+18	Agnieszka	Cymba³	1979		teœciowa	914621925	
+13	Jerzy 	Burak	1975				
+6	Joanna	Biodro	1971				23-05
+15	Krystyna	Czapka	1968		kuzynka		
+36	Piotr	Glan	1962				
+4	Krzysztof	Baku³a	1961				
+24	Katarzyna	Dalej	1957				
+12	Alicja	Bo¿êcka	1956				
+2	Maciej	Amburak	1956				
+30	Aneta	Dowgia³lo	1955				
+27	Agnieszka	Drzyma³a	1954		wujek	914582684	
+35	Katarzyna	Glazura	1952		ciocia		
+42	Jacek	Garbowski	1952				
+29	Bartosz	Durkowski	1950				
+28	Maciej	Duchowny	1950				
+40	Maciej	Goral	1949				
+3	Gra¿yna	Badowska	1949		kole¿anka mamy		25-04
+38	El¿bieta	Go³¹b	1948				
+31	Jakub	Parali¿	1945				
+5	Magdalena	Bocian	1945		kole¿anka mamy		
+25	Dariusz	D¹browski	1941				
+1	Cecylia	Adamkiewicz	1941		kole¿anka mamy		12-03
+41	Pawe³	Grosz	1938				
+39	Magdalena	Goguœ	1937				
+8	Kamil	Buczyñski	1936				
+7	Alicja	Bieda	1936		babcia		
+26	Pawe³	Domañski	1935				
+37	Marcin	Go³asiñski	1933				
+9	Agnieszka	Bu³ka	1933	70-880	babcia	914528398	14-06
+19	Bart³omiej	Kasprowicz	1931				
+44	Arkadiusz	Guzik	1931				
+32	Rafa³	Fircyk	1930				
+22	Danuta	Drêtwa	1930				
+23	Karina	D¹bek	1929				
+45	Grzegorz	Gwiazda	1927				
+43	Michalina	Grypa	1925				
+34	Beata	Gamoñ	1925				
+20	Boles³aw	Œmia³y	1923				
+16	Marcin	Ciurak	1920				
+11	Micha³	Bomba	1920		dziadek	914621923	
+46	Kinga	Idzikowska	1929				
+47	Przemys³aw	Iwanow	1925				
+48	Agnieszka	Jaca	1954				
+49	Rafa³	Jakubowski	1940				
+50	Katarzyna	Jaroszenko	1958				
+51	Dominika	Jezierska	1930				
+52	Pawe³	Jurkiewicz	1922				
+53	Grzegorz	Jurczyk	1941				
+54	Adam	Kalarepa	1992		kolega		
+55	Milena	Kalafior	1996		kole¿anka		
+56	Tomasz	Kapusta	1937				
+57	Anna	Kicia	1924				
+58	Kamil	Kisiel	1954				
+59	Marcin	Kozie³	1990		kolega		
+60	Marta	Klechacka	1994		kole¿anka		
+61	Ma³gorzata	Klimekiewicz	1996		kole¿anka		
+62	Katarzyna	Kurowska	1991		kole¿anka		
+63	Pawe³	Kowal	1947		szwagier	478563215	10-01
+64	Monika	Kowal	1922		szwagierka	731458785	9-03
+65	Sylwester	Kowal	1944		stryjek	731085421	17-06
+66	Renata	Kosztel	1921				
+67	Micha³	Kwaœniewski	1935				
+68	Marcin	Kwiatek	1934				
+69	Dominika	Lasko	1927				
+70	Piotr	Laspargis	1953				
+71	Miko³aj	Laskulas	1945				
+72	Marcin	Lipski	1955				
+73	Micha³	Magnuszak	1939				
+74	Agnieszka	Makolak	1924				
+75	£ukasz	Marciniak	1962				
+76	Piotr	Majakowski	1938				
+77	Micha³	Marks	1998				
+78	Jagoda	Marudny	1994				
+79	Genowefa	Mazgaj	1967				
+80	Zofia	Mazurek	1942				
+81	Piotr	Mierzwa	1922				
+82	Maciej	Milewski	1941				
+83	Karol	Miller	1946				
+84	Agnieszka	Mistal	1946				
+85	Jolanta	Miziñska	1947				
+86	Witold	Mokata	1943				
+87	Elwira	Nagietek	1928				
+88	Konrad	Nalepa	1949				
+89	Renata	Niewiadomy	1928				
+90	Piotr	Oleksy	1997				
+91	Witold	Oleksy	1947				
+92	Agnieszka	Opaliñska	1935				
+93	Bartosz	Ornasta	1934				
+94	Grzegorz	Osiñski	1940				
+95	Pawe³	Pazdro	1937				
+96	Marlena	Pi¹tkowska	1934				
+97	Katarzyna	Piêta	1961				
+98	Katarzyna	Piotrowska	1929				
+99	Aneta	Pryzmat	1956				
+100	Marta	Przyborowska	1953				
+101	Aneta	Raczyñska	1937				
+102	Dariusz	Radwiñski	1978				
+103	Krzysztof	Radwañ	1922				
+104	Andrzej	Radomska	1929				
+105	Katarzyna	Rad³o	1967				
+106	Maciej	Ró¿no	1964				
+107	Konrad	Ryjewski	1925				
+108	£ukasz	Sankowski	1944				
+109	Katarzyna	Spa³a	1924				
+110	August	Skamlewski	1958				
+111	Katarzyna	Sobieraj	1925				
+112	Marcin	Stawlok	1933				
+113	Zbigniew	Studziñski	1957				
+114	Agnieszka	Szafranek	1943				
+115	Artur	Szczepaniak	1934				
+116	Marcin	Szlenda	1930				
+117	Micha³	Szop	1933				
+118	Kinga	Szume³dowski	1929				
+119	Joanna	Szupa	1949				
+120	Grzegorz	Œcis³os³owski	1976				
+121	Adam 	Œliwa	1976				
+122	Robert	Tapir	1926				
+123	Marek	Tarczyñski	1976				
+124	Anna	Tarnowska	1927				
+125	Sylwiusz	Topolski	1931				
+126	Adam	To³stoj	1932				
+127	Kacper	Walczyk	1940				
+128	Mariusz	Walczewski	1977				
+129	Filip	Warcab	1958				
+130	Przemys³aw	Wasilewski	1965				
+131	Ma³gorzata	Wasiak	1949				
+132	Jakub	Wid³y	1973				
+133	Adrian	Winiarz	1968				
+134	Marzena	W³óczka	1938				
+135	Hubert	W³odarczyk	1948				
+136	Anna	Wojtal	1935				
+137	Justyna	WoŸniak	1976				
+138	Izabela	Wójcicki	1954				
+139	Wojciech	Zachomer	1944				
+140	Micha³	Zaj¹czkowski	1931				
+141	Jakub	Zarembina	1976				
+142	Weronika	Zarycka	1947				
+143	Maciej	Zawieja	1949				
+144	Tadeusz	Zwierz	1953				
+145	Iwona	Zwola	1955		stryjna	756325416	24-06
+							
+							
+							
+	Zamieszczone powy¿ej dane osobowe s¹ przypadkowe i nie dotycz¹ konkretnych osób.						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
